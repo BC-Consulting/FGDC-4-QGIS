@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="50.00" height="50.00" viewBox="0 0 50.00 50.00">
+	<metadata id="metadata2">
+		<rdf:RDF>
+			<ns:item rdf:ID="biblio1">
+				<ns:link>rdf:resource=&quot;http://pubs.usgs.gov/tm/2006/11A02/</ns:link>
+				<ns:title>U.S. Geological Survey, 2006, FGDC Digital Cartographic Standard for Geologic Map Symbolization (PostScript Implementation): U.S. Geological Survey Techniques and Methods 11-A2</ns:title>
+			</ns:item>
+			<ns:item rdf:ID="biblio2">
+				<ns:link>https://davenquinn.com/projects/geologic-patterns/</ns:link>
+				<ns:title>FGDC Geologic Patterns for the Web</ns:title>
+			</ns:item>
+			<rdf:Description>
+				<dc:description>
+					Converted from 'FGDC Geologic Patterns for the Web' to QGIS compatible svg symbols, with customisable fill colour/stroke colour/stroke width (when appropriate).
+					SVG scaled to 50x50 pixels so that base outline-width is 0.387 px and width is 90 in the QGIS xml definition file. 
+					Some of the original FGDC symbols have been omitted from this set because they can be generated from other symbols using the 'texture width' and/or 'stroke width' fields in QGIS symbology form.
+				</dc:description>
+				<dc:date>01 MARCH 2019</dc:date>
+				<dc:creator>GeoProc.com</dc:creator>
+				<dc:publisher rdf:resource="https://github.com/BC-Consulting/QGIS-FGDC-Fill" />
+			</rdf:Description>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:title>FGDC fill symbol: Lithology - Metamorphism, Igneous and vein - 711 Tuffaceous Rock</dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path style="fill:none;stroke:none;stroke-width:0;" id="rect1500" width="50.00" height="50.00" x="0.0" y="0.0" />
+	<g style="fill:none;" stroke="param(outline) #000" stroke-width="param(outline-width) 0.387">
+		<polyline points="8.0249998395,4.9956552335 6.734782474,7.0695682355 6.734782474,8.5282638585" id="polyline5" />
+		<line x1="6.7347827" y1="7.0695682" x2="5.4434781" y2="4.9956541" id="line7" />
+		<polyline points="16.3815214115,4.9956552335 15.0902170895,7.0695682355 15.0902170895,8.5282638585" id="polyline9" />
+		<line x1="15.090218" y1="7.0695682" x2="13.8" y2="4.9956541" id="line11" />
+		<polyline points="24.6010864645,4.9956552335 23.310869099,7.0695682355 23.310869099,8.5282638585" id="polyline13" />
+		<line x1="23.310867" y1="7.0695682" x2="22.019564" y2="4.9956541" id="line15" />
+		<polyline points="32.889129777,4.9956552335 31.5989124115,7.0695682355 31.5989124115,8.5282638585" id="polyline17" />
+		<line x1="31.598911" y1="7.0695682" x2="30.307608" y2="4.9956541" id="line19" />
+		<polyline points="41.245651349,4.9956552335 39.954347027,7.0695682355 39.954347027,8.5282638585" id="polyline21" />
+		<line x1="39.954346" y1="7.0695682" x2="38.664127" y2="4.9956541" id="line23" />
+		<polyline points="49.669564224,4.9956552335 48.378259902,7.0695682355 48.378259902,8.5282638585" id="polyline25" />
+		<line x1="48.378258" y1="7.0695682" x2="47.088043" y2="4.9956541" id="line27" />
+		<polyline points="45.389129527,16.3043506595 44.0989121615,14.229350701 44.0989121615,12.7717420345" id="polyline29" />
+		<line x1="44.098911" y1="14.229352" x2="42.807606" y2="16.304348" id="line31" />
+		<polyline points="36.965216652,16.3043506595 35.6749992865,14.229350701 35.6749992865,12.7717420345" id="polyline33" />
+		<line x1="35.674999" y1="14.229352" x2="34.383694" y2="16.304348" id="line35" />
+		<polyline points="28.6097820365,16.3043506595 27.3184777145,14.229350701 27.3184777145,12.7717420345" id="polyline37" />
+		<line x1="27.318478" y1="14.229352" x2="26.028259" y2="16.304348" id="line39" />
+		<polyline points="20.321738724,16.3043506595 19.030434402,14.229350701 19.030434402,12.7717420345" id="polyline41" />
+		<line x1="19.030434" y1="14.229352" x2="17.740215" y2="16.304348" id="line43" />
+		<polyline points="12.1010867145,16.3043506595 10.810869349,14.229350701 10.810869349,12.7717420345" id="polyline45" />
+		<line x1="10.810869" y1="14.229352" x2="9.5195656" y2="16.304348" id="line47" />
+		<polyline points="3.745652099,16.3043506595 2.454347777,14.229350701 2.454347777,12.7717420345" id="polyline49" />
+		<line x1="2.4543476" y1="14.229352" x2="1.1641306" y2="16.304348" id="line51" />
+		<polyline points="8.0249998395,21.7978288105 6.734782474,23.8717418125 6.734782474,25.3304374355" id="polyline53" />
+		<line x1="6.7347827" y1="23.871742" x2="5.4434781" y2="21.797829" id="line55" />
+		<polyline points="16.3815214115,21.7978288105 15.0902170895,23.8717418125 15.0902170895,25.3304374355" id="polyline57" />
+		<line x1="15.090218" y1="23.871742" x2="13.8" y2="21.797829" id="line59" />
+		<polyline points="24.6010864645,21.7978288105 23.310869099,23.8717418125 23.310869099,25.3304374355" id="polyline61" />
+		<line x1="23.310867" y1="23.871742" x2="22.019564" y2="21.797829" id="line63" />
+		<polyline points="32.889129777,21.7978288105 31.5989124115,23.8717418125 31.5989124115,25.3304374355" id="polyline65" />
+		<line x1="31.598911" y1="23.871742" x2="30.307608" y2="21.797829" id="line67" />
+		<polyline points="41.245651349,21.7978288105 39.954347027,23.8717418125 39.954347027,25.3304374355" id="polyline69" />
+		<line x1="39.954346" y1="23.871742" x2="38.664127" y2="21.797829" id="line71" />
+		<polyline points="49.669564224,21.7978288105 48.378259902,23.8717418125 48.378259902,25.3304374355" id="polyline73" />
+		<line x1="48.378258" y1="23.871742" x2="47.088043" y2="21.797829" id="line75" />
+		<polyline points="45.389129527,33.08369815 44.0989121615,31.009785148 44.0989121615,29.551089525" id="polyline77" />
+		<line x1="44.098911" y1="31.009785" x2="42.807606" y2="33.083698" id="line79" />
+		<polyline points="36.965216652,33.08369815 35.6749992865,31.009785148 35.6749992865,29.551089525" id="polyline81" />
+		<line x1="35.674999" y1="31.009785" x2="34.383694" y2="33.083698" id="line83" />
+		<polyline points="28.6097820365,33.08369815 27.3184777145,31.009785148 27.3184777145,29.551089525" id="polyline85" />
+		<line x1="27.318478" y1="31.009785" x2="26.028259" y2="33.083698" id="line87" />
+		<polyline points="20.321738724,33.08369815 19.030434402,31.009785148 19.030434402,29.551089525" id="polyline89" />
+		<line x1="19.030434" y1="31.009785" x2="17.740215" y2="33.083698" id="line91" />
+		<polyline points="12.1010867145,33.08369815 10.810869349,31.009785148 10.810869349,29.551089525" id="polyline93" />
+		<line x1="10.810869" y1="31.009785" x2="9.5195656" y2="33.083698" id="line95" />
+		<polyline points="3.745652099,33.08369815 2.454347777,31.009785148 2.454347777,29.551089525" id="polyline97" />
+		<line x1="2.4543476" y1="31.009785" x2="1.1641306" y2="33.083698" id="line99" />
+		<polyline points="8.0249998395,38.464132825 6.734782474,40.5391327835 6.734782474,41.99674145" id="polyline101" />
+		<line x1="6.7347827" y1="40.539131" x2="5.4434781" y2="38.464134" id="line103" />
+		<polyline points="16.3815214115,38.464132825 15.0902170895,40.5391327835 15.0902170895,41.99674145" id="polyline105" />
+		<line x1="15.090218" y1="40.539131" x2="13.8" y2="38.464134" id="line107" />
+		<polyline points="24.6010864645,38.464132825 23.310869099,40.5391327835 23.310869099,41.99674145" id="polyline109" />
+		<line x1="23.310867" y1="40.539131" x2="22.019564" y2="38.464134" id="line111" />
+		<polyline points="32.889129777,38.464132825 31.5989124115,40.5391327835 31.5989124115,41.99674145" id="polyline113" />
+		<line x1="31.598911" y1="40.539131" x2="30.307608" y2="38.464134" id="line115" />
+		<polyline points="41.245651349,38.464132825 39.954347027,40.5391327835 39.954347027,41.99674145" id="polyline117" />
+		<line x1="39.954346" y1="40.539131" x2="38.664127" y2="38.464134" id="line119" />
+		<polyline points="49.669564224,38.464132825 48.378259902,40.5391327835 48.378259902,41.99674145" id="polyline121" />
+		<line x1="48.378258" y1="40.539131" x2="47.088043" y2="38.464134" id="line123" />
+		<polyline points="45.389129527,49.7141326 44.0989121615,47.640219598 44.0989121615,46.181523975" id="polyline125" />
+		<line x1="44.098911" y1="47.640221" x2="42.807606" y2="49.714134" id="line127" />
+		<polyline points="36.965216652,49.7141326 35.6749992865,47.640219598 35.6749992865,46.181523975" id="polyline129" />
+		<line x1="35.674999" y1="47.640221" x2="34.383694" y2="49.714134" id="line131" />
+		<polyline points="28.6097820365,49.7141326 27.3184777145,47.640219598 27.3184777145,46.181523975" id="polyline133" />
+		<line x1="27.318478" y1="47.640221" x2="26.028259" y2="49.714134" id="line135" />
+		<polyline points="20.321738724,49.7141326 19.030434402,47.640219598 19.030434402,46.181523975" id="polyline137" />
+		<line x1="19.030434" y1="47.640221" x2="17.740215" y2="49.714134" id="line139" />
+		<polyline points="12.1010867145,49.7141326 10.810869349,47.640219598 10.810869349,46.181523975" id="polyline141" />
+		<line x1="10.810869" y1="47.640221" x2="9.5195656" y2="49.714134" id="line143" />
+		<polyline points="3.745652099,49.7141326 2.454347777,47.640219598 2.454347777,46.181523975" id="polyline145" />
+		<line x1="2.4543476" y1="47.640221" x2="1.1641306" y2="49.714134" id="line147" />
+	</g>
+</svg>

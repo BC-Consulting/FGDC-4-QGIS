@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="50.00" height="50.00" viewBox="0 0 50.00 50.00">
+	<metadata id="metadata2">
+		<rdf:RDF>
+			<ns:item rdf:ID="biblio1">
+				<ns:link>rdf:resource=&quot;http://pubs.usgs.gov/tm/2006/11A02/</ns:link>
+				<ns:title>U.S. Geological Survey, 2006, FGDC Digital Cartographic Standard for Geologic Map Symbolization (PostScript Implementation): U.S. Geological Survey Techniques and Methods 11-A2</ns:title>
+			</ns:item>
+			<ns:item rdf:ID="biblio2">
+				<ns:link>https://davenquinn.com/projects/geologic-patterns/</ns:link>
+				<ns:title>FGDC Geologic Patterns for the Web</ns:title>
+			</ns:item>
+			<rdf:Description>
+				<dc:description>
+					Converted from 'FGDC Geologic Patterns for the Web' to QGIS compatible svg symbols, with customisable fill colour/stroke colour/stroke width (when appropriate).
+					SVG scaled to 50x50 pixels so that base outline-width is 0.387 px and width is 90 in the QGIS xml definition file. 
+					Some of the original FGDC symbols have been omitted from this set because they can be generated from other symbols using the 'texture width' and/or 'stroke width' fields in QGIS symbology form.
+				</dc:description>
+				<dc:date>01 MARCH 2019</dc:date>
+				<dc:creator>GeoProc.com</dc:creator>
+				<dc:publisher rdf:resource="https://github.com/BC-Consulting/QGIS-FGDC-Fill" />
+			</rdf:Description>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:title>FGDC fill symbol: Lithology - Metamorphism, Igneous and vein - 723 Igneous Rock 3rd Option</dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path style="fill:none;stroke:none;stroke-width:0;" id="rect1500" width="50.00" height="50.00" x="0.0" y="0.0" />
+	<g fill="param(outline) #000" stroke="param(outline) #000" stroke-width="param(outline-width) 0.8">
+		<g style="stroke:none;stroke-width:0;">
+			<ellipse ry="0.186" rx="0.186" id="circle5" cy="39.726086" cx="5.7411342" />
+			<ellipse ry="0.186" rx="0.186" id="circle7" cy="28.986954" cx="6.2581463" />
+			<ellipse ry="0.186" rx="0.186" id="circle9" cy="21.014904" cx="6.2581463" />
+			<ellipse ry="0.186" rx="0.186" id="circle11" cy="37.294407" cx="6.6460609" />
+			<ellipse ry="0.186" rx="0.186" id="circle13" cy="12.707451" cx="6.6460609" />
+			<ellipse ry="0.186" rx="0.186" id="circle15" cy="23.732296" cx="6.9563923" />
+			<ellipse ry="0.186" rx="0.186" id="circle17" cy="41.952793" cx="7.15066" />
+			<ellipse ry="0.186" rx="0.186" id="circle19" cy="8.0490685" cx="7.15066" />
+			<ellipse ry="0.186" rx="0.186" id="circle21" cy="33.477638" cx="7.4994726" />
+			<ellipse ry="0.186" rx="0.186" id="circle23" cy="16.524221" cx="7.4994726" />
+			<ellipse ry="0.186" rx="0.186" id="circle25" cy="5.5254636" cx="7.4994726" />
+			<ellipse ry="0.186" rx="0.186" id="circle27" cy="47.903725" cx="7.8098044" />
+			<ellipse ry="0.186" rx="0.186" id="circle29" cy="18.698133" cx="7.9649701" />
+			<ellipse ry="0.186" rx="0.186" id="circle31" cy="27.667078" cx="8.0171051" />
+			<ellipse ry="0.186" rx="0.186" id="circle33" cy="22.33478" cx="8.0171051" />
+			<ellipse ry="0.186" rx="0.186" id="circle35" cy="31.471426" cx="8.1977186" />
+			<ellipse ry="0.186" rx="0.186" id="circle37" cy="38.897514" cx="8.2237864" />
+			<ellipse ry="0.186" rx="0.186" id="circle39" cy="0.47887969" cx="8.2368202" />
+			<ellipse ry="0.186" rx="0.186" id="circle41" cy="35.884468" cx="8.740799" />
+			<ellipse ry="0.186" rx="0.186" id="circle43" cy="14.117389" cx="8.740799" />
+			<ellipse ry="0.186" rx="0.186" id="circle45" cy="3.1186311" cx="8.740799" />
+			<ellipse ry="0.186" rx="0.186" id="circle47" cy="40.788197" cx="8.8183823" />
+			<ellipse ry="0.186" rx="0.186" id="circle49" cy="29.78944" cx="8.8183823" />
+			<ellipse ry="0.186" rx="0.186" id="circle51" cy="9.2136641" cx="8.8183823" />
+			<ellipse ry="0.186" rx="0.186" id="circle53" cy="11.232296" cx="9.0511303" />
+			<ellipse ry="0.186" rx="0.186" id="circle55" cy="20.328569" cx="9.206296" />
+			<ellipse ry="0.186" rx="0.186" id="circle57" cy="27.303724" cx="10.189426" />
+			<ellipse ry="0.186" rx="0.186" id="circle59" cy="33.567699" cx="10.214874" />
+			<ellipse ry="0.186" rx="0.186" id="circle61" cy="16.434158" cx="10.214874" />
+			<ellipse ry="0.186" rx="0.186" id="circle63" cy="37.359627" cx="10.292457" />
+			<ellipse ry="0.186" rx="0.186" id="circle65" cy="12.642234" cx="10.292457" />
+			<ellipse ry="0.186" rx="0.186" id="circle67" cy="1.643476" cx="10.292457" />
+			<ellipse ry="0.186" rx="0.186" id="circle69" cy="17.999376" cx="10.37004" />
+			<ellipse ry="0.186" rx="0.186" id="circle71" cy="7.50559" cx="10.37004" />
+			<ellipse ry="0.186" rx="0.186" id="circle73" cy="3.9341614" cx="10.680371" />
+			<ellipse ry="0.186" rx="0.186" id="circle75" cy="49.145962" cx="10.81009" />
+			<ellipse ry="0.186" rx="0.186" id="circle77" cy="9.6018629" cx="10.91312" />
+			<ellipse ry="0.186" rx="0.186" id="circle79" cy="29.452791" cx="11.068286" />
+			<ellipse ry="0.186" rx="0.186" id="circle81" cy="20.549067" cx="11.068286" />
+			<ellipse ry="0.186" rx="0.186" id="circle83" cy="35.22298" cx="11.223452" />
+			<ellipse ry="0.186" rx="0.186" id="circle85" cy="24.922358" cx="11.327102" />
+			<ellipse ry="0.186" rx="0.186" id="circle87" cy="21.726084" cx="0.74976104" />
+			<ellipse ry="0.186" rx="0.186" id="circle89" cy="34.331676" cx="0.78886276" />
+			<ellipse ry="0.186" rx="0.186" id="circle91" cy="15.670184" cx="0.78886276" />
+			<ellipse ry="0.186" rx="0.186" id="circle93" cy="4.6714263" cx="0.78886276" />
+			<ellipse ry="0.186" rx="0.186" id="circle95" cy="27.614283" cx="0.98250967" />
+			<ellipse ry="0.186" rx="0.186" id="circle97" cy="19.163973" cx="12.309612" />
+			<ellipse ry="0.186" rx="0.186" id="circle99" cy="39.416767" cx="12.387195" />
+			<ellipse ry="0.186" rx="0.186" id="circle101" cy="31.471426" cx="12.387195" />
+			<ellipse ry="0.186" rx="0.186" id="circle103" cy="10.584473" cx="12.387195" />
+			<ellipse ry="0.186" rx="0.186" id="circle105" cy="36.699375" cx="12.619944" />
+			<ellipse ry="0.186" rx="0.186" id="circle107" cy="13.301862" cx="12.619944" />
+			<ellipse ry="0.186" rx="0.186" id="circle109" cy="2.3037267" cx="12.619944" />
+			<ellipse ry="0.186" rx="0.186" id="circle111" cy="27.460247" cx="12.672079" />
+			<ellipse ry="0.186" rx="0.186" id="circle113" cy="44.592545" cx="12.852693" />
+			<ellipse ry="0.186" rx="0.186" id="circle115" cy="33.593788" cx="12.852693" />
+			<ellipse ry="0.186" rx="0.186" id="circle117" cy="16.407452" cx="12.852693" />
+			<ellipse ry="0.186" rx="0.186" id="circle119" cy="5.4093165" cx="12.852693" />
+			<ellipse ry="0.186" rx="0.186" id="circle121" cy="42.108074" cx="13.085441" />
+			<ellipse ry="0.186" rx="0.186" id="circle123" cy="7.8937888" cx="13.085441" />
+			<ellipse ry="0.186" rx="0.186" id="circle125" cy="29.375153" cx="13.628521" />
+			<ellipse ry="0.186" rx="0.186" id="circle127" cy="20.626705" cx="13.628521" />
+			<ellipse ry="0.186" rx="0.186" id="circle129" cy="48.732296" cx="13.706104" />
+			<ellipse ry="0.186" rx="0.186" id="circle131" cy="24.198133" cx="13.706104" />
+			<ellipse ry="0.186" rx="0.186" id="circle133" cy="45.536022" cx="14.249185" />
+			<ellipse ry="0.186" rx="0.186" id="circle135" cy="14.415525" cx="14.40435" />
+			<ellipse ry="0.186" rx="0.186" id="circle137" cy="40.036644" cx="14.534068" />
+			<ellipse ry="0.186" rx="0.186" id="circle139" cy="37.708694" cx="14.534068" />
+			<ellipse ry="0.186" rx="0.186" id="circle141" cy="4.32236" cx="14.947431" />
+			<ellipse ry="0.186" rx="0.186" id="circle143" cy="6.2633538" cx="15.102596" />
+			<ellipse ry="0.186" rx="0.186" id="circle145" cy="16.511799" cx="15.257762" />
+			<ellipse ry="0.186" rx="0.186" id="circle147" cy="46.881985" cx="15.645677" />
+			<ellipse ry="0.186" rx="0.186" id="circle149" cy="0.44037259" cx="15.723259" />
+			<ellipse ry="0.186" rx="0.186" id="circle151" cy="27.977636" cx="15.775394" />
+			<ellipse ry="0.186" rx="0.186" id="circle153" cy="22.024221" cx="15.775394" />
+			<ellipse ry="0.186" rx="0.186" id="circle155" cy="48.641613" cx="16.059658" />
+			<ellipse ry="0.186" rx="0.186" id="circle157" cy="41.797512" cx="16.188757" />
+			<ellipse ry="0.186" rx="0.186" id="circle159" cy="8.2043476" cx="16.188757" />
+			<ellipse ry="0.186" rx="0.186" id="circle161" cy="30.07391" cx="16.26634" />
+			<ellipse ry="0.186" rx="0.186" id="circle163" cy="19.927948" cx="16.26634" />
+			<ellipse ry="0.186" rx="0.186" id="circle165" cy="2.6919253" cx="16.26634" />
+			<ellipse ry="0.186" rx="0.186" id="circle167" cy="36.59565" cx="16.343922" />
+			<ellipse ry="0.186" rx="0.186" id="circle169" cy="13.406209" cx="16.343922" />
+			<ellipse ry="0.186" rx="0.186" id="circle171" cy="17.533539" cx="16.576672" />
+			<ellipse ry="0.186" rx="0.186" id="circle173" cy="34.395649" cx="16.706388" />
+			<ellipse ry="0.186" rx="0.186" id="circle175" cy="15.605588" cx="16.706388" />
+			<ellipse ry="0.186" rx="0.186" id="circle177" cy="39.701241" cx="16.80942" />
+			<ellipse ry="0.186" rx="0.186" id="circle179" cy="32.170185" cx="16.80942" />
+			<ellipse ry="0.186" rx="0.186" id="circle181" cy="10.300621" cx="17.161335" />
+			<ellipse ry="0.186" rx="0.186" id="circle183" cy="4.6714263" cx="17.388498" />
+			<ellipse ry="0.186" rx="0.186" id="circle185" cy="45.329811" cx="17.388498" />
+			<ellipse ry="0.186" rx="0.186" id="circle187" cy="36.932297" cx="1.7198575" />
+			<ellipse ry="0.186" rx="0.186" id="circle189" cy="2.0708075" cx="1.7198575" />
+			<ellipse ry="0.186" rx="0.186" id="circle191" cy="41.680744" cx="1.7583386" />
+			<ellipse ry="0.186" rx="0.186" id="circle193" cy="19.319252" cx="1.7583386" />
+			<ellipse ry="0.186" rx="0.186" id="circle195" cy="8.3204947" cx="1.7583386" />
+			<ellipse ry="0.186" rx="0.186" id="circle197" cy="26.785711" cx="18.050745" />
+			<ellipse ry="0.186" rx="0.186" id="circle199" cy="37.50124" cx="18.154396" />
+			<ellipse ry="0.186" rx="0.186" id="circle201" cy="12.499998" cx="18.154396" />
+			<ellipse ry="0.186" rx="0.186" id="circle203" cy="2.0708075" cx="18.319494" />
+			<ellipse ry="0.186" rx="0.186" id="circle205" cy="41.680744" cx="18.358595" />
+			<ellipse ry="0.186" rx="0.186" id="circle207" cy="30.682608" cx="18.358595" />
+			<ellipse ry="0.186" rx="0.186" id="circle209" cy="8.3204947" cx="18.358595" />
+			<ellipse ry="0.186" rx="0.186" id="circle211" cy="43.452793" cx="18.464727" />
+			<ellipse ry="0.186" rx="0.186" id="circle213" cy="24.611799" cx="18.464727" />
+			<ellipse ry="0.186" rx="0.186" id="circle215" cy="35.378258" cx="18.568378" />
+			<ellipse ry="0.186" rx="0.186" id="circle217" cy="18.931053" cx="18.748991" />
+			<ellipse ry="0.186" rx="0.186" id="circle219" cy="16.83478" cx="18.826574" />
+			<ellipse ry="0.186" rx="0.186" id="circle221" cy="32.636024" cx="18.901676" />
+			<ellipse ry="0.186" rx="0.186" id="circle223" cy="21.104967" cx="19.447237" />
+			<ellipse ry="0.186" rx="0.186" id="circle225" cy="28.831675" cx="19.755085" />
+			<ellipse ry="0.186" rx="0.186" id="circle227" cy="10.309937" cx="19.838257" />
+			<ellipse ry="0.186" rx="0.186" id="circle229" cy="4.4000001" cx="19.910252" />
+			<ellipse ry="0.186" rx="0.186" id="circle231" cy="45.60186" cx="19.910252" />
+			<ellipse ry="0.186" rx="0.186" id="circle233" cy="34.499378" cx="20.430368" />
+			<ellipse ry="0.186" rx="0.186" id="circle235" cy="15.502482" cx="20.430368" />
+			<ellipse ry="0.186" rx="0.186" id="circle237" cy="40.347202" cx="20.533398" />
+			<ellipse ry="0.186" rx="0.186" id="circle239" cy="42.624222" cx="20.7407" />
+			<ellipse ry="0.186" rx="0.186" id="circle241" cy="37.475773" cx="20.763664" />
+			<ellipse ry="0.186" rx="0.186" id="circle243" cy="48.474533" cx="20.763664" />
+			<ellipse ry="0.186" rx="0.186" id="circle245" cy="12.525464" cx="20.763664" />
+			<ellipse ry="0.186" rx="0.186" id="circle247" cy="1.5273291" cx="20.763664" />
+			<ellipse ry="0.186" rx="0.186" id="circle249" cy="24.922358" cx="20.843731" />
+			<ellipse ry="0.186" rx="0.186" id="circle251" cy="27.1236" cx="21.151577" />
+			<ellipse ry="0.186" rx="0.186" id="circle253" cy="22.878258" cx="21.151577" />
+			<ellipse ry="0.186" rx="0.186" id="circle255" cy="30.721117" cx="21.22916" />
+			<ellipse ry="0.186" rx="0.186" id="circle257" cy="19.280123" cx="21.22916" />
+			<ellipse ry="0.186" rx="0.186" id="circle259" cy="8.2819872" cx="21.22916" />
+			<ellipse ry="0.186" rx="0.186" id="circle261" cy="32.778881" cx="21.267643" />
+			<ellipse ry="0.186" rx="0.186" id="circle263" cy="17.222979" cx="21.267643" />
+			<ellipse ry="0.186" rx="0.186" id="circle265" cy="6.2242212" cx="21.267643" />
+			<ellipse ry="0.186" rx="0.186" id="circle267" cy="46.558384" cx="21.774725" />
+			<ellipse ry="0.186" rx="0.186" id="circle269" cy="4.0503082" cx="22.082573" />
+			<ellipse ry="0.186" rx="0.186" id="circle271" cy="14.881364" cx="22.60269" />
+			<ellipse ry="0.186" rx="0.186" id="circle273" cy="39.726086" cx="22.80937" />
+			<ellipse ry="0.186" rx="0.186" id="circle275" cy="31.754656" cx="22.80937" />
+			<ellipse ry="0.186" rx="0.186" id="circle277" cy="28.986954" cx="22.858402" />
+			<ellipse ry="0.186" rx="0.186" id="circle279" cy="21.014904" cx="22.858402" />
+			<ellipse ry="0.186" rx="0.186" id="circle281" cy="37.294407" cx="23.246317" />
+			<ellipse ry="0.186" rx="0.186" id="circle283" cy="12.707451" cx="23.246317" />
+			<ellipse ry="0.186" rx="0.186" id="circle285" cy="23.732296" cx="23.556648" />
+			<ellipse ry="0.186" rx="0.186" id="circle287" cy="48.732296" cx="23.636715" />
+			<ellipse ry="0.186" rx="0.186" id="circle289" cy="41.952793" cx="23.750294" />
+			<ellipse ry="0.186" rx="0.186" id="circle291" cy="8.0490685" cx="23.750294" />
+			<ellipse ry="0.186" rx="0.186" id="circle293" cy="44.475773" cx="24.099728" />
+			<ellipse ry="0.186" rx="0.186" id="circle295" cy="33.477638" cx="24.099728" />
+			<ellipse ry="0.186" rx="0.186" id="circle297" cy="16.524221" cx="24.099728" />
+			<ellipse ry="0.186" rx="0.186" id="circle299" cy="5.5254636" cx="24.099728" />
+			<ellipse ry="0.186" rx="0.186" id="circle301" cy="12.409314" cx="1.9135046" />
+			<ellipse ry="0.186" rx="0.186" id="circle303" cy="43.555901" cx="2.1208057" />
+			<ellipse ry="0.186" rx="0.186" id="circle305" cy="32.636024" cx="2.301419" />
+			<ellipse ry="0.186" rx="0.186" id="circle307" cy="17.365835" cx="2.301419" />
+			<ellipse ry="0.186" rx="0.186" id="circle309" cy="2.4590061" cx="24.464678" />
+			<ellipse ry="0.186" rx="0.186" id="circle311" cy="27.667078" cx="24.775009" />
+			<ellipse ry="0.186" rx="0.186" id="circle313" cy="22.33478" cx="24.775009" />
+			<ellipse ry="0.186" rx="0.186" id="circle315" cy="31.471426" cx="24.797974" />
+			<ellipse ry="0.186" rx="0.186" id="circle317" cy="0.47887969" cx="24.836454" />
+			<ellipse ry="0.186" rx="0.186" id="circle319" cy="35.884468" cx="25.341055" />
+			<ellipse ry="0.186" rx="0.186" id="circle321" cy="14.117389" cx="25.341055" />
+			<ellipse ry="0.186" rx="0.186" id="circle323" cy="18.154655" cx="25.343538" />
+			<ellipse ry="0.186" rx="0.186" id="circle325" cy="40.788197" cx="25.418636" />
+			<ellipse ry="0.186" rx="0.186" id="circle327" cy="29.78944" cx="25.418636" />
+			<ellipse ry="0.186" rx="0.186" id="circle329" cy="20.2118" cx="25.418636" />
+			<ellipse ry="0.186" rx="0.186" id="circle331" cy="9.2136641" cx="25.418636" />
+			<ellipse ry="0.186" rx="0.186" id="circle333" cy="38.769562" cx="25.651386" />
+			<ellipse ry="0.186" rx="0.186" id="circle335" cy="11.232296" cx="25.651386" />
+			<ellipse ry="0.186" rx="0.186" id="circle337" cy="42.210556" cx="25.912685" />
+			<ellipse ry="0.186" rx="0.186" id="circle339" cy="33.567699" cx="26.815128" />
+			<ellipse ry="0.186" rx="0.186" id="circle341" cy="16.434158" cx="26.815128" />
+			<ellipse ry="0.186" rx="0.186" id="circle343" cy="37.359627" cx="26.892712" />
+			<ellipse ry="0.186" rx="0.186" id="circle345" cy="12.642234" cx="26.892712" />
+			<ellipse ry="0.186" rx="0.186" id="circle347" cy="1.643476" cx="26.892712" />
+			<ellipse ry="0.186" rx="0.186" id="circle349" cy="43.866459" cx="26.94733" />
+			<ellipse ry="0.186" rx="0.186" id="circle351" cy="27.096272" cx="26.94733" />
+			<ellipse ry="0.186" rx="0.186" id="circle353" cy="7.50559" cx="26.970295" />
+			<ellipse ry="0.186" rx="0.186" id="circle355" cy="48.835403" cx="27.050362" />
+			<ellipse ry="0.186" rx="0.186" id="circle357" cy="46.067699" cx="27.280626" />
+			<ellipse ry="0.186" rx="0.186" id="circle359" cy="19.086332" cx="27.360693" />
+			<ellipse ry="0.186" rx="0.186" id="circle361" cy="21.493166" cx="27.826191" />
+			<ellipse ry="0.186" rx="0.186" id="circle363" cy="35.170807" cx="27.981356" />
+			<ellipse ry="0.186" rx="0.186" id="circle365" cy="40.788197" cx="28.291687" />
+			<ellipse ry="0.186" rx="0.186" id="circle367" cy="29.452791" cx="28.366787" />
+			<ellipse ry="0.186" rx="0.186" id="circle369" cy="18.077017" cx="28.679602" />
+			<ellipse ry="0.186" rx="0.186" id="circle371" cy="10.584473" cx="28.98745" />
+			<ellipse ry="0.186" rx="0.186" id="circle373" cy="42.831676" cx="29.016001" />
+			<ellipse ry="0.186" rx="0.186" id="circle375" cy="4.32236" cx="29.016001" />
+			<ellipse ry="0.186" rx="0.186" id="circle377" cy="37.294407" cx="29.067516" />
+			<ellipse ry="0.186" rx="0.186" id="circle379" cy="12.707451" cx="29.067516" />
+			<ellipse ry="0.186" rx="0.186" id="circle381" cy="2.3037267" cx="29.220198" />
+			<ellipse ry="0.186" rx="0.186" id="circle383" cy="27.278879" cx="29.222683" />
+			<ellipse ry="0.186" rx="0.186" id="circle385" cy="22.722979" cx="29.222683" />
+			<ellipse ry="0.186" rx="0.186" id="circle387" cy="15.269563" cx="29.222683" />
+			<ellipse ry="0.186" rx="0.186" id="circle389" cy="32.893787" cx="29.429983" />
+			<ellipse ry="0.186" rx="0.186" id="circle391" cy="8.3596268" cx="30.050646" />
+			<ellipse ry="0.186" rx="0.186" id="circle393" cy="26.061487" cx="2.7414689" />
+			<ellipse ry="0.186" rx="0.186" id="circle395" cy="10.236022" cx="2.883601" />
+			<ellipse ry="0.186" rx="0.186" id="circle397" cy="16.511799" cx="30.541592" />
+			<ellipse ry="0.186" rx="0.186" id="circle399" cy="40.968319" cx="30.67131" />
+			<ellipse ry="0.186" rx="0.186" id="circle401" cy="29.339128" cx="30.676275" />
+			<ellipse ry="0.186" rx="0.186" id="circle403" cy="21.014904" cx="30.851923" />
+			<ellipse ry="0.186" rx="0.186" id="circle405" cy="36.750931" cx="31.239838" />
+			<ellipse ry="0.186" rx="0.186" id="circle407" cy="13.250929" cx="31.239838" />
+			<ellipse ry="0.186" rx="0.186" id="circle409" cy="24.301239" cx="31.291973" />
+			<ellipse ry="0.186" rx="0.186" id="circle411" cy="4.8658385" cx="31.550169" />
+			<ellipse ry="0.186" rx="0.186" id="circle413" cy="45.136024" cx="31.550169" />
+			<ellipse ry="0.186" rx="0.186" id="circle415" cy="35.042854" cx="32.248417" />
+			<ellipse ry="0.186" rx="0.186" id="circle417" cy="14.959003" cx="32.248417" />
+			<ellipse ry="0.186" rx="0.186" id="circle419" cy="27.667078" cx="32.284412" />
+			<ellipse ry="0.186" rx="0.186" id="circle421" cy="11.465215" cx="32.40358" />
+			<ellipse ry="0.186" rx="0.186" id="circle423" cy="6.8068323" cx="32.533298" />
+			<ellipse ry="0.186" rx="0.186" id="circle425" cy="32.868942" cx="32.558746" />
+			<ellipse ry="0.186" rx="0.186" id="circle427" cy="17.132917" cx="32.558746" />
+			<ellipse ry="0.186" rx="0.186" id="circle429" cy="22.33478" cx="32.63633" />
+			<ellipse ry="0.186" rx="0.186" id="circle431" cy="42.003105" cx="32.739979" />
+			<ellipse ry="0.186" rx="0.186" id="circle433" cy="8.9807453" cx="32.843632" />
+			<ellipse ry="0.186" rx="0.186" id="circle435" cy="47.931053" cx="32.86908" />
+			<ellipse ry="0.186" rx="0.186" id="circle437" cy="2.0708075" cx="32.86908" />
+			<ellipse ry="0.186" rx="0.186" id="circle439" cy="30.617388" cx="32.946663" />
+			<ellipse ry="0.186" rx="0.186" id="circle441" cy="19.38447" cx="32.946663" />
+			<ellipse ry="0.186" rx="0.186" id="circle443" cy="43.816147" cx="33.256992" />
+			<ellipse ry="0.186" rx="0.186" id="circle445" cy="45.990059" cx="33.464294" />
+			<ellipse ry="0.186" rx="0.186" id="circle447" cy="4.0118012" cx="33.464294" />
+			<ellipse ry="0.186" rx="0.186" id="circle449" cy="36.828571" cx="33.722488" />
+			<ellipse ry="0.186" rx="0.186" id="circle451" cy="13.173289" cx="33.722488" />
+			<ellipse ry="0.186" rx="0.186" id="circle453" cy="26.444098" cx="34.166885" />
+			<ellipse ry="0.186" rx="0.186" id="circle455" cy="16.136023" cx="34.265572" />
+			<ellipse ry="0.186" rx="0.186" id="circle457" cy="24.301239" cx="34.39529" />
+			<ellipse ry="0.186" rx="0.186" id="circle459" cy="0.82857132" cx="34.498318" />
+			<ellipse ry="0.186" rx="0.186" id="circle461" cy="33.412422" cx="34.653484" />
+			<ellipse ry="0.186" rx="0.186" id="circle463" cy="18.465216" cx="34.653484" />
+			<ellipse ry="0.186" rx="0.186" id="circle465" cy="10.766459" cx="34.731068" />
+			<ellipse ry="0.186" rx="0.186" id="circle467" cy="29.116146" cx="34.808651" />
+			<ellipse ry="0.186" rx="0.186" id="circle469" cy="20.885092" cx="34.808651" />
+			<ellipse ry="0.186" rx="0.186" id="circle471" cy="2.6142857" cx="34.808651" />
+			<ellipse ry="0.186" rx="0.186" id="circle473" cy="41.331676" cx="35.35173" />
+			<ellipse ry="0.186" rx="0.186" id="circle475" cy="8.670186" cx="35.35173" />
+			<ellipse ry="0.186" rx="0.186" id="circle477" cy="35.378258" cx="35.532963" />
+			<ellipse ry="0.186" rx="0.186" id="circle479" cy="26.250309" cx="36.36031" />
+			<ellipse ry="0.186" rx="0.186" id="circle481" cy="18.931053" cx="36.437893" />
+			<ellipse ry="0.186" rx="0.186" id="circle483" cy="4.32236" cx="36.463959" />
+			<ellipse ry="0.186" rx="0.186" id="circle485" cy="16.058382" cx="36.593056" />
+			<ellipse ry="0.186" rx="0.186" id="circle487" cy="44.941612" cx="36.593056" />
+			<ellipse ry="0.186" rx="0.186" id="circle489" cy="28.831675" cx="3.1548307" />
+			<ellipse ry="0.186" rx="0.186" id="circle491" cy="21.170183" cx="3.1548307" />
+			<ellipse ry="0.186" rx="0.186" id="circle493" cy="34.603104" cx="3.3099966" />
+			<ellipse ry="0.186" rx="0.186" id="circle495" cy="15.398134" cx="3.3099966" />
+			<ellipse ry="0.186" rx="0.186" id="circle497" cy="4.4000001" cx="3.3099966" />
+			<ellipse ry="0.186" rx="0.186" id="circle499" cy="37.049065" cx="36.825806" />
+			<ellipse ry="0.186" rx="0.186" id="circle501" cy="12.952793" cx="36.825806" />
+			<ellipse ry="0.186" rx="0.186" id="circle503" cy="1.9540349" cx="36.825806" />
+			<ellipse ry="0.186" rx="0.186" id="circle505" cy="31.911179" cx="36.877941" />
+			<ellipse ry="0.186" rx="0.186" id="circle507" cy="39.766457" cx="37.058556" />
+			<ellipse ry="0.186" rx="0.186" id="circle509" cy="10.235401" cx="37.058556" />
+			<ellipse ry="0.186" rx="0.186" id="circle511" cy="47.490059" cx="37.188274" />
+			<ellipse ry="0.186" rx="0.186" id="circle513" cy="41.952793" cx="37.291302" />
+			<ellipse ry="0.186" rx="0.186" id="circle515" cy="8.0490685" cx="37.291302" />
+			<ellipse ry="0.186" rx="0.186" id="circle517" cy="34.148445" cx="37.368885" />
+			<ellipse ry="0.186" rx="0.186" id="circle519" cy="29.801861" cx="37.679218" />
+			<ellipse ry="0.186" rx="0.186" id="circle521" cy="20.199377" cx="37.679218" />
+			<ellipse ry="0.186" rx="0.186" id="circle523" cy="27.770807" cx="37.808937" />
+			<ellipse ry="0.186" rx="0.186" id="circle525" cy="3.5844698" cx="38.765377" />
+			<ellipse ry="0.186" rx="0.186" id="circle527" cy="7.1558981" cx="39.07571" />
+			<ellipse ry="0.186" rx="0.186" id="circle529" cy="37.708694" cx="39.153294" />
+			<ellipse ry="0.186" rx="0.186" id="circle531" cy="12.292544" cx="39.153294" />
+			<ellipse ry="0.186" rx="0.186" id="circle533" cy="16.084469" cx="39.230877" />
+			<ellipse ry="0.186" rx="0.186" id="circle535" cy="39.726086" cx="39.360592" />
+			<ellipse ry="0.186" rx="0.186" id="circle537" cy="5.1763973" cx="39.773956" />
+			<ellipse ry="0.186" rx="0.186" id="circle539" cy="44.825462" cx="39.773956" />
+			<ellipse ry="0.186" rx="0.186" id="circle541" cy="28.120497" cx="40.394619" />
+			<ellipse ry="0.186" rx="0.186" id="circle543" cy="21.881365" cx="40.394619" />
+			<ellipse ry="0.186" rx="0.186" id="circle545" cy="41.137264" cx="40.627369" />
+			<ellipse ry="0.186" rx="0.186" id="circle547" cy="19.86273" cx="40.627369" />
+			<ellipse ry="0.186" rx="0.186" id="circle549" cy="8.8639727" cx="40.627369" />
+			<ellipse ry="0.186" rx="0.186" id="circle551" cy="13.7677" cx="40.704948" />
+			<ellipse ry="0.186" rx="0.186" id="circle553" cy="2.7695651" cx="40.704948" />
+			<ellipse ry="0.186" rx="0.186" id="circle555" cy="38.381363" cx="40.860115" />
+			<ellipse ry="0.186" rx="0.186" id="circle557" cy="11.620495" cx="40.860115" />
+			<ellipse ry="0.186" rx="0.186" id="circle559" cy="48.111179" cx="40.912251" />
+			<ellipse ry="0.186" rx="0.186" id="circle561" cy="0.44037259" cx="41.170448" />
+			<ellipse ry="0.186" rx="0.186" id="circle563" cy="31.820496" cx="41.248032" />
+			<ellipse ry="0.186" rx="0.186" id="circle565" cy="18.180742" cx="41.248032" />
+			<ellipse ry="0.186" rx="0.186" id="circle567" cy="36.555279" cx="41.558361" />
+			<ellipse ry="0.186" rx="0.186" id="circle569" cy="25.959003" cx="41.713528" />
+			<ellipse ry="0.186" rx="0.186" id="circle571" cy="24.042854" cx="41.713528" />
+			<ellipse ry="0.186" rx="0.186" id="circle573" cy="33.826706" cx="41.946278" />
+			<ellipse ry="0.186" rx="0.186" id="circle575" cy="16.174532" cx="41.946278" />
+			<ellipse ry="0.186" rx="0.186" id="circle577" cy="5.1763973" cx="41.946278" />
+			<ellipse ry="0.186" rx="0.186" id="circle579" cy="44.825462" cx="41.946278" />
+			<ellipse ry="0.186" rx="0.186" id="circle581" cy="10.067701" cx="42.256607" />
+			<ellipse ry="0.186" rx="0.186" id="circle583" cy="42.301861" cx="42.295712" />
+			<ellipse ry="0.186" rx="0.186" id="circle585" cy="7.6993766" cx="42.295712" />
+			<ellipse ry="0.186" rx="0.186" id="circle587" cy="27.303724" cx="42.463909" />
+			<ellipse ry="0.186" rx="0.186" id="circle589" cy="1.8378881" cx="42.644524" />
+			<ellipse ry="0.186" rx="0.186" id="circle591" cy="12.357761" cx="42.799686" />
+			<ellipse ry="0.186" rx="0.186" id="circle593" cy="37.475773" cx="4.1634083" />
+			<ellipse ry="0.186" rx="0.186" id="circle595" cy="12.525464" cx="4.1634083" />
+			<ellipse ry="0.186" rx="0.186" id="circle597" cy="1.5273291" cx="4.1634083" />
+			<ellipse ry="0.186" rx="0.186" id="circle599" cy="29.336021" cx="43.187603" />
+			<ellipse ry="0.186" rx="0.186" id="circle601" cy="20.665215" cx="43.187603" />
+			<ellipse ry="0.186" rx="0.186" id="circle603" cy="18.219873" cx="43.187603" />
+			<ellipse ry="0.186" rx="0.186" id="circle605" cy="37.331676" cx="43.420353" />
+			<ellipse ry="0.186" rx="0.186" id="circle607" cy="45.729813" cx="43.497932" />
+			<ellipse ry="0.186" rx="0.186" id="circle609" cy="3.7012422" cx="43.963432" />
+			<ellipse ry="0.186" rx="0.186" id="circle611" cy="35.390682" cx="44.273762" />
+			<ellipse ry="0.186" rx="0.186" id="circle613" cy="25.232918" cx="44.325897" />
+			<ellipse ry="0.186" rx="0.186" id="circle615" cy="9.9900618" cx="44.351345" />
+			<ellipse ry="0.186" rx="0.186" id="circle617" cy="39.971428" cx="44.506512" />
+			<ellipse ry="0.186" rx="0.186" id="circle619" cy="44.126705" cx="44.778366" />
+			<ellipse ry="0.186" rx="0.186" id="circle621" cy="33.127949" cx="44.778366" />
+			<ellipse ry="0.186" rx="0.186" id="circle623" cy="16.873289" cx="44.778366" />
+			<ellipse ry="0.186" rx="0.186" id="circle625" cy="5.875155" cx="44.778366" />
+			<ellipse ry="0.186" rx="0.186" id="circle627" cy="42.068943" cx="44.816845" />
+			<ellipse ry="0.186" rx="0.186" id="circle629" cy="31.070805" cx="44.816845" />
+			<ellipse ry="0.186" rx="0.186" id="circle631" cy="7.9322958" cx="44.816845" />
+			<ellipse ry="0.186" rx="0.186" id="circle633" cy="27.472668" cx="44.894424" />
+			<ellipse ry="0.186" rx="0.186" id="circle635" cy="19.940371" cx="45.049591" />
+			<ellipse ry="0.186" rx="0.186" id="circle637" cy="37.825462" cx="45.282341" />
+			<ellipse ry="0.186" rx="0.186" id="circle639" cy="12.176395" cx="45.282341" />
+			<ellipse ry="0.186" rx="0.186" id="circle641" cy="1.1776375" cx="45.282341" />
+			<ellipse ry="0.186" rx="0.186" id="circle643" cy="22.657763" cx="45.670254" />
+			<ellipse ry="0.186" rx="0.186" id="circle645" cy="15.049067" cx="46.135754" />
+			<ellipse ry="0.186" rx="0.186" id="circle647" cy="45.950932" cx="46.135754" />
+			<ellipse ry="0.186" rx="0.186" id="circle649" cy="29.180742" cx="46.290916" />
+			<ellipse ry="0.186" rx="0.186" id="circle651" cy="24.508694" cx="46.704899" />
+			<ellipse ry="0.186" rx="0.186" id="circle653" cy="21.415525" cx="46.989166" />
+			<ellipse ry="0.186" rx="0.186" id="circle655" cy="6.2763948" cx="46.989166" />
+			<ellipse ry="0.186" rx="0.186" id="circle657" cy="30.822979" cx="47.015232" />
+			<ellipse ry="0.186" rx="0.186" id="circle659" cy="2.3944075" cx="47.066746" />
+			<ellipse ry="0.186" rx="0.186" id="circle661" cy="32.985092" cx="47.144329" />
+			<ellipse ry="0.186" rx="0.186" id="circle663" cy="17.016148" cx="47.144329" />
+			<ellipse ry="0.186" rx="0.186" id="circle665" cy="7.9714284" cx="47.687412" />
+			<ellipse ry="0.186" rx="0.186" id="circle667" cy="37.281986" cx="47.726513" />
+			<ellipse ry="0.186" rx="0.186" id="circle669" cy="12.719873" cx="47.726513" />
+			<ellipse ry="0.186" rx="0.186" id="circle671" cy="41.434158" cx="47.997742" />
+			<ellipse ry="0.186" rx="0.186" id="circle673" cy="4.3354011" cx="48.230492" />
+			<ellipse ry="0.186" rx="0.186" id="circle675" cy="29.375153" cx="48.463238" />
+			<ellipse ry="0.186" rx="0.186" id="circle677" cy="20.626705" cx="48.463238" />
+			<ellipse ry="0.186" rx="0.186" id="circle679" cy="0.91925216" cx="48.540821" />
+			<ellipse ry="0.186" rx="0.186" id="circle681" cy="34.680744" cx="48.657509" />
+			<ellipse ry="0.186" rx="0.186" id="circle683" cy="15.320495" cx="48.657509" />
+			<ellipse ry="0.186" rx="0.186" id="circle685" cy="45.679501" cx="48.657509" />
+			<ellipse ry="0.186" rx="0.186" id="circle687" cy="23.278879" cx="48.695988" />
+			<ellipse ry="0.186" rx="0.186" id="circle689" cy="27.1236" cx="4.5513229" />
+			<ellipse ry="0.186" rx="0.186" id="circle691" cy="22.878258" cx="4.5513229" />
+			<ellipse ry="0.186" rx="0.186" id="circle693" cy="41.719875" cx="4.6289058" />
+			<ellipse ry="0.186" rx="0.186" id="circle695" cy="30.721117" cx="4.6289058" />
+			<ellipse ry="0.186" rx="0.186" id="circle697" cy="19.280123" cx="4.6289058" />
+			<ellipse ry="0.186" rx="0.186" id="circle699" cy="8.2819872" cx="4.6289058" />
+			<ellipse ry="0.186" rx="0.186" id="circle701" cy="43.777016" cx="4.6680074" />
+			<ellipse ry="0.186" rx="0.186" id="circle703" cy="32.778881" cx="4.6680074" />
+			<ellipse ry="0.186" rx="0.186" id="circle705" cy="17.222979" cx="4.6680074" />
+			<ellipse ry="0.186" rx="0.186" id="circle707" cy="6.2242212" cx="4.6680074" />
+			<ellipse ry="0.186" rx="0.186" id="circle709" cy="24.819252" cx="4.7064886" />
+			<ellipse ry="0.186" rx="0.186" id="circle711" cy="25.907452" cx="49.291203" />
+			<ellipse ry="0.186" rx="0.186" id="circle713" cy="38.847202" cx="49.471817" />
+			<ellipse ry="0.186" rx="0.186" id="circle715" cy="11.154658" cx="49.471817" />
+			<ellipse ry="0.186" rx="0.186" id="circle717" cy="42.922981" cx="49.648083" />
+			<ellipse ry="0.186" rx="0.186" id="circle719" cy="31.924843" cx="49.648083" />
+			<ellipse ry="0.186" rx="0.186" id="circle721" cy="18.077017" cx="49.648083" />
+			<ellipse ry="0.186" rx="0.186" id="circle723" cy="7.0782585" cx="49.648083" />
+			<ellipse ry="0.186" rx="0.186" id="circle725" cy="15.049067" cx="5.4823174" />
+			<ellipse ry="0.186" rx="0.186" id="circle727" cy="4.0503082" cx="5.4823174" />
+			<ellipse ry="0.186" rx="0.186" id="circle729" cy="49.560246" cx="5.9478149" />
+			<ellipse ry="0.186" rx="0.186" id="circle731" cy="44.901863" cx="6.1551161" />
+			<ellipse ry="0.186" rx="0.186" id="circle733" cy="30.926706" cx="6.4654479" />
+			<ellipse ry="0.186" rx="0.186" id="circle735" cy="25.647203" cx="8.2237864" />
+			<ellipse ry="0.186" rx="0.186" id="circle737" cy="45.937263" cx="8.5341177" />
+			<ellipse ry="0.186" rx="0.186" id="circle739" cy="43.349068" cx="9.0511303" />
+			<ellipse ry="0.186" rx="0.186" id="circle741" cy="44.591301" cx="10.602788" />
+			<ellipse ry="0.186" rx="0.186" id="circle743" cy="41.485714" cx="10.91312" />
+			<ellipse ry="0.186" rx="0.186" id="circle745" cy="49.353413" cx="0.7758289" />
+			<ellipse ry="0.186" rx="0.186" id="circle747" cy="45.329811" cx="0.78886276" />
+			<ellipse ry="0.186" rx="0.186" id="circle749" cy="46.972046" cx="12.568428" />
+			<ellipse ry="0.186" rx="0.186" id="circle751" cy="22.541613" cx="12.672079" />
+			<ellipse ry="0.186" rx="0.186" id="circle753" cy="31.237265" cx="14.430418" />
+			<ellipse ry="0.186" rx="0.186" id="circle755" cy="12.293165" cx="14.534068" />
+			<ellipse ry="0.186" rx="0.186" id="circle757" cy="24.715525" cx="15.982076" />
+			<ellipse ry="0.186" rx="0.186" id="circle759" cy="49.249687" cx="18.154396" />
+			<ellipse ry="0.186" rx="0.186" id="circle761" cy="46.765217" cx="24.257378" />
+			<ellipse ry="0.186" rx="0.186" id="circle763" cy="25.647203" cx="24.67136" />
+			<ellipse ry="0.186" rx="0.186" id="circle765" cy="3.9080746" cx="26.74003" />
+			<ellipse ry="0.186" rx="0.186" id="circle767" cy="24.715525" cx="27.774675" />
+			<ellipse ry="0.186" rx="0.186" id="circle769" cy="9.4981365" cx="27.774675" />
+			<ellipse ry="0.186" rx="0.186" id="circle771" cy="49.560246" cx="28.912352" />
+			<ellipse ry="0.186" rx="0.186" id="circle773" cy="45.679501" cx="29.016001" />
+			<ellipse ry="0.186" rx="0.186" id="circle775" cy="6.3925467" cx="29.429983" />
+			<ellipse ry="0.186" rx="0.186" id="circle777" cy="31.237265" cx="29.843346" />
+			<ellipse ry="0.186" rx="0.186" id="circle779" cy="39.311798" cx="30.050646" />
+			<ellipse ry="0.186" rx="0.186" id="circle781" cy="47.386333" cx="30.257328" />
+			<ellipse ry="0.186" rx="0.186" id="circle783" cy="49.249687" cx="31.395002" />
+			<ellipse ry="0.186" rx="0.186" id="circle785" cy="39.311798" cx="32.533298" />
+			<ellipse ry="0.186" rx="0.186" id="circle787" cy="43.659626" cx="35.429314" />
+			<ellipse ry="0.186" rx="0.186" id="circle789" cy="49.145962" cx="35.532963" />
+			<ellipse ry="0.186" rx="0.186" id="circle791" cy="45.60186" cx="3.3099966" />
+			<ellipse ry="0.186" rx="0.186" id="circle793" cy="5.7714286" cx="36.877941" />
+			<ellipse ry="0.186" rx="0.186" id="circle795" cy="22.231054" cx="37.808937" />
+			<ellipse ry="0.186" rx="0.186" id="circle797" cy="14.156519" cx="38.325947" />
+			<ellipse ry="0.186" rx="0.186" id="circle799" cy="24.404966" cx="38.4296" />
+			<ellipse ry="0.186" rx="0.186" id="circle801" cy="49.353413" cx="38.63628" />
+			<ellipse ry="0.186" rx="0.186" id="circle803" cy="32.4795" cx="39.153294" />
+			<ellipse ry="0.186" rx="0.186" id="circle805" cy="46.558384" cx="39.256943" />
+			<ellipse ry="0.186" rx="0.186" id="circle807" cy="29.995029" cx="39.981258" />
+			<ellipse ry="0.186" rx="0.186" id="circle809" cy="48.939129" cx="3.8791447" />
+			<ellipse ry="0.186" rx="0.186" id="circle811" cy="49.45652" cx="43.601585" />
+			<ellipse ry="0.186" rx="0.186" id="circle813" cy="48.00745" cx="45.463573" />
+			<ellipse ry="0.186" rx="0.186" id="circle815" cy="39.932919" cx="47.118881" />
+			<ellipse ry="0.186" rx="0.186" id="circle817" cy="47.386333" cx="48.980873" />
+			<ellipse ry="0.186" rx="0.186" id="circle819" cy="47.386333" cx="5.5344529" />
+		</g>
+		<g style="fill:none;">
+			<polyline id="polyline823" points="5.87519718858,25.5770166579 7.07307702948,25.9447185198 6.20973461565,26.8540352864" />
+			<polyline id="polyline821" points="5.67224034507,18.0813645132 6.72364368729,18.7633520882 5.64493116735,19.4012402844" />
+			<polyline id="polyline825" points="6.10298055729,2.61428382817 6.60261437694,1.46459439166 7.40823511968,2.42422171711" />
+			<polyline id="polyline827" points="6.38786493396,35.6043458113 5.17198586229,35.3006191044 5.98629588885,34.3472029591" />
+			<polyline id="polyline829" points="7.93393679079,44.0527929833 6.68516257323,44.1515507469 7.15376323638,42.9888178322" />
+			<polyline id="polyline831" points="10.2328730243,15.0136626618 11.262553157,14.2987558323 11.4425454647,15.5397496163" />
+			<polyline id="polyline833" points="10.3867974805,46.7161470102 11.0167705575,47.8006190557 9.76613435055,47.881364397" />
+			<polyline id="polyline835" points="10.5518938731,5.20124033982 9.82695933729,6.22422170229 9.2354673744,5.1192527625" />
+			<polyline id="polyline837" points="10.6034089129,30.8217371343 11.0298044832,32.0006191173 9.78537490758,31.857140857" />
+			<polyline id="polyline839" points="10.6102362073,22.6813644953 10.7579540323,23.9260849873 9.57869408529,23.5037247405" />
+			<polyline id="polyline841" points="10.8206410084,39.9881967259 9.74937644604,39.3378861694 10.8088484089,38.6683209546" />
+			<polyline id="polyline843" points="0.97133779845,13.9652154609 2.22383599479,13.9496875107 1.67951442978,15.0782589348" />
+			<polyline id="polyline845" points="13.6620368176,26.7857123053 13.9940915921,25.5770166579 14.9275689396,26.4136626173" />
+			<polyline id="polyline847" points="13.9729890457,34.2658364998 15.206246685,34.0453396062 14.853089364,35.2484451916" />
+			<polyline id="polyline849" points="14.4868981173,42.8130414354 15.6847779582,43.1807432973 14.8220562075,44.0900600639" />
+			<polyline id="polyline851" points="14.666890425,9.33291734234 15.296863502,10.4167682698 14.046227295,10.4975136111" />
+			<polyline id="polyline853" points="15.1088025736,2.28384904685 13.9003714595,1.95403538354 14.7345427062,1.01863166048" />
+			<polyline id="polyline855" points="15.2385211678,18.4981346979 14.2491841385,19.2676999123 14.0021602128,18.0385073705" />
+			<polyline id="polyline857" points="1.62489607434,29.6999980083 1.56469175073,30.9527930344 0.4717039788,30.3397495586" />
+			<polyline id="polyline859" points="18.3207342713,5.56335213965 19.4087567382,6.18571238567 18.3672840061,6.88198567488" />
+			<polyline id="polyline861" points="18.357353396,38.6173892778 19.4087567382,39.2987557348 18.3300442183,39.9366439311" />
+			<polyline id="polyline863" points="18.5975500273,28.1850911819 18.6329278257,29.438507326 17.4958729716,28.9111781356" />
+			<polyline id="polyline865" points="18.9817405048,48.1111780607 17.731724961,48.0304327194 18.3616980379,46.9465817919" />
+			<polyline id="polyline867" points="19.2225577992,23.0509297112 17.9731629185,23.1496874748 18.4423842448,21.9869545601" />
+			<polyline id="polyline869" points="19.5099248284,14.712420427 18.2834944835,14.4540353348 19.0618060486,13.471426643" />
+			<polyline id="polyline871" points="21.5959736084,45.1447184449 21.9280283829,43.9360227975 22.8608850673,44.7726687569" />
+			<polyline id="polyline873" points="21.9019605314,2.51738941861 22.8478511416,1.69565029138 23.1612860222,2.90931488292" />
+			<polyline id="polyline875" points="22.4829012211,19.189439043 23.1712166323,18.1422340782 23.8011897092,19.2260850056" />
+			<polyline id="polyline877" points="22.5381402397,27.2043458441 23.4846515129,26.3826067168 23.7974657305,27.5962713084" />
+			<polyline id="polyline879" points="22.7535103458,35.9633520211 21.503494802,35.8826066798 22.1328472158,34.7987557523" />
+			<polyline id="polyline881" points="23.4225851999,9.91304156368 23.5982328657,11.1546564657 22.4096629718,10.7577620573" />
+			<polyline id="polyline883" points="2.05253297091,5.49378692253 2.53416755979,6.65155089317 1.28415201597,6.56707884381" />
+			<polyline id="polyline885" points="25.9164096563,23.3987557968 26.779131407,22.4900601482 27.2073889667,23.6683210131" />
+			<polyline id="polyline887" points="26.4296980648,15.0366440282 27.376209338,14.2149049009 27.6890235556,15.4285694925" />
+			<polyline id="polyline889" points="26.4371460223,47.0211159531 26.5848638473,48.2664575632 25.4056039003,47.8434761984" />
+			<polyline id="polyline891" points="26.7636148287,30.7366439669 27.9813558898,31.0304327857 27.175735147,31.9906812291" />
+			<polyline id="polyline893" points="26.8238191523,5.72608505827 25.8351027862,6.49627139067 25.5874581974,5.26707884888" />
+			<polyline id="polyline895" points="27.662335041,38.3316749932 28.2916874548,39.4155259207 27.041671911,39.496271262" />
+			<polyline id="polyline897" points="30.0419574814,42.9298116213 31.2398373223,43.2975134832 30.3771155716,44.2062091318" />
+			<polyline id="polyline899" points="2.65271421762,38.5577619489 3.27151535823,39.6484451744 2.02025848815,39.7161470375" />
+			<polyline id="polyline901" points="2.9481498675,47.8006190557 1.69813432368,47.7198737144 2.3274867375,46.6360227869" />
+			<polyline id="polyline903" points="30.679999179,33.970184327 30.6191741923,35.2229793532 29.5261864204,34.6099358773" />
+			<polyline id="polyline905" points="31.0921194973,18.6049669956 31.2398373223,19.8503086057 30.0605773753,19.4273272409" />
+			<polyline id="polyline907" points="31.247905943,11.3664577071 29.9985110623,11.4652154707 30.4677323886,10.302482556" />
+			<polyline id="polyline909" points="31.3596253064,0.73974967399 31.3950031048,1.99316581817 30.2585689138,1.46583662768" />
+			<polyline id="polyline911" points="31.6860941128,25.6149048565 30.6967570835,26.3844700709 30.4497331578,25.1558986471" />
+			<polyline id="polyline913" points="34.0905430784,5.77204779101 35.1779448821,6.39440803703 34.13647215,7.09130244425" />
+			<polyline id="polyline915" points="34.2115723887,23.1565197729 35.158083662,22.3347806457 35.4708978795,23.5484452372" />
+			<polyline id="polyline917" points="35.2263566063,14.0689421686 35.8563296832,15.152793096 34.6056934763,15.2335384373" />
+			<polyline id="polyline919" points="35.5695833172,31.6807433421 34.4983187548,31.0304327857 35.5577907177,30.3608675709" />
+			<polyline id="polyline921" points="35.5937891792,39.3409917595 34.3431529723,39.2602464182 34.9731260492,38.1763954907" />
+			<polyline id="polyline923" points="36.179695174,47.1726687476 34.9638161023,46.8689420407 35.7781261289,45.9155258953" />
+			<polyline id="polyline925" points="3.21255236088,24.4385073455 2.06867021229,23.9260849873 3.03690469509,23.1304328165" />
+			<polyline id="polyline927" points="38.0435465533,11.1515508756 38.3756013279,9.94285522816 39.3084580123,10.7795011876" />
+			<polyline id="polyline929" points="38.1105781714,1.00434594625 39.3084580123,1.37204780817 38.4457362616,2.2807434568" />
+			<polyline id="polyline931" points="39.0055744049,25.4372651056 39.1532922298,26.6826067157 37.9740322828,26.2596253509" />
+			<polyline id="polyline933" points="39.4710717523,17.6732899806 39.6187895773,18.9186315907 38.4395296303,18.4956502259" />
+			<polyline id="polyline935" points="39.502725572,34.3676998534 39.9291211423,35.5459607184 38.6846915666,35.4024824581" />
+			<polyline id="polyline937" points="39.6187895773,43.6080724882 38.3700153597,43.7062091338 38.8386160229,42.544097337" />
+			<polyline id="polyline939" points="41.4627797365,40.1099358559 42.4092910098,39.2881967286 42.7221052273,40.5024824382" />
+			<polyline id="polyline941" points="42.1014420973,6.65155089317 40.8526678797,6.75030865676 41.3212685429,5.58757574204" />
+			<polyline id="polyline943" points="42.4508754395,30.1621098077 42.8772710098,31.3409917907 41.6328414341,31.1968924124" />
+			<polyline id="polyline945" points="42.8679610628,21.8720477282 43.4979341398,22.9558986557 42.247918596,23.036643997" />
+			<polyline id="polyline947" points="42.9970589939,46.8577619165 43.0324367923,48.1111780607 41.8960026013,47.5838488702" />
+			<polyline id="polyline949" points="43.5053820974,13.6360229156 43.6530999223,14.8813645257 42.4738399753,14.4583831609" />
+			<polyline id="polyline951" points="46.3418126015,18.5571409089 47.5750702408,18.3366440153 47.2219129198,19.5397496007" />
+			<polyline id="polyline953" points="46.9140640073,4.03105400898 45.747837986,4.49068133638 45.8570746969,3.24161301827" />
+			<polyline id="polyline955" points="47.0332313283,48.2739109793 48.230490506,48.6416128412 47.3677687553,49.5503084898" />
+			<polyline id="polyline957" points="47.2219129198,43.9186314932 46.1506483574,43.2683209367 47.2101203203,42.5987557219" />
+			<polyline id="polyline959" points="47.6874102673,9.91242044567 46.6986939012,10.6819856601 46.4510493123,9.45279311827" />
+			<polyline id="polyline961" points="47.8425760498,27.3037247257 46.5938018322,27.4018613713 47.0624024954,26.2397495745" />
+			<polyline id="polyline963" points="48.3074527342,35.9900600955 47.0667471373,36.1670787284 47.461488888,34.9776377392" />
+			<polyline id="polyline965" points="5.31597970845,10.2385074009 6.56847790479,10.2229794507 6.02415633978,11.3515508748" />
+		</g>
+	</g>
+</svg>

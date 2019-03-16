@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="50.00" height="50.00" viewBox="0 0 50.00 50.00">
+	<metadata id="metadata2">
+		<rdf:RDF>
+			<ns:item rdf:ID="biblio1">
+				<ns:link>rdf:resource=&quot;http://pubs.usgs.gov/tm/2006/11A02/</ns:link>
+				<ns:title>U.S. Geological Survey, 2006, FGDC Digital Cartographic Standard for Geologic Map Symbolization (PostScript Implementation): U.S. Geological Survey Techniques and Methods 11-A2</ns:title>
+			</ns:item>
+			<ns:item rdf:ID="biblio2">
+				<ns:link>https://davenquinn.com/projects/geologic-patterns/</ns:link>
+				<ns:title>FGDC Geologic Patterns for the Web</ns:title>
+			</ns:item>
+			<rdf:Description>
+				<dc:description>
+					Converted from 'FGDC Geologic Patterns for the Web' to QGIS compatible svg symbols, with customisable fill colour/stroke colour/stroke width (when appropriate).
+					SVG scaled to 50x50 pixels so that base outline-width is 0.387 px and width is 90 in the QGIS xml definition file. 
+					Some of the original FGDC symbols have been omitted from this set because they can be generated from other symbols using the 'texture width' and/or 'stroke width' fields in QGIS symbology form.
+				</dc:description>
+				<dc:date>01 MARCH 2019</dc:date>
+				<dc:creator>GeoProc.com</dc:creator>
+				<dc:publisher rdf:resource="https://github.com/BC-Consulting/QGIS-FGDC-Fill" />
+			</rdf:Description>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:title>FGDC fill symbol: Igneous - 331</dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path style="fill:none;stroke:none;stroke-width:0;" id="rect1500" width="50.00" height="50.00" x="0.0" y="0.0" />
+	<path id="path4" style="fill:none;stroke-miterlimit:4;" stroke="param(outline) #000" stroke-width="param(outline-width) 1" d="M 15.728716,0 12.481962,6.4935065 9.2352092,0 M 21.717172,0 24.963925,6.4935065 28.210678,0 M 34.199134,0 37.445887,6.4935065 40.692641,0 m 6.024531,0 3.246753,6.4935065 v -0.07215 M 0,6.4213564 3.2467532,0 M 12.481962,6.4935065 M 0,6.4935065 h 12.481962 m 0,0 L 6.2409812,19.011544 0,6.6017316 M 0,6.4935065 V 6.6017316 M 24.963925,6.4935065 H 12.481962 m 12.481963,0 m 0,0 L 18.759019,19.011544 12.445887,6.4935065 m 0.03607,0 m 0,0 m 12.481963,0 h 12.481962 m -12.481962,0 6.240981,12.4819625 6.240981,-12.4458875 M 24.963925,6.4935065 m 12.481962,0 m -12.481962,0 m 12.481962,0 6.277057,12.4819625 6.240981,-12.4458875 H 37.518038 m -0.07215,-0.036075 m 0.07215,0 h -0.07215 M 18.75902,19.047619 m 0,0 -6.313132,12.445887 -6.2049058,-12.445887 m 12.5180378,0 H 6.2049062 m 0,0 m 24.9999998,0 -6.240981,12.445887 -6.204906,-12.445887 m 12.445887,0 m -12.445887,0 m 12.445887,0 H 18.759019 m 0,0 m 24.963925,0 m -12.518038,0 m 0,0 6.277056,12.445887 6.204907,-12.445887 m -12.481963,0 h 12.518038 m -12.518038,0 m 12.518038,0 H 50 m 0,12.337662 v 0.108225 L 43.650794,19.047619 m 0.07215,0 m 0,0 m -37.5180378,0 H 0 M 0,31.385281 6.2409812,19.119769 m 0,-0.07215 m 0,0 m 6.2409808,12.481963 m 0,0 L 6.2409812,44.011544 0,31.565657 m 12.481962,-0.03608 H 0 m 0,0 v 0.07215 m 12.481962,-0.07215 h 12.481963 m -12.481963,0 m 12.481963,0 m -12.481963,0 6.277057,12.481962 6.132756,-12.518038 m -12.409813,0.03608 m 12.481963,0 6.240981,12.445887 6.240981,-12.481963 m 0,0.03608 m 0,0 H 24.963925 m 0,0 m 0,0 m 12.481962,0 m 0,0 6.277057,12.445887 6.240981,-12.481963 H 37.518038 m 0,0.03608 h -0.07215 M 18.759019,44.011544 H 6.2049062 m 0,0 m 12.5541128,0 L 15.728716,50 m -6.4935068,0 -2.994228,-5.988456 m 12.5180378,0 M 21.717172,50 18.759019,44.011544 m 0,0 m 12.445887,0 m 0,0 L 28.210678,50 m 2.994228,-5.988456 H 18.759019 m 0,0 m 24.963925,0 m 0,0 L 40.728716,50 m -6.457432,0 -3.066378,-5.988456 m 12.518038,0 H 31.204906 m 0,0 m 0,0 M 46.717172,50 43.722944,44.011544 m 0,0 m 6.277056,0 h -6.277056 m 0,0 m -37.5180378,0 H 0 m 6.2409812,0 m 0,0 L 3.2467532,50 m 2.994228,-5.988456 M 0,6.4213564 V 6.5295815 M 0,31.529582 v 0.07215 M 0,6.4935065 V 6.6017316 M 0,31.529582 v -0.144301" />
+</svg>

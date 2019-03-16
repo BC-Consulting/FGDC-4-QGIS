@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="50.00" height="50.00" viewBox="0 0 50.00 50.00">
+	<metadata id="metadata2">
+		<rdf:RDF>
+			<ns:item rdf:ID="biblio1">
+				<ns:link>rdf:resource=&quot;http://pubs.usgs.gov/tm/2006/11A02/</ns:link>
+				<ns:title>U.S. Geological Survey, 2006, FGDC Digital Cartographic Standard for Geologic Map Symbolization (PostScript Implementation): U.S. Geological Survey Techniques and Methods 11-A2</ns:title>
+			</ns:item>
+			<ns:item rdf:ID="biblio2">
+				<ns:link>https://davenquinn.com/projects/geologic-patterns/</ns:link>
+				<ns:title>FGDC Geologic Patterns for the Web</ns:title>
+			</ns:item>
+			<rdf:Description>
+				<dc:description>
+					Converted from 'FGDC Geologic Patterns for the Web' to QGIS compatible svg symbols, with customisable fill colour/stroke colour/stroke width (when appropriate).
+					SVG scaled to 50x50 pixels so that base outline-width is 0.387 px and width is 90 in the QGIS xml definition file. 
+					Some of the original FGDC symbols have been omitted from this set because they can be generated from other symbols using the 'texture width' and/or 'stroke width' fields in QGIS symbology form.
+				</dc:description>
+				<dc:date>01 MARCH 2019</dc:date>
+				<dc:creator>GeoProc.com</dc:creator>
+				<dc:publisher rdf:resource="https://github.com/BC-Consulting/QGIS-FGDC-Fill" />
+			</rdf:Description>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:title>FGDC fill symbol: Misc. and Metamorphic - 423</dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path style="fill:none;stroke:none;stroke-width:0;" id="rect1500" width="50.00" height="50.00" x="0.0" y="0.0" />
+	<g style="fill:none;" stroke="param(outline) #000" stroke-width="param(outline-width) 0.387">
+		<line x1="0.8737" y1="10.19" x2="5.437" y2="10.19" id="line5" />
+		<line x1="6.911" y1="4.227" x2="11.47" y2="4.227" id="line7" />
+		<line x1="10.02" y1="4.204" x2="10.02" y2="1.385" id="line9" />
+		<line x1="8.464" y1="4.204" x2="8.464" y2="2.748" id="line11" />
+		<line x1="13.39" y1="10.19" x2="17.95" y2="10.19" id="line13" />
+		<line x1="19.36" y1="4.227" x2="23.93" y2="4.227" id="line15" />
+		<line x1="22.47" y1="4.204" x2="22.47" y2="1.385" id="line17" />
+		<line x1="20.91" y1="4.204" x2="20.91" y2="2.748" id="line19" />
+		<line x1="0.8737" y1="22.72" x2="5.437" y2="22.72" id="line21" />
+		<line x1="3.592" y1="10.17" x2="3.592" y2="7.256" id="line23" />
+		<line x1="1.941" y1="10.17" x2="1.941" y2="8.526" id="line25" />
+		<line x1="6.911" y1="16.75" x2="11.47" y2="16.75" id="line27" />
+		<line x1="10.02" y1="16.73" x2="10.02" y2="13.91" id="line29" />
+		<line x1="8.464" y1="16.73" x2="8.464" y2="15.27" id="line31" />
+		<line x1="13.39" y1="22.72" x2="17.95" y2="22.72" id="line33" />
+		<line x1="16.11" y1="10.17" x2="16.11" y2="7.256" id="line35" />
+		<line x1="14.46" y1="10.17" x2="14.46" y2="8.526" id="line37" />
+		<line x1="19.36" y1="16.75" x2="23.93" y2="16.75" id="line39" />
+		<line x1="22.47" y1="16.73" x2="22.47" y2="13.91" id="line41" />
+		<line x1="20.91" y1="16.73" x2="20.91" y2="15.27" id="line43" />
+		<line x1="25.92" y1="10.19" x2="30.49" y2="10.19" id="line45" />
+		<line x1="31.96" y1="4.227" x2="36.52" y2="4.227" id="line47" />
+		<line x1="35.07" y1="4.204" x2="35.07" y2="1.385" id="line49" />
+		<line x1="33.51" y1="4.204" x2="33.51" y2="2.748" id="line51" />
+		<line x1="38.43" y1="10.19" x2="43" y2="10.19" id="line53" />
+		<line x1="44.41" y1="4.227" x2="48.98" y2="4.227" id="line55" />
+		<line x1="47.52" y1="4.204" x2="47.52" y2="1.385" id="line57" />
+		<line x1="45.96" y1="4.204" x2="45.96" y2="2.748" id="line59" />
+		<line x1="25.92" y1="22.72" x2="30.49" y2="22.72" id="line61" />
+		<line x1="28.64" y1="10.17" x2="28.64" y2="7.256" id="line63" />
+		<line x1="26.99" y1="10.17" x2="26.99" y2="8.526" id="line65" />
+		<line x1="31.96" y1="16.75" x2="36.52" y2="16.75" id="line67" />
+		<line x1="35.07" y1="16.73" x2="35.07" y2="13.91" id="line69" />
+		<line x1="33.51" y1="16.73" x2="33.51" y2="15.27" id="line71" />
+		<line x1="38.43" y1="22.72" x2="43" y2="22.72" id="line73" />
+		<line x1="41.16" y1="10.17" x2="41.16" y2="7.256" id="line75" />
+		<line x1="39.51" y1="10.17" x2="39.51" y2="8.526" id="line77" />
+		<line x1="44.41" y1="16.75" x2="48.98" y2="16.75" id="line79" />
+		<line x1="47.52" y1="16.73" x2="47.52" y2="13.91" id="line81" />
+		<line x1="45.96" y1="16.73" x2="45.96" y2="15.27" id="line83" />
+		<line x1="0.8737" y1="35.23" x2="5.437" y2="35.23" id="line85" />
+		<line x1="3.592" y1="22.68" x2="3.592" y2="19.77" id="line87" />
+		<line x1="1.941" y1="22.68" x2="1.941" y2="21.03" id="line89" />
+		<line x1="6.911" y1="29.25" x2="11.47" y2="29.25" id="line91" />
+		<line x1="10.02" y1="29.23" x2="10.02" y2="26.42" id="line93" />
+		<line x1="8.464" y1="29.23" x2="8.464" y2="27.77" id="line95" />
+		<line x1="13.39" y1="35.23" x2="17.95" y2="35.23" id="line97" />
+		<line x1="16.11" y1="22.68" x2="16.11" y2="19.77" id="line99" />
+		<line x1="14.46" y1="22.68" x2="14.46" y2="21.03" id="line101" />
+		<line x1="19.36" y1="29.25" x2="23.93" y2="29.25" id="line103" />
+		<line x1="22.47" y1="29.23" x2="22.47" y2="26.42" id="line105" />
+		<line x1="20.91" y1="29.23" x2="20.91" y2="27.77" id="line107" />
+		<line x1="0.8737" y1="47.75" x2="5.437" y2="47.75" id="line109" />
+		<line x1="3.592" y1="35.2" x2="3.592" y2="32.29" id="line111" />
+		<line x1="1.941" y1="35.2" x2="1.941" y2="33.55" id="line113" />
+		<line x1="3.981" y1="47.73" x2="3.981" y2="44.91" id="line115" />
+		<line x1="2.427" y1="47.73" x2="2.427" y2="46.27" id="line117" />
+		<line x1="6.911" y1="41.78" x2="11.47" y2="41.78" id="line119" />
+		<line x1="10.02" y1="41.76" x2="10.02" y2="38.94" id="line121" />
+		<line x1="8.464" y1="41.76" x2="8.464" y2="40.3" id="line123" />
+		<line x1="13.39" y1="47.75" x2="17.95" y2="47.75" id="line125" />
+		<line x1="16.11" y1="35.2" x2="16.11" y2="32.29" id="line127" />
+		<line x1="14.46" y1="35.2" x2="14.46" y2="33.55" id="line129" />
+		<line x1="16.5" y1="47.73" x2="16.5" y2="44.91" id="line131" />
+		<line x1="14.95" y1="47.73" x2="14.95" y2="46.27" id="line133" />
+		<line x1="19.36" y1="41.78" x2="23.93" y2="41.78" id="line135" />
+		<line x1="22.47" y1="41.76" x2="22.47" y2="38.94" id="line137" />
+		<line x1="20.91" y1="41.76" x2="20.91" y2="40.3" id="line139" />
+		<line x1="25.92" y1="35.23" x2="30.49" y2="35.23" id="line141" />
+		<line x1="28.64" y1="22.68" x2="28.64" y2="19.77" id="line143" />
+		<line x1="26.99" y1="22.68" x2="26.99" y2="21.03" id="line145" />
+		<line x1="31.96" y1="29.25" x2="36.52" y2="29.25" id="line147" />
+		<line x1="35.07" y1="29.23" x2="35.07" y2="26.42" id="line149" />
+		<line x1="33.51" y1="29.23" x2="33.51" y2="27.77" id="line151" />
+		<line x1="38.43" y1="35.23" x2="43" y2="35.23" id="line153" />
+		<line x1="41.16" y1="22.68" x2="41.16" y2="19.77" id="line155" />
+		<line x1="39.51" y1="22.68" x2="39.51" y2="21.03" id="line157" />
+		<line x1="44.41" y1="29.25" x2="48.98" y2="29.25" id="line159" />
+		<line x1="47.52" y1="29.23" x2="47.52" y2="26.42" id="line161" />
+		<line x1="45.96" y1="29.23" x2="45.96" y2="27.77" id="line163" />
+		<line x1="25.92" y1="47.75" x2="30.49" y2="47.75" id="line165" />
+		<line x1="28.64" y1="35.2" x2="28.64" y2="32.29" id="line167" />
+		<line x1="26.99" y1="35.2" x2="26.99" y2="33.55" id="line169" />
+		<line x1="29.03" y1="47.73" x2="29.03" y2="44.91" id="line171" />
+		<line x1="27.47" y1="47.73" x2="27.47" y2="46.27" id="line173" />
+		<line x1="31.96" y1="41.78" x2="36.52" y2="41.78" id="line175" />
+		<line x1="35.07" y1="41.76" x2="35.07" y2="38.94" id="line177" />
+		<line x1="33.51" y1="41.76" x2="33.51" y2="40.3" id="line179" />
+		<line x1="38.43" y1="47.75" x2="43" y2="47.75" id="line181" />
+		<line x1="41.16" y1="35.2" x2="41.16" y2="32.29" id="line183" />
+		<line x1="39.51" y1="35.2" x2="39.51" y2="33.55" id="line185" />
+		<line x1="41.54" y1="47.73" x2="41.54" y2="44.91" id="line187" />
+		<line x1="39.99" y1="47.73" x2="39.99" y2="46.27" id="line189" />
+		<line x1="44.41" y1="41.78" x2="48.98" y2="41.78" id="line191" />
+		<line x1="47.52" y1="41.76" x2="47.52" y2="38.94" id="line193" />
+		<line x1="45.96" y1="41.76" x2="45.96" y2="40.3" id="line195" />
+	</g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="50.00" height="50.00" viewBox="0 0 50.00 50.00">
+	<metadata id="metadata2">
+		<rdf:RDF>
+			<ns:item rdf:ID="biblio1">
+				<ns:link>rdf:resource=&quot;http://pubs.usgs.gov/tm/2006/11A02/</ns:link>
+				<ns:title>U.S. Geological Survey, 2006, FGDC Digital Cartographic Standard for Geologic Map Symbolization (PostScript Implementation): U.S. Geological Survey Techniques and Methods 11-A2</ns:title>
+			</ns:item>
+			<ns:item rdf:ID="biblio2">
+				<ns:link>https://davenquinn.com/projects/geologic-patterns/</ns:link>
+				<ns:title>FGDC Geologic Patterns for the Web</ns:title>
+			</ns:item>
+			<rdf:Description>
+				<dc:description>
+					Converted from 'FGDC Geologic Patterns for the Web' to QGIS compatible svg symbols, with customisable fill colour/stroke colour/stroke width (when appropriate).
+					SVG scaled to 50x50 pixels so that base outline-width is 0.387 px and width is 90 in the QGIS xml definition file. 
+					Some of the original FGDC symbols have been omitted from this set because they can be generated from other symbols using the 'texture width' and/or 'stroke width' fields in QGIS symbology form.
+				</dc:description>
+				<dc:date>01 MARCH 2019</dc:date>
+				<dc:creator>GeoProc.com</dc:creator>
+				<dc:publisher rdf:resource="https://github.com/BC-Consulting/QGIS-FGDC-Fill" />
+			</rdf:Description>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:title>FGDC fill symbol: Igneous - 303</dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path style="fill:none;stroke:none;stroke-width:0;" id="rect1500" width="50.00" height="50.00" x="0.0" y="0.0" />
+	<path stroke="param(outline) #000" stroke-width="param(outline-width) 0.387" id="path9" style="fill:none;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;" d="M 3.2472953,25.752779 3.8413645,22.583156 M 12.13853,0.19769798 11.049404,2.3768131 M 3.0294699,4.7540312 0.19774037,5.0511828 M 5.5443626,12.816757 4.4156312,9.7065645 M 0.19774037,18.363596 1.4452855,17.769293 m 5.782273,-1.030128 3.2673805,1.842344 M 3.2472953,0.79200301 3.3661091,0.19769798 M 16.435631,4.7144098 19.465383,2.852256 m 0.594069,7.250512 3.623822,0.990508 m -12.990312,-2.733801 3.564414,1.881964 m 3.366392,4.100699 -3.366392,1.58481 m 4.217891,7.924057 -2.633706,-2.654557 m -6.7327835,2.912089 1.3861615,3.724307 M 24.059518,5.1502333 27.782351,4.7540312 m -2.712917,11.8860828 -2.693112,1.30747 M 37.426072,0.19769798 36.336947,2.3768131 m -6.633773,7.3297514 1.128731,3.1101925 m 4.37631,6.893928 -3.267381,-1.842342 M 28.079385,0.19769798 27.960572,0.79200301 M 41.723173,4.7144098 44.752925,2.852256 m -0.534662,7.250512 3.623822,0.990508 M 34.930982,7.3293485 37.267654,10.241439 m 5.108996,3.526205 -3.4258,1.584812 m 4.910972,7.0326 -2.633707,-2.654561 m -7.029818,7.884438 2.871335,-2.377218 M 49.782712,5.0313731 48.792596,5.1304316 M 48.21833,19.07677 49.802513,18.323985 M 3.8413645,47.543932 3.4453183,49.802287 M 3.0294699,29.714807 0.19774037,29.992149 M 6.0988272,37.777534 4.9700957,34.607911 M 1.4452855,42.730069 0.19774037,43.324372 M 10.494939,44.096968 7.2275585,42.254626 M 3.2472953,25.752779 3.8413645,22.583156 m 13.1883345,7.092029 3.009951,-1.881961 m 3.643624,8.260827 -3.623822,-0.990507 m -9.168467,0.732975 2.257463,-3.169622 m 4.47532,6.101524 -3.366392,1.58481 m 4.89117,6.438294 -2.633706,-2.634747 m -3.802042,4.615763 -0.514862,1.069746 m 11.861582,-19.730898 3.722833,-0.356582 m -1.584185,13.015262 -2.693113,1.287659 m 5.049588,3.526204 -0.396046,2.258355 m 2.67331,-12.024753 -1.148533,-3.169623 m 5.524843,10.043741 -3.267381,-1.842343 M 27.52492,24.861322 28.11899,21.6917 m 13.604183,7.983485 3.029752,-1.881961 m 3.643625,8.260827 -3.604019,-0.990507 m -8.15855,-2.813039 -0.59407,3.565824 m 6.336739,2.912092 -3.4258,1.58481 m 4.910972,6.438294 -2.633707,-2.634747 m -3.247578,4.615763 -0.514859,1.069746 m 11.307115,-19.730898 0.990116,-0.09906 m 0.0198,13.312414 -1.584185,0.732974" />
+</svg>

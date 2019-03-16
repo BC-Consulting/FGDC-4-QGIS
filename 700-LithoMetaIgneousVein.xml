@@ -1,0 +1,1574 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="1">
+  <symbols>
+    <symbol type="fill" name="701 Metamorphism" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/701-Metamorphism.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@701 Metamorphism@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="702 Quartzite" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/702-Quartzite.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@702 Quartzite@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="703 Slate" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/703-Slate.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@703 Slate@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="704 Schistose Or Gneissoid Granite" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/704-SchistoseOrGneissoidGranite.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@704 Schistose Or Gneissoid Granite@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="705 Schist" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/705-Schist.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@705 Schist@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="706 Contorted Schist" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/706-ContortedSchist.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@706 Contorted Schist@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="707 Schist And Gneiss" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/707-SchistAndGneiss.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@707 Schist And Gneiss@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="708 Gneiss" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/708-Gneiss.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@708 Gneiss@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="709 Contorted Gneiss" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/709-ContortedGneiss.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@709 Contorted Gneiss@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="710 Soapstone , Talc , Or Serpentinite" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/710-Soapstone,Talc,OrSerpentinite.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@710 Soapstone , Talc , Or Serpentinite@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="711 Tuffaceous Rock" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/711-TuffaceousRock.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@711 Tuffaceous Rock@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="712 Crystal Tuff" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/712-CrystalTuff.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@712 Crystal Tuff@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="713 Devitrified Tuff" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/713-DevitrifiedTuff.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@713 Devitrified Tuff@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="714 Volcanic Breccia And Tuff" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/714-VolcanicBrecciaAndTuff.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@714 Volcanic Breccia And Tuff@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="715 Volcanic Breccia Or Agglomerate" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/715-VolcanicBrecciaOrAgglomerate.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@715 Volcanic Breccia Or Agglomerate@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="716 Zeolitic Rock" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/716-ZeoliticRock.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@716 Zeolitic Rock@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="717 Basaltic Flows" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/717-BasalticFlows.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@717 Basaltic Flows@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="719 Granite 2nd Option" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/719-Granite_2ndOption.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@719 Granite 2nd Option@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="720 Banded Igneous Rock" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/720-BandedIgneousRock.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@720 Banded Igneous Rock@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="721 Igneous Rock 1st Option" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/721-IgneousRock_1stOption.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@721 Igneous Rock 1st Option@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="722 Igneous Rock 2nd Option" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/722-IgneousRock_2ndOption.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@722 Igneous Rock 2nd Option@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="723 Igneous Rock 3rd Option" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/723-IgneousRock_3rdOption.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@723 Igneous Rock 3rd Option@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="724 Igneous Rock 4th Option" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/724-IgneousRock_4thOption.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@724 Igneous Rock 4th Option@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="725 Igneous Rock 5th Option" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/725-IgneousRock_5thOption.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@725 Igneous Rock 5th Option@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="726 Igneous Rock 6th Option" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/726-IgneousRock_6thOption.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@726 Igneous Rock 6th Option@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="727 Igneous Rock 7th Option" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/727-IgneousRock_7thOption.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@727 Igneous Rock 7th Option@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="728 Igneous Rock 8th Option" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/728-IgneousRock_8thOption.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@728 Igneous Rock 8th Option@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="729 Porphyritic Rock 1st Option" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/729-PorphyriticRock_1stOption.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@729 Porphyritic Rock 1st Option@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="730 Porphyritic Rock 2nd Option" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/730-PorphyriticRock_2ndOption.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@730 Porphyritic Rock 2nd Option@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="731 Vitrophyre" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/731-Vitrophyre.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@731 Vitrophyre@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="732 Quartz" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/732-Quartz.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@732 Quartz@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="733 Ore" tags="700-LithoMetaIgneousVein" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/700-LithoMetaIgneousVein/733-Ore.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@733 Ore@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+</qgis_style>

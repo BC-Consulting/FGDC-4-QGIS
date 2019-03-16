@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="50.00" height="50.00" viewBox="0 0 50.00 50.00">
+	<metadata id="metadata2">
+		<rdf:RDF>
+			<ns:item rdf:ID="biblio1">
+				<ns:link>rdf:resource=&quot;http://pubs.usgs.gov/tm/2006/11A02/</ns:link>
+				<ns:title>U.S. Geological Survey, 2006, FGDC Digital Cartographic Standard for Geologic Map Symbolization (PostScript Implementation): U.S. Geological Survey Techniques and Methods 11-A2</ns:title>
+			</ns:item>
+			<ns:item rdf:ID="biblio2">
+				<ns:link>https://davenquinn.com/projects/geologic-patterns/</ns:link>
+				<ns:title>FGDC Geologic Patterns for the Web</ns:title>
+			</ns:item>
+			<rdf:Description>
+				<dc:description>
+					Converted from 'FGDC Geologic Patterns for the Web' to QGIS compatible svg symbols, with customisable fill colour/stroke colour/stroke width (when appropriate).
+					SVG scaled to 50x50 pixels so that base outline-width is 0.387 px and width is 90 in the QGIS xml definition file. 
+					Some of the original FGDC symbols have been omitted from this set because they can be generated from other symbols using the 'texture width' and/or 'stroke width' fields in QGIS symbology form.
+				</dc:description>
+				<dc:date>01 MARCH 2019</dc:date>
+				<dc:creator>GeoProc.com</dc:creator>
+				<dc:publisher rdf:resource="https://github.com/BC-Consulting/QGIS-FGDC-Fill" />
+			</rdf:Description>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:title>FGDC fill symbol: Sedimentary - 215</dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path style="fill:none;stroke:none;stroke-width:0;" id="rect1500" width="50.00" height="50.00" x="0.0" y="0.0" />
+	<g style="fill:none;" stroke="param(outline) #000000" stroke-width="param(outline-width) 0.686">
+		<line id="line5" y2="50" x2="0" y1="0" x1="0" />
+		<line id="line7" y2="50" x2="6.8177676" y1="0" x1="6.8177676" />
+		<line id="line9" y2="50" x2="9.0905905" y1="0" x1="9.0905905" />
+		<line id="line11" y2="50" x2="13.636236" y1="0" x1="13.636236" />
+		<line id="line13" y2="50" x2="15.90906" y1="0" x1="15.90906" />
+		<line id="line15" y2="50" x2="18.181181" y1="0" x1="18.181181" />
+		<line id="line17" y2="50" x2="20.454004" y1="0" x1="20.454004" />
+		<line id="line19" y2="50" x2="22.726826" y1="0" x1="22.726826" />
+		<line id="line21" y2="50" x2="24.999651" y1="0" x1="24.999651" />
+		<line id="line23" y2="50" x2="2.2721217" y1="0" x1="2.2721217" />
+		<line id="line25" y2="50" x2="27.272472" y1="0" x1="27.272472" />
+		<line id="line27" y2="50" x2="29.545296" y1="0" x1="29.545296" />
+		<line id="line29" y2="50" x2="31.818119" y1="0" x1="31.818119" />
+		<line id="line31" y2="50" x2="34.090942" y1="0" x1="34.090942" />
+		<line id="line33" y2="50" x2="36.363766" y1="0" x1="36.363766" />
+		<line id="line35" y2="50" x2="38.635887" y1="0" x1="38.635887" />
+		<line id="line37" y2="50" x2="40.90871" y1="0" x1="40.90871" />
+		<line id="line39" y2="50" x2="43.181534" y1="0" x1="43.181534" />
+		<line id="line41" y2="50" x2="45.454357" y1="0" x1="45.454357" />
+		<line id="line43" y2="50" x2="47.727177" y1="0" x1="47.727177" />
+		<line id="line45" y2="50" x2="50" y1="0" x1="50" />
+		<line id="line47" y2="50" x2="4.5449448" y1="0" x1="4.5449448" />
+		<line id="line49" y2="50" x2="11.363414" y1="0" x1="11.363414" />
+	</g>
+</svg>

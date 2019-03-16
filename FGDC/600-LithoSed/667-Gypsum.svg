@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="38.863" height="38.864" viewBox="0.106 -38.97 38.863 38.864">
+	<metadata id="metadata2">
+	<rdf:RDF
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:cc="http://creativecommons.org/ns#"
+		xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		xmlns="http://my.netscape.com/rdf/simple/0.9/">
+		<item rdf:ID="biblio1">
+			<link>rdf:resource="http://pubs.usgs.gov/tm/2006/11A02/</link>
+			<title>U.S. Geological Survey, 2006, FGDC Digital Cartographic Standard for Geologic Map Symbolization (PostScript Implementation): U.S. Geological Survey Techniques and Methods 11-A2</title>
+		</item>
+		<item rdf:ID="biblio2">
+			<link>https://davenquinn.com/projects/geologic-patterns/</link>
+			<title>FGDC Geologic Patterns for the Web</title>
+		</item>
+		<rdf:Description>
+			<dc:description>Converted from 'FGDC Geologic Patterns for the Web' to QGIS compatible svg symbols, with customisable fill colour/stroke colour/stroke width (when appropriate)</dc:description>
+			<dc:date>01 MARCH 2019</dc:date>
+			<dc:creator>GeoProc.com</dc:creator>
+			<dc:publisher rdf:resource="https://github.com/BC-Consulting/QGIS-FGDC-Fill" />
+		</rdf:Description>
+		<cc:Work rdf:about="">
+			<dc:format>image/svg+xml</dc:format>
+			<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+			<dc:title>FGDC fill symbol: Lithology - Sedimentary - 667 Gypsum</dc:title>
+		</cc:Work>
+	</rdf:RDF>
+	</metadata>
+	<g>
+		<rect x="0.106" y="-38.97" style="fill:none;stroke:none;" width="38.863" height="38.864"/>
+        <g style="fill:none;" stroke="param(outline) #000" stroke-width="param(outline-width) 0.6">
+			<line x1="0.109" y1="-38.97" x2="38.969" y2="-0.149"/>
+			<line x1="2.699" y1="-38.97" x2="38.969" y2="-2.737"/>
+			<line x1="5.289" y1="-38.97" x2="38.969" y2="-5.324"/>
+			<line x1="7.878" y1="-38.97" x2="38.969" y2="-7.912"/>
+			<line x1="10.469" y1="-38.97" x2="38.969" y2="-10.5"/>
+			<line x1="13.059" y1="-38.97" x2="38.969" y2="-13.087"/>
+			<line x1="15.65" y1="-38.97" x2="38.969" y2="-15.674"/>
+			<line x1="18.24" y1="-38.97" x2="38.969" y2="-18.262"/>
+			<line x1="20.831" y1="-38.97" x2="38.969" y2="-20.85"/>
+			<line x1="23.42" y1="-38.97" x2="38.969" y2="-23.437"/>
+			<line x1="26.011" y1="-38.97" x2="38.969" y2="-26.025"/>
+			<line x1="28.601" y1="-38.97" x2="38.969" y2="-28.612"/>
+			<line x1="31.192" y1="-38.97" x2="38.969" y2="-31.2"/>
+			<line x1="33.782" y1="-38.97" x2="38.969" y2="-33.788"/>
+			<line x1="36.372" y1="-38.97" x2="38.969" y2="-36.375"/>
+			<line x1="0.106" y1="-36.383" x2="36.42" y2="-0.106"/>
+			<line x1="0.106" y1="-33.794" x2="33.83" y2="-0.106"/>
+			<line x1="0.106" y1="-31.206" x2="31.238" y2="-0.106"/>
+			<line x1="0.106" y1="-28.617" x2="28.646" y2="-0.106"/>
+			<line x1="0.106" y1="-26.028" x2="26.054" y2="-0.106"/>
+			<line x1="0.106" y1="-23.439" x2="23.463" y2="-0.106"/>
+			<line x1="0.106" y1="-20.85" x2="20.872" y2="-0.106"/>
+			<line x1="0.106" y1="-18.26" x2="18.28" y2="-0.106"/>
+			<line x1="0.106" y1="-15.671" x2="15.688" y2="-0.106"/>
+			<line x1="0.106" y1="-13.083" x2="13.096" y2="-0.106"/>
+			<line x1="0.106" y1="-10.494" x2="10.504" y2="-0.106"/>
+			<line x1="0.106" y1="-7.905" x2="7.914" y2="-0.106"/>
+			<line x1="0.106" y1="-5.316" x2="5.322" y2="-0.106"/>
+			<line x1="0.106" y1="-2.727" x2="2.73" y2="-0.106"/>
+		</g>
+	</g>
+</svg>

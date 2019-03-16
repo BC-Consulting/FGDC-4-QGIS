@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="50.00" height="50.00" viewBox="0 0 50.00 50.00">
+	<metadata id="metadata2">
+		<rdf:RDF>
+			<ns:item rdf:ID="biblio1">
+				<ns:link>rdf:resource=&quot;http://pubs.usgs.gov/tm/2006/11A02/</ns:link>
+				<ns:title>U.S. Geological Survey, 2006, FGDC Digital Cartographic Standard for Geologic Map Symbolization (PostScript Implementation): U.S. Geological Survey Techniques and Methods 11-A2</ns:title>
+			</ns:item>
+			<ns:item rdf:ID="biblio2">
+				<ns:link>https://davenquinn.com/projects/geologic-patterns/</ns:link>
+				<ns:title>FGDC Geologic Patterns for the Web</ns:title>
+			</ns:item>
+			<rdf:Description>
+				<dc:description>
+					Converted from 'FGDC Geologic Patterns for the Web' to QGIS compatible svg symbols, with customisable fill colour/stroke colour/stroke width (when appropriate).
+					SVG scaled to 50x50 pixels so that base outline-width is 0.387 px and width is 90 in the QGIS xml definition file. 
+					Some of the original FGDC symbols have been omitted from this set because they can be generated from other symbols using the 'texture width' and/or 'stroke width' fields in QGIS symbology form.
+				</dc:description>
+				<dc:date>01 MARCH 2019</dc:date>
+				<dc:creator>GeoProc.com</dc:creator>
+				<dc:publisher rdf:resource="https://github.com/BC-Consulting/QGIS-FGDC-Fill" />
+			</rdf:Description>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:title>FGDC fill symbol: Sedimentary - 226</dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path style="fill:none;stroke:none;stroke-width:0;" id="rect1500" width="50.00" height="50.00" x="0.0" y="0.0" />
+	<g style="fill:none;" stroke="param(outline) #000" stroke-width="param(outline-width) 0.696">
+		<line id="line5" y2="50" x2="7.1431613" y1="0" x1="7.1431613" />
+		<line id="line7" y2="50" x2="8.9287748" y1="0" x1="8.9287748" />
+		<line id="line9" y2="50" x2="10.714388" y1="0" x1="10.714388" />
+		<line id="line11" y2="50" x2="12.5" y1="0" x1="12.5" />
+		<line id="line13" y2="50" x2="0" y1="0" x1="0" />
+		<line id="line15" y2="50" x2="14.285614" y1="0" x1="14.285614" />
+		<line id="line17" y2="50" x2="16.071936" y1="0" x1="16.071936" />
+		<line id="line19" y2="50" x2="17.857548" y1="0" x1="17.857548" />
+		<line id="line21" y2="50" x2="19.643162" y1="0" x1="19.643162" />
+		<line id="line23" y2="50" x2="21.428774" y1="0" x1="21.428774" />
+		<line id="line25" y2="50" x2="23.214388" y1="0" x1="23.214388" />
+		<line id="line27" y2="50" x2="25" y1="0" x1="25" />
+		<line id="line29" y2="50" x2="1.7856132" y1="0" x1="1.7856132" />
+		<line id="line31" y2="50" x2="26.785614" y1="0" x1="26.785614" />
+		<line id="line33" y2="50" x2="28.571226" y1="0" x1="28.571226" />
+		<line id="line35" y2="50" x2="30.357548" y1="0" x1="30.357548" />
+		<line id="line37" y2="50" x2="32.143162" y1="0" x1="32.143162" />
+		<line id="line39" y2="50" x2="33.928776" y1="0" x1="33.928776" />
+		<line id="line41" y2="50" x2="35.714386" y1="0" x1="35.714386" />
+		<line id="line43" y2="50" x2="37.50071" y1="0" x1="37.50071" />
+		<line id="line45" y2="50" x2="39.286324" y1="0" x1="39.286324" />
+		<line id="line47" y2="50" x2="41.071938" y1="0" x1="41.071938" />
+		<line id="line49" y2="50" x2="42.857552" y1="0" x1="42.857552" />
+		<line id="line51" y2="50" x2="44.643162" y1="0" x1="44.643162" />
+		<line id="line53" y2="50" x2="46.42878" y1="0" x1="46.42878" />
+		<line id="line55" y2="50" x2="3.5712264" y1="0" x1="3.5712264" />
+		<line id="line57" y2="50" x2="48.21439" y1="0" x1="48.21439" />
+		<line id="line59" y2="50" x2="50" y1="0" x1="50" />
+		<line id="line61" y2="50" x2="5.3568392" y1="0" x1="5.3568392" />
+	</g>
+</svg>

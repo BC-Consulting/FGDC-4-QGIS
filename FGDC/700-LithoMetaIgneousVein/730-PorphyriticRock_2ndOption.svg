@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="50.00" height="50.00" viewBox="0 0 50.00 50.00">
+	<metadata id="metadata2">
+		<rdf:RDF>
+			<ns:item rdf:ID="biblio1">
+				<ns:link>rdf:resource=&quot;http://pubs.usgs.gov/tm/2006/11A02/</ns:link>
+				<ns:title>U.S. Geological Survey, 2006, FGDC Digital Cartographic Standard for Geologic Map Symbolization (PostScript Implementation): U.S. Geological Survey Techniques and Methods 11-A2</ns:title>
+			</ns:item>
+			<ns:item rdf:ID="biblio2">
+				<ns:link>https://davenquinn.com/projects/geologic-patterns/</ns:link>
+				<ns:title>FGDC Geologic Patterns for the Web</ns:title>
+			</ns:item>
+			<rdf:Description>
+				<dc:description>
+					Converted from 'FGDC Geologic Patterns for the Web' to QGIS compatible svg symbols, with customisable fill colour/stroke colour/stroke width (when appropriate).
+					SVG scaled to 50x50 pixels so that base outline-width is 0.387 px and width is 90 in the QGIS xml definition file. 
+					Some of the original FGDC symbols have been omitted from this set because they can be generated from other symbols using the 'texture width' and/or 'stroke width' fields in QGIS symbology form.
+				</dc:description>
+				<dc:date>01 MARCH 2019</dc:date>
+				<dc:creator>GeoProc.com</dc:creator>
+				<dc:publisher rdf:resource="https://github.com/BC-Consulting/QGIS-FGDC-Fill" />
+			</rdf:Description>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:title>FGDC fill symbol: Lithology - Metamorphism, Igneous and vein - 730 Porphyritic Rock 2nd Option</dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path style="fill:none;stroke:none;stroke-width:0;" id="rect1500" width="50.00" height="50.00" x="0.0" y="0.0" />
+	<g style="fill:none;" stroke="param(outline) #000" stroke-width="param(outline-width) 0.6">
+		<polygon id="polygon7" points="29.706482,14.883333 25.315741,12.562963 24.777778,13.587963 29.168519,15.908333" />
+		<polygon id="polygon9" points="42.262963,19.565741 41.119445,19.386111 40.333334,24.289815 41.476852,24.469444" />
+		<polygon id="polygon11" points="29.878704,42.328704 28.735185,42.148148 27.949074,47.051852 29.092593,47.231482" />
+		<polygon id="polygon13" points="13.862037,24.932407 12.70463,24.941667 12.72963,29.907407 13.887037,29.899074" />
+		<polygon id="polygon15" points="31.059259,26.287963 30.065741,25.694444 27.50463,29.948148 28.497222,30.542593" />
+		<polygon id="polygon17" points="38.698148,34.100926 38.444445,32.971296 33.596296,34.048148 33.85,35.177778" />
+		<polygon id="polygon19" points="41.12780458,37.81586963 39.92780458,42.63531363 41.05187858,42.91123963 42.25187858,38.09272063" />
+		<polygon id="polygon21" points="35.930556,26.336111 35.158333,27.199074 38.849074,30.522222 39.621296,29.659259" />
+		<polygon id="polygon23" points="22.487037,35.822222 21.362037,35.55 20.181482,40.374074 21.305556,40.64537" />
+		<polygon id="polygon25" points="20.575,8.9305554 19.714815,8.1574073 16.385185,11.841667 17.24537,12.614815" />
+		<polygon id="polygon27" points="43.64619495,49.1210876 48.04341695,46.8136796 47.50267595,45.7896056 43.10545395,48.0970136" />
+		<polygon id="polygon29" points="4.2609347,41.2208304 8.6350085,38.8699044 8.0840828,37.8523124 3.7100087,40.2032384" />
+		<polygon id="polygon33" points="42.21625452,5.9977415 44.89032852,1.8134822 43.91347652,1.1931118 41.23940252,5.3773711" />
+		<polygon id="polygon35" points="43.915741,13.566667 43.122222,14.409259 46.728704,17.823148 47.522222,16.980555" />
+		<polygon id="polygon37" points="34.613889,15.334259 35.364815,16.214815 39.151852,13.002778 38.400926,12.122222" />
+		<polygon id="polygon39" points="33.550926,1.7407406 32.645371,2.4620369 35.858333,6.7203702 36.763889,5.999074" />
+		<polygon id="polygon41" points="6.8833334,23.347222 7.6601852,24.20463 11.348148,20.878704 10.57037,20.021296" />
+		<polygon id="polygon43" points="12.640741,9.8851851 12.60463,4.9194443 11.447222,4.9305554 11.483333,9.8972221" />
+		<polygon id="polygon45" points="25.70463,18.714815 24.578704,18.982407 25.713889,23.817593 26.839815,23.549074" />
+		<polygon id="polygon47" points="8.24470136,45.071061 9.37988656,49.90532 10.50581226,49.637727 9.37062726,44.803468" />
+		<polygon id="polygon49" points="46.31749095,5.89922921 47.55637995,10.70848821 48.67582495,10.41589621 47.43693595,5.60756251" />
+		<polygon id="polygon51" points="32.432408,8.3592591 27.486111,7.9212962 27.387037,9.074074 32.333333,9.5120369" />
+		<polygon id="polygon53" points="31.705556,20.721296 31.870371,21.866667 36.787037,21.171296 36.622222,20.025926" />
+		<polygon id="polygon55" points="15.849074,17.075 15.123148,17.976852 18.984259,21.100926 19.709259,20.198148" />
+		<polygon id="polygon57" points="44.269782,36.46512543 47.159597,40.50308843 48.099412,39.82716243 45.208671,35.78919943" />
+		<polygon id="polygon59" points="2.8138889,16.9 1.6564815,16.928704 1.7666667,21.893518 2.9231482,21.864815" />
+		<polygon id="polygon61" points="2.3509259,31.483333 1.1935185,31.512037 1.3037037,36.476852 2.4601852,36.448148" />
+		<polygon id="polygon63" points="5.012963,28.242593 4.3935185,29.22037 8.5805556,31.888889 9.2,30.911111" />
+		<polygon id="polygon67" points="24.54681053,47.0964034 25.16625453,46.1186254 20.97829153,43.4491814 20.35884753,44.4269594" />
+		<polygon id="polygon69" points="11.96659154,36.17037 15.18048054,39.955556 16.06011054,39.203704 12.84622154,35.418519" />
+		<polygon id="polygon71" points="26.521296,34.049074 25.640741,34.8 28.855556,38.586111 29.735185,37.834259" />
+		<polygon id="polygon73" points="18.151852,29.474074 18.257407,30.626852 23.203704,30.190741 23.099074,29.037963" />
+		<polygon id="polygon75" points="6.8935185,11.524074 6.050926,12.316667 9.4416667,15.94537 10.285185,15.152778" />
+		<polygon id="polygon77" points="34.039815,45.878704 33.556482,46.930556 38.062963,49.017593 38.546296,47.965741" />
+		<polygon id="polygon79" points="44.857408,32.060185 45.717593,32.833333 49.047222,29.149074 48.187037,28.375" />
+		<polygon id="polygon81" points="13.8545821,48.14887091 17.1842111,44.46461191 16.3231001,43.69053791 12.9943961,47.37572291" />
+		<polygon id="polygon83" points="33.321296,42.24537 34.182408,43.018519 37.512037,39.334259 36.650926,38.560185" />
+		<polygon id="polygon87" points="1.45599456,11.33292152 5.53562416,8.50051362 4.87266116,7.55143962 0.79303156,10.38384652" />
+		<polygon id="polygon89" points="7.4216068,2.82381704 2.3882735,1.05715034 2.0336438,2.15900224 7.0669772,3.92566894" />
+		<path id="polygon65" d="M0.0 44.167503C0.0 44.167503 3.567875 46.434259 3.567875 46.434259C3.567875 46.434259 4.1873195 45.456482 4.1873195 45.456482C4.1873195 45.456482 0.00028242732 42.787037 0.00028242732 42.787037" />
+		<path d="M50.000282 42.787037C50.000282 42.787037 49.380838 43.764815 49.380838 43.764815C49.380838 43.764815 50.0 44.167503 50.0 44.167503" id="path904" />
+		<path id="polygon85" d="M0.0 25.370163C0.0 25.370163 0.07574 25.445373 0.07574 25.445373C0.07574 25.445373 0.919258 24.652781 0.919258 24.652781C0.919258 24.652781 0.0 23.674687 0.0 23.674687" />
+		<path d="M50.0 23.674687C50.0 23.674687 47.528519 21.025 47.528519 21.025C47.528519 21.025 46.685 21.817593 46.685 21.817593C46.685 21.817593 50.0 25.370163 50.0 25.370163" id="path907" />
+		<path d="M15.081675 0.0C15.081675 0.0 18.806021 3.8076577 18.806021 3.8076577C18.806021 3.8076577 19.613487 2.980055 19.613487 2.980055C19.613487 2.980055 16.70179 0.0 16.70179 0.0" id="path910" />
+		<path id="polygon31" d="M16.70179 50.0C16.70179 50.0 15.889141 49.169942 15.889141 49.169942C15.889141 49.169942 15.081675 50.0 15.081675 50.0" />
+		<path id="polygon5" d="M27.739478 50.0C27.739478 50.0 26.762626 49.377446 26.762626 49.377446C26.762626 49.377446 26.362562 50.0 26.362562 50.0" />
+		<path d="M26.362562 0.0C26.362562 0.0 24.088552 3.5617051 24.088552 3.5617051C24.088552 3.5617051 25.065404 4.1820755 25.065404 4.1820755C25.065404 4.1820755 27.739478 4.4408920985e-16 27.739478 4.4408920985e-16" id="path913" />
+	</g>
+</svg>

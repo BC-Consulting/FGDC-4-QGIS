@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="54.125" height="54.125" viewBox="1 -55.125 54.125 54.125">
+	<metadata id="metadata2">
+	<rdf:RDF
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:cc="http://creativecommons.org/ns#"
+		xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		xmlns="http://my.netscape.com/rdf/simple/0.9/">
+		<item rdf:ID="biblio1">
+			<link>rdf:resource="http://pubs.usgs.gov/tm/2006/11A02/</link>
+			<title>U.S. Geological Survey, 2006, FGDC Digital Cartographic Standard for Geologic Map Symbolization (PostScript Implementation): U.S. Geological Survey Techniques and Methods 11-A2</title>
+		</item>
+		<item rdf:ID="biblio2">
+			<link>https://davenquinn.com/projects/geologic-patterns/</link>
+			<title>FGDC Geologic Patterns for the Web</title>
+		</item>
+		<rdf:Description>
+			<dc:description>Converted from 'FGDC Geologic Patterns for the Web' to QGIS compatible svg symbols, with customisable fill colour/stroke colour/stroke width (when appropriate)</dc:description>
+			<dc:date>01 MARCH 2019</dc:date>
+			<dc:creator>GeoProc.com</dc:creator>
+			<dc:publisher rdf:resource="https://github.com/BC-Consulting/QGIS-FGDC-Fill" />
+		</rdf:Description>
+		<cc:Work rdf:about="">
+			<dc:format>image/svg+xml</dc:format>
+			<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+			<dc:title>FGDC fill symbol: Lithology - Sedimentary - 653 Diatomaceous Rock</dc:title>
+		</cc:Work>
+	</rdf:RDF>
+	</metadata>
+	<g>
+		<rect x="1" y="-55.125" style="fill:none;stroke:none;" width="54.125" height="54.125"/>
+        <g style="fill:none;" stroke="param(outline) #000" stroke-width="param(outline-width) 0.8">
+			<path d="M22.161-26.354h2.97c0.413-0.99,2.062-1.011,2.392,0.021h2.929"/>
+			<path d="M22.161-25.034h2.97c0.413,0.99,2.062,1.011,2.392-0.021h2.929"/>
+			<path d="M29.406-17.918h2.97c0.412-0.99,2.062-1.011,2.392,0.021h2.929"/>
+			<path d="M29.406-16.598h2.97c0.412,0.99,2.062,1.011,2.392-0.021h2.929"/>
+			<path d="M2.763-4.845h2.97c0.412-0.99,2.062-1.011,2.392,0.021h2.929"/>
+			<path d="M2.763-3.525h2.97c0.412,0.99,2.062,1.011,2.392-0.021h2.929"/>
+			<path d="M18.429-46.178h2.97c0.413-0.99,2.062-1.011,2.392,0.021h2.929"/>
+			<path d="M18.429-44.858h2.97c0.413,0.99,2.062,1.011,2.392-0.021h2.929"/>
+			<path d="M44.096-48.845h2.97c0.413-0.99,2.062-1.011,2.393,0.021h2.929"/>
+			<path d="M44.096-47.525h2.97c0.413,0.99,2.062,1.011,2.393-0.021h2.929"/>
+			<path d="M36.248-38.895h2.97c0.413-0.99,2.062-1.011,2.393,0.021h2.929"/>
+			<path d="M36.248-37.575h2.97c0.413,0.99,2.062,1.011,2.393-0.021h2.929"/>
+			<path d="M45.901-23.858h2.97c0.413-0.99,2.062-1.011,2.393,0.021h2.929"/>
+			<path d="M45.901-22.538h2.97c0.413,0.99,2.062,1.011,2.393-0.021h2.929"/>
+			<path d="M45.818-13.71h2.97c0.413-0.99,2.062-1.011,2.393,0.021h2.929"/>
+			<path d="M45.818-12.39h2.97c0.413,0.99,2.062,1.011,2.393-0.021h2.929"/>
+			<path d="M36-5.178h2.97c0.412-0.99,2.062-1.011,2.392,0.021h2.929"/>
+			<path d="M36-3.858h2.97c0.412,0.99,2.062,1.011,2.392-0.021h2.929"/>
+			<path d="M17.63-8.478h2.97c0.413-0.99,2.062-1.011,2.392,0.021h2.929"/>
+			<path d="M17.63-7.158h2.97c0.413,0.99,2.062,1.011,2.392-0.021h2.929"/>
+			<path d="M6.191-18.029h2.97c0.413-0.99,2.062-1.011,2.392,0.021h2.929"/>
+			<path d="M6.191-16.709h2.97c0.413,0.99,2.062,1.011,2.392-0.021h2.929"/>
+			<path d="M1.9-33.159h2.97c0.412-0.99,2.063-1.011,2.393,0.021h2.929"/>
+			<path d="M1.9-31.839h2.97c0.412,0.99,2.063,1.011,2.393-0.021h2.929"/>
+		</g>
+	</g>
+</svg>

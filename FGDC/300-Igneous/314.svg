@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="50.00" height="50.00" viewBox="0 0 50.00 50.00">
+	<metadata id="metadata2">
+		<rdf:RDF>
+			<ns:item rdf:ID="biblio1">
+				<ns:link>rdf:resource=&quot;http://pubs.usgs.gov/tm/2006/11A02/</ns:link>
+				<ns:title>U.S. Geological Survey, 2006, FGDC Digital Cartographic Standard for Geologic Map Symbolization (PostScript Implementation): U.S. Geological Survey Techniques and Methods 11-A2</ns:title>
+			</ns:item>
+			<ns:item rdf:ID="biblio2">
+				<ns:link>https://davenquinn.com/projects/geologic-patterns/</ns:link>
+				<ns:title>FGDC Geologic Patterns for the Web</ns:title>
+			</ns:item>
+			<rdf:Description>
+				<dc:description>
+					Converted from 'FGDC Geologic Patterns for the Web' to QGIS compatible svg symbols, with customisable fill colour/stroke colour/stroke width (when appropriate).
+					SVG scaled to 50x50 pixels so that base outline-width is 0.387 px and width is 90 in the QGIS xml definition file. 
+					Some of the original FGDC symbols have been omitted from this set because they can be generated from other symbols using the 'texture width' and/or 'stroke width' fields in QGIS symbology form.
+				</dc:description>
+				<dc:date>01 MARCH 2019</dc:date>
+				<dc:creator>GeoProc.com</dc:creator>
+				<dc:publisher rdf:resource="https://github.com/BC-Consulting/QGIS-FGDC-Fill" />
+			</rdf:Description>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:title>FGDC fill symbol: Igneous - 314</dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path style="fill:none;stroke:none;stroke-width:0;" id="rect1500" width="50.00" height="50.00" x="0.0" y="0.0" />
+	<path id="path3" style="fill:none;" stroke-width="param(outline-width) 1.30" stroke="param(outline) #000" d="M 32.018349,0 30.795107,4.7203848 M 34.984709,0 33.639144,5.3217078 m 9.633027,3.6981359 4.128441,-7.7570656 M 45.87156,10.282622 50,2.4654239 m -17.492355,8.3583881 -8.868501,0.841852 m 9.235474,1.984366 -8.868502,0.841852 M 8.5015291,11.425135 14.617737,5.0511124 M 10.642202,13.319302 16.75841,7.0054119 M 3.058104,21.1365 0,12.928443 m 2.6911315,-1.082382 3.058104,8.238124 m 20.0917435,6.073362 -8.654435,-2.104631 m 9.266055,-0.691521 -8.654434,-2.10463 m 22.140673,-0.901984 -1.743119,8.598917 m 2.844036,0.511125 1.74312,-8.628984 M 11.46789,28.653037 3.3639144,32.321106 m 9.3883796,-1.112447 -8.0733949,3.66807 m 24.5259939,0.300661 -7.553517,4.690319 m 9.143731,-2.285027 -7.553517,4.630186 M 10.458716,47.89537 6.2385321,40.198437 m 2.5076453,-1.413109 4.2201836,7.696933 m 34.036697,-3.187011 -7.64526,-4.419724 m 1.376147,-2.49549 7.64526,4.44979 M 33.027523,46.211666 32.018349,50 M 35.779817,46.812989 34.984709,50" />
+</svg>

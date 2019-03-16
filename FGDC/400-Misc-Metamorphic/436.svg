@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.45" height="25.92">
+    <metadata id="metadata2">
+	<rdf:RDF
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:cc="http://creativecommons.org/ns#"
+		xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		xmlns="http://my.netscape.com/rdf/simple/0.9/">
+		<item rdf:ID="biblio1">
+			<link>rdf:resource="http://pubs.usgs.gov/tm/2006/11A02/</link>
+			<title>U.S. Geological Survey, 2006, FGDC Digital Cartographic Standard for Geologic Map Symbolization (PostScript Implementation): U.S. Geological Survey Techniques and Methods 11-A2</title>
+		</item>
+		<item rdf:ID="biblio2">
+			<link>https://davenquinn.com/projects/geologic-patterns/</link>
+			<title>FGDC Geologic Patterns for the Web</title>
+		</item>
+		<rdf:Description>
+			<dc:description>Converted from 'FGDC Geologic Patterns for the Web' to QGIS compatible svg symbols, with customisable fill colour/stroke colour/stroke width (when appropriate)</dc:description>
+			<dc:date>01 MARCH 2019</dc:date>
+			<dc:creator>GeoProc.com</dc:creator>
+			<dc:publisher rdf:resource="https://github.com/BC-Consulting/QGIS-FGDC-Fill" />
+		</rdf:Description>
+		<cc:Work rdf:about="">
+			<dc:format>image/svg+xml</dc:format>
+			<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+			<dc:title>FGDC fill symbol: Misc and Metamorphic - 436</dc:title>
+		</cc:Work>
+	</rdf:RDF>
+	</metadata>
+	<path style="fill:none;stroke:none;stroke-width:0;" id="rect1" width="22.45" height="25.92" x="0.0" y="0.0" />
+	<g fill="param(outline) #000" style="stroke:none;stroke-width:0;">
+		<circle cx="11.6676" cy="1.5112666" r="1" id="circle11" />
+		<circle cx="3.9413996" cy="1.6749337" r="1" id="circle13" />
+		<circle cx="7.7225327" cy="3.8377323" r="1" id="circle19" />
+		<circle cx="15.869264" cy="3.4310012" r="1" id="circle21" />
+		<circle cx="19.129" cy="5.8187337" r="1" id="circle23" />
+		<circle cx="19.225067" cy="10.566731" r="1" id="circle25" />
+		<circle cx="15.227867" cy="8.1337996" r="1" id="circle27" />
+		<circle cx="11.879131" cy="5.8836675" r="1" id="circle29" />
+		<circle cx="7.2903981" cy="8.3377323" r="1" id="circle31" />
+		<circle cx="3.6364655" cy="6.368999" r="1" id="circle33" />
+		<circle cx="3.7999997" cy="10.537467" r="1" id="circle37" />
+		<circle cx="11.243933" cy="10.474933" r="1" id="circle39" />
+		<circle cx="15.227335" cy="12.480397" r="1" id="circle41" />
+		<circle cx="18.886467" cy="14.443801" r="1" id="circle43" />
+		<circle cx="11.448335" cy="14.944065" r="1" id="circle45" />
+		<circle cx="7.1910014" cy="12.943933" r="1" id="circle47" />
+		<circle cx="3.3208687" cy="15.087599" r="1" id="circle49" />
+		<circle cx="3.1436667" cy="18.868732" r="1" id="circle57" />
+		<circle cx="3.1186011" cy="23.48" r="1" id="circle59" />
+		<circle cx="6.7766213" cy="21.458025" r="1" id="circle61" />
+		<circle cx="7.4168024" cy="17.136597" r="1" id="circle63" />
+		<circle cx="10.643135" cy="19.369001" r="1" id="circle65" />
+		<circle cx="14.849603" cy="17.042534" r="1" id="circle67" />
+		<circle cx="18.696066" cy="19.229866" r="1" id="circle69" />
+		<circle cx="19.381401" cy="23.819" r="1" id="circle71" />
+		<circle cx="14.556067" cy="21.323797" r="1" id="circle73" />
+		<circle cx="11.227333" cy="23.650133" r="1" id="circle75" />
+		<circle cx="19.410398" cy="1.5811338" r="1" id="circle9" />
+		<path id="circle952" d="M22.45 0.0C22.45 0.0 22.45 1.0 22.45 1.0C21.897715 1.0 21.45 0.5522847 21.45 0C21.45 0 22.45 0.0 22.45 0.0" />
+		<path d="M0.0 0.0C0.0 0.0 0.0 1.0 0.0 1.0C0.552285 1.0 1.0 0.5522847 1.0 0C1.0 0 0.0 0.0 0.0 0.0" id="path955" />
+		<path d="M22.45 25.92C22.45 25.92 22.45 24.92 22.45 24.92C21.897715 24.92 21.45 25.3677153 21.45 25.92C21.45 25.92 22.45 25.92 22.45 25.92" id="path957" />
+		<path id="path959" d="M0 25.92C0 25.92 0 24.92 0 24.92C0.552285 24.92 1.0 25.3677153 1.0 25.92C1.0 25.92 0 25.92 0 25.92" />
+		<path d="m 1.35,3.4000001 c 0,0.5522848 -0.44771526,1 -1.00000001,1 -0.12301735,0 -0.24084657,-0.022213 -0.34969546428,-0.062847 L 0,2.4680001 c 0.10674948,-0.038872 0.22980872,-0.068 0.34999999,-0.068 0.55228475,0 1.00000001,0.4477152 1.00000001,1 z" id="circle17" />
+		<path d="m 1.4,8.04 c 0,0.5522847 -0.44771524,1 -0.99999999,1 C 0.25991631,9.04 0.12102915,9.0050083 0,8.9530001 v -1.827 C 0.12149698,7.0735124 0.25923527,7.04 0.40000001,7.04 0.95228476,7.04 1.4,7.4877153 1.4,8.04 Z" id="circle35" />
+		<path d="m 0.84999999,12.544 c 0,0.500006 -0.37070026,0.918047 -0.84999999,0.992 v -1.988 c 0.4769709,0.07595 0.84999999,0.497648 0.84999999,0.996 z" id="circle51" />
+		<path d="m 0.39999998,16.959179 c 0,0.327013 -0.15696603,0.617365 -0.39966459525,0.799821 L 0,16.158179 c 0.24132725,0.182564 0.39999998,0.475071 0.39999998,0.801 z" id="circle53" />
+		<path d="m 1.4,21.23 c 0,0.552285 -0.44771524,1 -0.99999999,1 -0.14225342,0 -0.27756933,-0.0297 -0.4000839253,-0.08325 L 0,20.315 C 0.12175167,20.26225 0.25886362,20.23 0.40000001,20.23 0.95228476,20.23 1.4,20.677715 1.4,21.23 Z" id="circle55" />
+		<path d="m 22.45,4.2950001 c -0.351408,-0.1550643 -0.6,-0.5032216 -0.6,-0.912 0,-0.4111805 0.245277,-0.7613514 0.6,-0.915 z" id="circle79" />
+		<path d="M 22.45,8.9050001 C 22.12442,8.7400868 21.9,8.4029256 21.9,8.013 c 0,-0.3889385 0.225762,-0.7216318 0.55,-0.8869999 z" id="circle81" />
+		<path d="m 22.45,13.531 c -0.03144,0.003 -0.06778,0.009 -0.1,0.009 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 0.03481,0 0.06611,0.0045 0.1,0.008 z" id="circle83" />
+		<path d="m 22.45,22.097 c -0.325058,-0.165091 -0.55,-0.500458 -0.55,-0.89 0,-0.389976 0.224351,-0.72711 0.55,-0.892 z" id="circle87" />
+		<path d="m 22.45,17.805 c -0.159015,0.106603 -0.344176,0.175 -0.55,0.175 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 0.206831,0 0.390524,0.07044 0.55,0.178 z" id="circle85" />
+		<path d="M 8.4801345,0 C 8.322903,0.346168 7.9741546,0.58852 7.5691808,0.58852 7.1639653,0.58852 6.8150423,0.346501 6.6579458,0 Z" id="circle91" />
+		<path id="path872" d="m 8.5691805,25.50852 c 0,0.147311 -0.031853,0.28556 -0.089046,0.41148 H 6.6579458 c -0.057017,-0.125759 -0.088765,-0.264411 -0.088765,-0.41148 0,-0.552285 0.4477153,-1 1,-1 0.5522847,0 1,0.447715 0.9999997,1 z" />
+		<path d="M 16.736027,0 C 16.558593,0.278952 16.24673,0.46508 15.89164,0.46508 15.535413,0.46508 15.22269,0.280448 15.045553,0 Z" id="circle89" />
+		<path id="path874" d="m 16.89164,25.38508 c 0,0.197195 -0.05708,0.380008 -0.155613,0.53492 h -1.690474 c -0.09749,-0.154351 -0.153913,-0.338862 -0.153913,-0.53492 0,-0.552285 0.447715,-1 1,-1 0.552285,0 1,0.447715 1,1 z" />
+	</g>
+</svg>
