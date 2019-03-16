@@ -19,6 +19,7 @@ Open QGIS Style manager and import the symbols in the xml files: *Settings -> St
 
 If you do not change QGIS default, you will end up with 7 new "Tags": 100-Suficial, 200-Sedimentary, 300-Igneous, 400-Misc-Metamorphic, 500-Glacial-Periglacial, 600-LithoSed and 700-LithoMetaIgneousVein.
 
+
 <table>
 <tr>
   <td>Symbol tab</td>
@@ -62,8 +63,7 @@ If you do not change QGIS default, you will end up with 7 new "Tags": 100-Sufici
  </tr>
 </table>
 
-Sets 100, 200, 300, 400 and 500 are for maps compositions
-while sets 600 and 700 are for sections and logs compositions.
+Sets 100, 200, 300, 400 and 500 are for maps compositions while sets 600 and 700 are for sections and logs compositions.
 
 ## Comments
 
@@ -76,7 +76,7 @@ while sets 600 and 700 are for sections and logs compositions.
 * Stroke width of the following symbols can also be adjusted in QGIS Symbology pane:<br />
     101, 102, 103, 123, 201, 202, 204, 214, 215, 216, 217, 218,219, 226, 228, 229, 230, 231, 232, all 300's, 401, 405, 406, 411, 416, 417, 418, 420, 423, 424, 430, 431, 432, 594, 601-624, 626-657, 659-680, 682-686, 701, 704-716, 719-733. 
 * Most symbols are standardised on a 50x50 pixels area,<br />
-    Exceptiona are all 600's symbols and symbols: 304, 411, 427, 428, 434, 435, 436, 592 and 593.
+    Exceptions are all 600's symbols and symbols: 304, 411, 427, 428, 434, 435, 436, 592 and 593.
 * The library does not include some of the original FGDC symbols because they can be replicated with others using QGIS options (i.e. "Texture width" and "Stroke width").
 
 ## Licence
