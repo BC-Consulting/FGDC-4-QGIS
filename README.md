@@ -68,6 +68,8 @@ Symbol sets 100, 200, 300, 400 and 500 are for maps compositions while sets 600 
 
 More information and lists of symbols available in the library can be found [here](http://www.geoproc.com/tut/qgis-fgdc.php), on GeoProc.com web site.
 
+**Alternatively**, you can use the ["Resources Sharing"](http://www.akbargumbira.com/qgis_resources_sharing/) plugin to install this collection.
+
 ## Licence
 
 ![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)
