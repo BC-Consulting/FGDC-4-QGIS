@@ -12,7 +12,7 @@ Download this repo to your computer.
 
 Unzip the downloaded GitHub repo into a convenient location on your computer.
 
-Copy the FGDC folder into a location accessible from QGIS SVG paths: *Settings -> Options -> System -> SVG paths*
+Copy the FGDC folder (not collections/FGDC) into a location accessible from QGIS SVG paths: *Settings -> Options -> System -> SVG paths*
 
 Open QGIS Style manager and import symbols from each xml file: *Settings -> Style Manager... -> Import/Export -> Import Item(s)...*
 
