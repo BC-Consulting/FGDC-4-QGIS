@@ -1,0 +1,692 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="1">
+  <symbols>
+    <symbol type="fill" name="301" tags="300-Igneous" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.8" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/300-Igneous/301.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@301@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="302" tags="300-Igneous" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.387" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/300-Igneous/302.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@302@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="303" tags="300-Igneous" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="2.0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/300-Igneous/303.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@303@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="304" tags="300-Igneous" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.387" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/300-Igneous/304.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@304@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="305" tags="300-Igneous" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.852" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/300-Igneous/305.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@305@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="313" tags="300-Igneous" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="1.932" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/300-Igneous/313.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@313@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="314" tags="300-Igneous" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="1.3" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/300-Igneous/314.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@314@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="315" tags="300-Igneous" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.8" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/300-Igneous/315.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@315@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="316" tags="300-Igneous" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="1.0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/300-Igneous/316.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@316@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="317" tags="300-Igneous" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.387" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/300-Igneous/317.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@317@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="319" tags="300-Igneous" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.6" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/300-Igneous/319.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@319@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="327" tags="300-Igneous" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.4" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/300-Igneous/327.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="20" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@327@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="330" tags="300-Igneous" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="1.0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/300-Igneous/330.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@330@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="331" tags="300-Igneous" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="1.0" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/300-Igneous/331.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@331@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+</qgis_style>

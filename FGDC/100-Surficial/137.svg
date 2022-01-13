@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="50.00" height="50.00" viewBox="0 0 50.00 50.00">
+	<metadata id="metadata2">
+		<rdf:RDF>
+			<ns:item rdf:ID="biblio1">
+				<ns:link>rdf:resource=&quot;http://pubs.usgs.gov/tm/2006/11A02/</ns:link>
+				<ns:title>U.S. Geological Survey, 2006, FGDC Digital Cartographic Standard for Geologic Map Symbolization (PostScript Implementation): U.S. Geological Survey Techniques and Methods 11-A2</ns:title>
+			</ns:item>
+			<ns:item rdf:ID="biblio2">
+				<ns:link>https://davenquinn.com/projects/geologic-patterns/</ns:link>
+				<ns:title>FGDC Geologic Patterns for the Web</ns:title>
+			</ns:item>
+			<rdf:Description>
+				<dc:description>
+					Converted from 'FGDC Geologic Patterns for the Web' to QGIS compatible svg symbols, with customisable fill colour/stroke colour/stroke width (when appropriate).
+					SVG scaled to 50x50 pixels so that base outline-width is 0.387 px and width is 90 in the QGIS xml definition file. 
+					Some of the original FGDC symbols have been omitted from this set because they can be generated from other symbols using the 'texture width' and/or 'stroke width' fields in QGIS symbology form.
+				</dc:description>
+				<dc:date>01 MARCH 2019</dc:date>
+				<dc:creator>GeoProc.com</dc:creator>
+				<dc:publisher rdf:resource="https://github.com/BC-Consulting/QGIS-FGDC-Fill" />
+			</rdf:Description>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:title>FGDC fill symbol: Surficial - 137</dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path style="fill:none;stroke:none;stroke-width:0;" id="rect1500" width="50.00" height="50.00" x="0.0" y="0.0" />
+	<g fill="param(outline) #000" style="stroke:none;stroke-width:0;">
+		<circle id="circle5" r="0.52083331" cy="2.0833335" cx="14.583333" />
+		<circle id="circle7" r="0.52083331" cy="5.729167" cx="13.888888" />
+		<circle id="circle9" r="0.52083331" cy="7.291667" cx="14.0625" />
+		<circle id="circle11" r="0.52083331" cy="8.854167" cx="12.5" />
+		<circle id="circle13" r="0.52083331" cy="7.291667" cx="10.590278" />
+		<circle id="circle15" r="0.52083331" cy="13.888889" cx="15.798611" />
+		<circle id="circle17" r="0.52083331" cy="15.972222" cx="10.590278" />
+		<circle id="circle19" r="0.52083331" cy="16.666666" cx="9.7222223" />
+		<circle id="circle21" r="0.52083331" cy="18.75" cx="16.666666" />
+		<circle id="circle23" r="0.52083331" cy="17.881945" cx="21.354166" />
+		<circle id="circle25" r="0.52083331" cy="16.145834" cx="21.701389" />
+		<circle id="circle27" r="0.52083331" cy="12.673612" cx="20.3125" />
+		<circle id="circle29" r="0.52083331" cy="12.673612" cx="22.395834" />
+		<circle id="circle31" r="0.52083331" cy="9.5486116" cx="22.569445" />
+		<circle id="circle33" r="0.52083331" cy="8.1597223" cx="22.048611" />
+		<circle id="circle35" r="0.52083331" cy="7.4652781" cx="20.3125" />
+		<circle id="circle37" r="0.52083331" cy="4.8611112" cx="22.395834" />
+		<circle id="circle39" r="0.52083331" cy="2.0833335" cx="22.222221" />
+		<circle id="circle41" r="0.52083331" cy="2.2569447" cx="20.3125" />
+		<circle id="circle43" r="0.52083331" cy="0.86805576" cx="23.611111" />
+		<circle id="circle45" r="0.52083331" cy="4.8611112" cx="28.819445" />
+		<circle id="circle47" r="0.52083331" cy="4.6875" cx="31.597221" />
+		<circle id="circle49" r="0.52083331" cy="7.1180558" cx="27.951389" />
+		<circle id="circle51" r="0.52083331" cy="8.1597223" cx="31.25" />
+		<circle id="circle53" r="0.52083331" cy="9.375" cx="31.25" />
+		<circle id="circle55" r="0.52083331" cy="9.895833" cx="32.638889" />
+		<circle id="circle57" r="0.52083331" cy="11.284722" cx="32.638889" />
+		<circle id="circle59" r="0.52083331" cy="15.798612" cx="32.8125" />
+		<circle id="circle61" r="0.52083331" cy="14.409722" cx="27.083334" />
+		<circle id="circle63" r="0.52083331" cy="9.375" cx="34.895832" />
+		<circle id="circle65" r="0.52083331" cy="8.333333" cx="36.284721" />
+		<circle id="circle67" r="0.52083331" cy="7.6388888" cx="38.020832" />
+		<circle id="circle69" r="0.52083331" cy="4.6875" cx="38.020832" />
+		<circle id="circle71" r="0.52083331" cy="0.52083355" cx="39.236111" />
+		<circle id="circle73" r="0.52083331" cy="4.5138888" cx="44.444443" />
+		<circle id="circle75" r="0.52083331" cy="1.7361113" cx="45.138889" />
+		<circle id="circle77" r="0.52083331" cy="2.0833335" cx="47.222221" />
+		<circle id="circle79" r="0.52083331" cy="7.1180558" cx="47.222221" />
+		<circle id="circle81" r="0.52083331" cy="8.5069447" cx="44.618053" />
+		<circle id="circle83" r="0.52083331" cy="10.9375" cx="45.3125" />
+		<circle id="circle85" r="0.52083331" cy="13.715278" cx="44.444443" />
+		<circle id="circle87" r="0.52083331" cy="13.715278" cx="46.006943" />
+		<circle id="circle89" r="0.52083331" cy="14.756945" cx="47.222221" />
+		<circle id="circle91" r="0.52083331" cy="14.0625" cx="48.090279" />
+		<circle id="circle93" r="0.52083331" cy="12.5" cx="48.263889" />
+		<circle id="circle95" r="0.52083331" cy="12.152778" cx="49.479168" />
+		<circle id="circle97" r="0.52083331" cy="32.638889" cx="5.5555553" />
+		<circle id="circle99" r="0.52083331" cy="36.284721" cx="4.8611112" />
+		<circle id="circle101" r="0.52083331" cy="37.847221" cx="5.0347223" />
+		<circle id="circle103" r="0.52083331" cy="39.409721" cx="3.4722221" />
+		<circle id="circle105" r="0.52083331" cy="37.847221" cx="1.5625" />
+		<circle id="circle107" r="0.52083331" cy="44.444443" cx="6.7708335" />
+		<circle id="circle109" r="0.52083331" cy="46.527779" cx="1.5625" />
+		<circle id="circle111" r="0.52083331" cy="47.222221" cx="0.69444442" />
+		<circle id="circle113" r="0.52083331" cy="49.305557" cx="7.6388888" />
+		<circle id="circle115" r="0.52083331" cy="48.4375" cx="12.326388" />
+		<circle id="circle117" r="0.52083331" cy="46.701389" cx="12.673611" />
+		<circle id="circle119" r="0.52083331" cy="43.229168" cx="11.284722" />
+		<circle id="circle121" r="0.52083331" cy="43.229168" cx="13.368055" />
+		<circle id="circle123" r="0.52083331" cy="40.104168" cx="13.541667" />
+		<circle id="circle125" r="0.52083331" cy="38.715279" cx="13.020833" />
+		<circle id="circle127" r="0.52083331" cy="38.020832" cx="11.284722" />
+		<circle id="circle129" r="0.52083331" cy="35.416668" cx="13.368055" />
+		<circle id="circle131" r="0.52083331" cy="32.638889" cx="13.194445" />
+		<circle id="circle133" r="0.52083331" cy="32.8125" cx="11.284722" />
+		<circle id="circle135" r="0.52083331" cy="31.423611" cx="14.583333" />
+		<circle id="circle137" r="0.52083331" cy="35.416668" cx="19.791666" />
+		<circle id="circle139" r="0.52083331" cy="35.243057" cx="22.569445" />
+		<circle id="circle141" r="0.52083331" cy="37.673611" cx="18.923611" />
+		<circle id="circle143" r="0.52083331" cy="38.715279" cx="22.222221" />
+		<circle id="circle145" r="0.52083331" cy="39.930557" cx="22.222221" />
+		<circle id="circle147" r="0.52083331" cy="40.451389" cx="23.611111" />
+		<circle id="circle149" r="0.52083331" cy="41.840279" cx="23.611111" />
+		<circle id="circle151" r="0.52083331" cy="46.354168" cx="23.784721" />
+		<circle id="circle153" r="0.52083331" cy="44.965279" cx="18.055555" />
+		<circle id="circle155" r="0.52083331" cy="39.930557" cx="25.868055" />
+		<circle id="circle157" r="0.52083331" cy="38.888889" cx="27.256945" />
+		<circle id="circle159" r="0.52083331" cy="38.194443" cx="28.993055" />
+		<circle id="circle161" r="0.52083331" cy="35.243057" cx="28.993055" />
+		<circle id="circle163" r="0.52083331" cy="31.076389" cx="30.208334" />
+		<circle id="circle165" r="0.52083331" cy="35.069443" cx="35.416668" />
+		<circle id="circle167" r="0.52083331" cy="32.291668" cx="36.111111" />
+		<circle id="circle169" r="0.52083331" cy="32.638889" cx="38.194443" />
+		<circle id="circle171" r="0.52083331" cy="37.673611" cx="38.194443" />
+		<circle id="circle173" r="0.52083331" cy="39.0625" cx="35.590279" />
+		<circle id="circle175" r="0.52083331" cy="41.493057" cx="36.284721" />
+		<circle id="circle177" r="0.52083331" cy="44.270832" cx="35.416668" />
+		<circle id="circle179" r="0.52083331" cy="44.270832" cx="36.979168" />
+		<circle id="circle181" r="0.52083331" cy="45.3125" cx="38.194443" />
+		<circle id="circle183" r="0.52083331" cy="44.618057" cx="39.0625" />
+		<circle id="circle185" r="0.52083331" cy="43.055557" cx="39.236111" />
+		<circle id="circle187" r="0.52083331" cy="42.708332" cx="40.451389" />
+		<circle id="circle189" r="0.52083331" cy="18.75" cx="14.583333" />
+		<circle id="circle191" r="0.52083331" cy="16.666666" cx="15.798611" />
+		<circle id="circle193" r="0.52083331" cy="17.013889" cx="17.534721" />
+		<circle id="circle195" r="0.52083331" cy="16.145834" cx="24.479166" />
+		<circle id="circle197" r="0.52083331" cy="17.1875" cx="27.083334" />
+		<circle id="circle199" r="0.52083331" cy="20.486111" cx="31.25" />
+		<circle id="circle201" r="0.52083331" cy="20.138889" cx="32.118057" />
+		<circle id="circle203" r="0.52083331" cy="19.444445" cx="38.368053" />
+		<circle id="circle205" r="0.52083331" cy="17.534721" cx="35.590279" />
+		<circle id="circle207" r="0.52083331" cy="20.486111" cx="36.111111" />
+		<circle id="circle209" r="0.52083331" cy="24.652779" cx="43.402779" />
+		<circle id="circle211" r="0.52083331" cy="26.5625" cx="40.451389" />
+		<circle id="circle213" r="0.52083331" cy="27.083334" cx="34.027779" />
+		<circle id="circle215" r="0.52083331" cy="28.645834" cx="33.333332" />
+		<circle id="circle217" r="0.52083331" cy="29.861111" cx="36.111111" />
+		<circle id="circle219" r="0.52083331" cy="31.25" cx="37.152779" />
+		<circle id="circle221" r="0.52083331" cy="33.333332" cx="43.229168" />
+		<circle id="circle223" r="0.52083331" cy="35.9375" cx="45.138889" />
+		<circle id="circle225" r="0.52083331" cy="35.9375" cx="46.527779" />
+		<circle id="circle227" r="0.52083331" cy="31.25" cx="48.263889" />
+		<circle id="circle229" r="0.52083331" cy="27.083334" cx="41.666668" />
+		<circle id="circle231" r="0.52083331" cy="33.159721" cx="32.8125" />
+		<circle id="circle233" r="0.52083331" cy="32.638889" cx="22.569445" />
+		<circle id="circle235" r="0.52083331" cy="30.902779" cx="25.694445" />
+		<circle id="circle237" r="0.52083331" cy="26.215279" cx="18.229166" />
+		<circle id="circle239" r="0.52083331" cy="24.652779" cx="20.659721" />
+		<circle id="circle241" r="0.52083331" cy="19.791666" cx="11.805555" />
+		<circle id="circle243" r="0.52083331" cy="20.486111" cx="7.2916665" />
+		<circle id="circle245" r="0.52083331" cy="21.875" cx="4.1666665" />
+		<circle id="circle247" r="0.52083331" cy="24.479166" cx="1.736111" />
+		<circle id="circle249" r="0.52083331" cy="25.520834" cx="7.8125" />
+		<circle id="circle251" r="0.52083331" cy="29.166666" cx="11.805555" />
+		<circle id="circle253" r="0.52083331" cy="25" cx="8.854167" />
+		<circle id="circle255" r="0.52083331" cy="21.006945" cx="18.402777" />
+		<circle id="circle257" r="0.52083331" cy="21.527779" cx="26.215277" />
+		<circle id="circle259" r="0.52083331" cy="22.569445" cx="27.430555" />
+		<circle id="circle261" r="0.52083331" cy="29.166666" cx="19.444445" />
+		<circle id="circle263" r="0.52083331" cy="14.236112" cx="4.5138888" />
+		<circle id="circle265" r="0.52083331" cy="14.0625" cx="7.1180553" />
+		<circle id="circle267" r="0.52083331" cy="16.319445" cx="8.1597223" />
+		<circle id="circle269" r="0.52083331" cy="17.881945" cx="2.0833333" />
+		<circle id="circle271" r="0.52083331" cy="20.486111" cx="44.618053" />
+		<circle id="circle273" r="0.52083331" cy="21.354166" cx="46.875" />
+		<circle id="circle275" r="0.52083331" cy="20.659721" cx="48.263889" />
+		<circle id="circle277" r="0.52083331" cy="10.9375" cx="5.0347223" />
+		<circle id="circle279" r="0.52083331" cy="6.25" cx="1.0416666" />
+		<circle id="circle281" r="0.52083331" cy="4.5138888" cx="10.069445" />
+		<circle id="circle283" r="0.52083331" cy="3.6458335" cx="5.9027777" />
+		<circle id="circle285" r="0.52083331" cy="1.7361113" cx="2.4305556" />
+		<circle id="circle287" r="0.52083331" cy="4.166667" cx="2.6041667" />
+		<circle id="circle289" r="0.52083331" cy="9.895833" cx="8.854167" />
+		<circle id="circle291" r="0.52083331" cy="13.368055" cx="12.847222" />
+		<circle id="circle293" r="0.52083331" cy="25.694445" cx="14.756945" />
+		<circle id="circle295" r="0.52083331" cy="30.729166" cx="0.52083331" />
+		<circle id="circle297" r="0.52083331" cy="25.868055" cx="46.180553" />
+		<circle id="circle299" r="0.52083331" cy="45.833332" cx="47.222221" />
+		<circle id="circle301" r="0.52083331" cy="48.4375" cx="41.493053" />
+		<circle id="circle303" r="0.52083331" cy="47.222221" cx="28.125" />
+		<circle id="circle305" r="0.52083331" cy="43.75" cx="30.555555" />
+		<circle id="circle307" r="0.52083331" cy="48.611111" cx="17.881945" />
+		<circle id="circle309" r="0.52083331" cy="41.666668" cx="3.125" />
+		<circle id="circle311" r="0.52083331" cy="41.319443" cx="18.402777" />
+		<circle id="circle313" r="0.52083331" cy="33.680557" cx="25.868055" />
+		<circle id="circle315" r="0.52083331" cy="28.993055" cx="15.277778" />
+		<circle id="circle317" r="0.52083331" cy="27.951389" cx="6.0763888" />
+		<circle id="circle319" r="0.52083331" cy="20.138889" cx="16.666666" />
+		<circle id="circle321" r="0.52083331" cy="23.958334" cx="28.819445" />
+		<circle id="circle323" r="0.52083331" cy="26.041666" cx="35.763889" />
+		<circle id="circle325" r="0.52083331" cy="31.944445" cx="42.1875" />
+		<circle id="circle327" r="0.52083331" cy="30.381945" cx="46.875" />
+		<circle id="circle329" r="0.52083331" cy="46.006943" cx="35.590279" />
+		<circle id="circle331" r="0.52083331" cy="26.215279" cx="27.777777" />
+		<circle id="circle333" r="0.52083331" cy="10.416667" cx="36.979168" />
+		<circle id="circle335" r="0.52083331" cy="11.111112" cx="23.611111" />
+		<circle id="circle337" r="0.52083331" cy="9.375" cx="19.097221" />
+		<circle id="circle339" r="0.52083331" cy="13.368055" cx="8.854167" />
+		<circle id="circle341" r="0.52083331" cy="18.402779" cx="13.715278" />
+		<circle id="circle343" r="0.52083331" cy="3.1250002" cx="34.375" />
+		<circle id="circle345" r="0.52083331" cy="1.215278" cx="8.1597223" />
+		<circle id="circle347" r="0.52083331" cy="2.6041667" cx="38.368053" />
+		<circle id="circle349" r="0.52083331" cy="14.409722" cx="40.972221" />
+		<circle id="circle351" r="0.52083331" cy="39.756943" cx="46.875" />
+		<circle id="circle353" r="0.52083331" cy="48.4375" cx="32.8125" />
+		<circle id="circle355" r="0.52083331" cy="48.4375" cx="3.6458333" />
+		<circle id="circle357" r="0.52083331" cy="27.951389" cx="3.2986112" />
+		<circle id="circle359" r="0.52083331" cy="8.854167" cx="48.4375" />
+		<circle id="circle361" r="0.52083331" cy="9.7222223" cx="16.145834" />
+		<circle id="circle363" r="0.52083331" cy="11.979167" cx="14.236111" />
+		<circle id="circle365" r="0.52083331" cy="11.979167" cx="10.243055" />
+		<circle id="circle367" r="0.52083331" cy="9.2013893" cx="1.9097222" />
+		<circle id="circle369" r="0.52083331" cy="8.1597223" cx="4.1666665" />
+		<circle id="circle371" r="0.52083331" cy="1.9097224" cx="4.8611112" />
+		<circle id="circle373" r="0.52083331" cy="5.729167" cx="6.9444442" />
+		<circle id="circle375" r="0.52083331" cy="5.729167" cx="11.111111" />
+		<circle id="circle377" r="0.52083331" cy="2.2569447" cx="11.458333" />
+		<circle id="circle379" r="0.52083331" cy="4.8611112" cx="17.881945" />
+		<circle id="circle381" r="0.52083331" cy="5.2083335" cx="25.694445" />
+		<circle id="circle383" r="0.52083331" cy="3.1250002" cx="28.125" />
+		<circle id="circle385" r="0.52083331" cy="2.9513891" cx="26.041666" />
+		<circle id="circle387" r="0.52083331" cy="1.5625002" cx="30.034721" />
+		<circle id="circle389" r="0.52083331" cy="5.729167" cx="34.375" />
+		<circle id="circle391" r="0.52083331" cy="6.4236112" cx="31.944445" />
+		<circle id="circle393" r="0.52083331" cy="7.6388888" cx="24.826389" />
+		<circle id="circle395" r="0.52083331" cy="10.416667" cx="27.256945" />
+		<circle id="circle397" r="0.52083331" cy="12.5" cx="17.1875" />
+		<circle id="circle399" r="0.52083331" cy="18.923611" cx="5.7291665" />
+		<circle id="circle401" r="0.52083331" cy="22.048611" cx="11.111111" />
+		<circle id="circle403" r="0.52083331" cy="23.263889" cx="7.2916665" />
+		<circle id="circle405" r="0.52083331" cy="25.694445" cx="3.6458333" />
+		<circle id="circle407" r="0.52083331" cy="22.222221" cx="1.9097222" />
+		<circle id="circle409" r="0.52083331" cy="17.361111" cx="5.2083335" />
+		<circle id="circle411" r="0.52083331" cy="14.236112" cx="2.2569444" />
+		<circle id="circle413" r="0.52083331" cy="21.354166" cx="14.236111" />
+		<circle id="circle415" r="0.52083331" cy="24.652779" cx="12.152778" />
+		<circle id="circle417" r="0.52083331" cy="27.083334" cx="11.111111" />
+		<circle id="circle419" r="0.52083331" cy="28.645834" cx="8.854167" />
+		<circle id="circle421" r="0.52083331" cy="32.291668" cx="8.854167" />
+		<circle id="circle423" r="0.52083331" cy="32.465279" cx="2.7777777" />
+		<circle id="circle425" r="0.52083331" cy="33.680557" cx="3.9930556" />
+		<circle id="circle427" r="0.52083331" cy="35.069443" cx="7.6388888" />
+		<circle id="circle429" r="0.52083331" cy="37.847221" cx="7.6388888" />
+		<circle id="circle431" r="0.52083331" cy="40.625" cx="10.763888" />
+		<circle id="circle433" r="0.52083331" cy="41.493057" cx="6.9444442" />
+		<circle id="circle435" r="0.52083331" cy="44.097221" cx="4.1666665" />
+		<circle id="circle437" r="0.52083331" cy="43.055557" cx="1.5625" />
+		<circle id="circle439" r="0.52083331" cy="47.048611" cx="5.0347223" />
+		<circle id="circle441" r="0.52083331" cy="48.263889" cx="9.375" />
+		<circle id="circle443" r="0.52083331" cy="45.659721" cx="9.375" />
+		<circle id="circle445" r="0.52083331" cy="47.569443" cx="14.930555" />
+		<circle id="circle447" r="0.52083331" cy="45.659721" cx="15.972222" />
+		<circle id="circle449" r="0.52083331" cy="41.666668" cx="15.451388" />
+		<circle id="circle451" r="0.52083331" cy="39.930557" cx="16.840277" />
+		<circle id="circle453" r="0.52083331" cy="36.979168" cx="15.277778" />
+		<circle id="circle455" r="0.52083331" cy="33.159721" cx="18.229166" />
+		<circle id="circle457" r="0.52083331" cy="30.208334" cx="17.881945" />
+		<circle id="circle459" r="0.52083331" cy="26.041666" cx="21.701389" />
+		<circle id="circle461" r="0.52083331" cy="21.527779" cx="22.395834" />
+		<circle id="circle463" r="0.52083331" cy="23.611111" cx="18.055555" />
+		<circle id="circle465" r="0.52083331" cy="19.270834" cx="23.784721" />
+		<circle id="circle467" r="0.52083331" cy="19.791666" cx="25.868055" />
+		<circle id="circle469" r="0.52083331" cy="17.881945" cx="28.993055" />
+		<circle id="circle471" r="0.52083331" cy="14.409722" cx="29.861111" />
+		<circle id="circle473" r="0.52083331" cy="13.368055" cx="25.347221" />
+		<circle id="circle475" r="0.52083331" cy="15.451389" cx="19.270834" />
+		<circle id="circle477" r="0.52083331" cy="15.277778" cx="36.111111" />
+		<circle id="circle479" r="0.52083331" cy="12.326389" cx="30.034721" />
+		<circle id="circle481" r="0.52083331" cy="12.5" cx="35.069443" />
+		<circle id="circle483" r="0.52083331" cy="11.979167" cx="41.319443" />
+		<circle id="circle485" r="0.52083331" cy="9.7222223" cx="40.451389" />
+		<circle id="circle487" r="0.52083331" cy="7.6388888" cx="42.708332" />
+		<circle id="circle489" r="0.52083331" cy="5.2083335" cx="40.798611" />
+		<circle id="circle491" r="0.52083331" cy="3.2986114" cx="41.666668" />
+		<circle id="circle493" r="0.52083331" cy="4.166667" cx="46.875" />
+		<circle id="circle495" r="0.52083331" cy="5.5555558" cx="48.263889" />
+		<circle id="circle497" r="0.52083331" cy="6.7708335" cx="45.659721" />
+		<circle id="circle499" r="0.52083331" cy="11.458333" cx="42.881943" />
+		<circle id="circle501" r="0.52083331" cy="16.493055" cx="41.840279" />
+		<circle id="circle503" r="0.52083331" cy="16.493055" cx="38.541668" />
+		<circle id="circle505" r="0.52083331" cy="13.020833" cx="38.541668" />
+		<circle id="circle507" r="0.52083331" cy="17.881945" cx="45.138889" />
+		<circle id="circle509" r="0.52083331" cy="18.75" cx="42.534721" />
+		<circle id="circle511" r="0.52083331" cy="21.354166" cx="40.104168" />
+		<circle id="circle513" r="0.52083331" cy="22.743055" cx="36.631943" />
+		<circle id="circle515" r="0.52083331" cy="23.4375" cx="32.986111" />
+		<circle id="circle517" r="0.52083331" cy="27.256945" cx="30.729166" />
+		<circle id="circle519" r="0.52083331" cy="28.819445" cx="23.611111" />
+		<circle id="circle521" r="0.52083331" cy="33.333332" cx="28.298611" />
+		<circle id="circle523" r="0.52083331" cy="36.284721" cx="31.770834" />
+		<circle id="circle525" r="0.52083331" cy="39.409721" cx="32.291668" />
+		<circle id="circle527" r="0.52083331" cy="41.319443" cx="29.166666" />
+		<circle id="circle529" r="0.52083331" cy="43.576389" cx="27.777777" />
+		<circle id="circle531" r="0.52083331" cy="43.576389" cx="25" />
+		<circle id="circle533" r="0.52083331" cy="36.631943" cx="25.347221" />
+		<circle id="circle535" r="0.52083331" cy="44.097221" cx="20.833334" />
+		<circle id="circle537" r="0.52083331" cy="47.569443" cx="21.875" />
+		<circle id="circle539" r="0.52083331" cy="49.305557" cx="25.694445" />
+		<circle id="circle541" r="0.52083331" cy="39.583332" cx="40.798611" />
+		<circle id="circle543" r="0.52083331" cy="39.583332" cx="43.75" />
+		<circle id="circle545" r="0.52083331" cy="35.243057" cx="41.666668" />
+		<circle id="circle547" r="0.52083331" cy="35.069443" cx="37.847221" />
+		<circle id="circle549" r="0.52083331" cy="30.729166" cx="41.145832" />
+		<circle id="circle551" r="0.52083331" cy="28.993055" cx="38.020832" />
+		<circle id="circle553" r="0.52083331" cy="24.652779" cx="38.715279" />
+		<circle id="circle555" r="0.52083331" cy="29.340279" cx="43.402779" />
+		<circle id="circle557" r="0.52083331" cy="32.986111" cx="46.527779" />
+		<circle id="circle559" r="0.52083331" cy="37.673611" cx="48.263889" />
+		<circle id="circle561" r="0.52083331" cy="42.881943" cx="44.097221" />
+		<circle id="circle563" r="0.52083331" cy="44.097221" cx="48.090279" />
+		<circle id="circle565" r="0.52083331" cy="45.486111" cx="44.965279" />
+		<circle id="circle567" r="0.52083331" cy="47.395832" cx="45.659721" />
+		<circle id="circle569" r="0.52083331" cy="48.958332" cx="48.090279" />
+		<circle id="circle571" r="0.52083331" cy="48.784721" cx="43.402779" />
+		<circle id="circle573" r="0.52083331" cy="45.659721" cx="42.1875" />
+		<circle id="circle575" r="0.52083331" cy="48.4375" cx="36.631943" />
+		<circle id="circle577" r="0.52083331" cy="46.180557" cx="31.076389" />
+		<circle id="circle579" r="0.52083331" cy="49.479168" cx="30.902777" />
+		<circle id="circle581" r="0.52083331" cy="49.479168" cx="19.791666" />
+		<circle id="circle583" r="0.52083331" cy="20.486111" cx="0.52083331" />
+		<circle id="circle585" r="0.52083331" cy="0.69444466" cx="17.013889" />
+		<circle id="circle587" r="0.52083331" cy="3.4722223" cx="9.2013884" />
+		<circle id="circle589" r="0.52083331" cy="24.479166" cx="49.305553" />
+	</g>
+</svg>

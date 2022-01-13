@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="50.00" height="50.00" viewBox="0 0 50.00 50.00">
+	<metadata id="metadata2">
+		<rdf:RDF>
+			<ns:item rdf:ID="biblio1">
+				<ns:link>rdf:resource=&quot;http://pubs.usgs.gov/tm/2006/11A02/</ns:link>
+				<ns:title>U.S. Geological Survey, 2006, FGDC Digital Cartographic Standard for Geologic Map Symbolization (PostScript Implementation): U.S. Geological Survey Techniques and Methods 11-A2</ns:title>
+			</ns:item>
+			<ns:item rdf:ID="biblio2">
+				<ns:link>https://davenquinn.com/projects/geologic-patterns/</ns:link>
+				<ns:title>FGDC Geologic Patterns for the Web</ns:title>
+			</ns:item>
+			<rdf:Description>
+				<dc:description>
+					Converted from 'FGDC Geologic Patterns for the Web' to QGIS compatible svg symbols, with customisable fill colour/stroke colour/stroke width (when appropriate).
+					SVG scaled to 50x50 pixels so that base outline-width is 0.387 px and width is 90 in the QGIS xml definition file. 
+					Some of the original FGDC symbols have been omitted from this set because they can be generated from other symbols using the 'texture width' and/or 'stroke width' fields in QGIS symbology form.
+				</dc:description>
+				<dc:date>01 MARCH 2019</dc:date>
+				<dc:creator>GeoProc.com</dc:creator>
+				<dc:publisher rdf:resource="https://github.com/BC-Consulting/QGIS-FGDC-Fill" />
+			</rdf:Description>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:title>FGDC fill symbol: Misc. and Metamorphic - 432</dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path style="fill:none;stroke:none;stroke-width:0;" id="rect1500" width="50.00" height="50.00" x="0.0" y="0.0" />
+	<g style="fill:none;" stroke="param(outline) #000000" stroke-width="param(outline-width) 0.43">
+		<path d="M 23.07,4.425 C 22.22,2.81 21.26,1.329 20.2,-0.0075" id="path5" />
+		<path d="M 31.09,-0.0075 C 31.48,0.8656 31.86,1.792 32.17,2.771 33.99,8.407 36.8,24.94 48.05,31.55" id="path7" />
+		<path d="M 1.618,-0.0075 C 4.088,1.487 6.471,2.678 8.025,3.935" id="path9" />
+		<path d="M 19.76,10.55 C 16.18,7.097 12.92,4.61 9.97,-0.0075" id="path11" />
+		<path d="M 29.86,23.45 C 29.35,22.46 28.69,21.13 27.37,16.68 26.05,12.2 18.61,4.094 15.79,1.448" id="path13" />
+		<path d="M 36.16,-0.0075 C 37,2.202 37.81,4.504 38.46,6.581 40.11,11.87 43.91,17.17 46.22,19.15" id="path15" />
+		<path d="M 43.75,3.432 C 42.96,2.652 41.92,1.461 40.85,-0.0075" id="path17" />
+		<path d="m 46.55,1.289 c 1.21,0.886 2.35,1.852 3.46,2.884" id="path19" />
+		<path d="M 18.44,26.43 C 12.7,20.1 7.2,10.79 0.0014,4.12" id="path21" />
+		<path d="m 4.718,24.88 c 0,0 0.442,1.98 2.205,7.94 1.764,5.95 8.717,12.56 8.717,12.56 1.6,1.31 3.13,2.84 4.53,4.62" id="path23" />
+		<path d="m 23.73,39.09 c 2.73,3.54 5.45,6.75 7.34,10.91" id="path25" />
+		<path d="M 8.6e-5,49 C 0.5227,49.35 1.045,49.68 1.568,50" id="path27" />
+		<path d="m 7.86,46.2 c 0.679,1.42 1.375,2.67 2.09,3.8" id="path29" />
+		<path d="M 36.14,50 C 34.85,46.58 33.43,43.37 32.33,41.57" id="path31" />
+		<path d="m 33.83,29.67 c 1.65,1.65 6.11,6.44 9.59,12.73 1.59,2.88 4.06,4.97 6.59,6.65" id="path33" />
+		<path d="m 42.25,6.912 2.49,2.487 c 2.24,2.141 3.79,4.181 5.27,6.521" id="path35" />
+		<path d="m 26.22,1.448 c 0.66,1.654 1.32,4.802 1.32,4.802 1.66,2.646 4.96,15.06 8.1,19.02 3.15,3.96 11.91,13.56 11.91,13.56" id="path37" />
+		<path d="m 46.55,23.12 c 0.84,0.99 2.19,2.71 3.46,4.62" id="path39" />
+		<path d="M 4.056,22.79 C 2.508,20.08 1.286,17.84 8.6e-5,15.82" id="path41" />
+		<path d="M 7.364,44.29 C 7.199,43.46 4.056,37.01 3.064,33.53 2.556,31.76 1.315,29.6 8.6e-5,27.64" id="path43" />
+		<path d="M 1.907,11.71 C 9.239,17.72 7.7,28.66 15.3,38.17 c 7.02,8.76 10.09,9.92 10.09,9.92" id="path45" />
+		<path d="m 10.01,5.92 c 0,0 5.45,5.79 7.77,10.42 2.31,4.64 9.59,18.18 13.07,23.15" id="path47" />
+		<path d="m 13.32,26.1 c 2.42,3.08 1.76,3.3 8.81,11.46" id="path49" />
+		<path d="m 22.79,15.84 c 0,0 3.31,8.6 4.63,10.15 1.33,1.53 2.93,4.17 2.93,4.17 2.15,1.65 4.8,8.27 6.61,12.9 1.03,2.61 2.48,5.01 3.87,6.94" id="path51" />
+		<path d="m 48.38,39.66 c 0.58,0.63 1.12,1.25 1.63,1.86" id="path53" />
+		<path d="M 5.545,48.26 C 3.473,46.19 1.942,43.98 8.6e-5,41.64" id="path55" />
+	</g>
+</svg>

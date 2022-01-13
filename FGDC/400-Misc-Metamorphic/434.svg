@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.525" height="19.26">
+	<defs>
+		<path fill="none" id="a" d="M0 0h18.52v19.26H0z"/>
+	</defs>
+	<clipPath id="b">
+		<use xlink:href="#a" overflow="visible"/>
+	</clipPath>
+    <metadata id="metadata2">
+	<rdf:RDF
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:cc="http://creativecommons.org/ns#"
+		xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		xmlns="http://my.netscape.com/rdf/simple/0.9/">
+		<item rdf:ID="biblio1">
+			<link>rdf:resource="http://pubs.usgs.gov/tm/2006/11A02/</link>
+			<title>U.S. Geological Survey, 2006, FGDC Digital Cartographic Standard for Geologic Map Symbolization (PostScript Implementation): U.S. Geological Survey Techniques and Methods 11-A2</title>
+		</item>
+		<item rdf:ID="biblio2">
+			<link>https://davenquinn.com/projects/geologic-patterns/</link>
+			<title>FGDC Geologic Patterns for the Web</title>
+		</item>
+		<rdf:Description>
+			<dc:description>Converted from 'FGDC Geologic Patterns for the Web' to QGIS compatible svg symbols, with customisable fill colour/stroke colour/stroke width (when appropriate)</dc:description>
+			<dc:date>01 MARCH 2019</dc:date>
+			<dc:creator>GeoProc.com</dc:creator>
+			<dc:publisher rdf:resource="https://github.com/BC-Consulting/QGIS-FGDC-Fill" />
+		</rdf:Description>
+		<cc:Work rdf:about="">
+			<dc:format>image/svg+xml</dc:format>
+			<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+			<dc:title>FGDC fill symbol: Misc and Metamorphic - 434</dc:title>
+		</cc:Work>
+	</rdf:RDF>
+	</metadata>
+	<g fill="param(outline) #000" style="stroke:none;stroke-width:0">
+		<circle cx="4.508" cy=".019" r="1.17" clip-path="url(#b)"/>
+		<circle cx="13.942" cy=".019" r="1.17" clip-path="url(#b)"/>
+		<circle cx="0.00" cy="2.557" r="1.17" clip-path="url(#b)"/>
+		<circle cx="18.504" cy="2.557" r="1.17" clip-path="url(#b)"/>
+		<circle cx="0.00" cy="7.258" r="1.17" clip-path="url(#b)"/>
+		<circle cx="4.708" cy="9.696" r="1.17" clip-path="url(#b)"/>
+		<circle cx="9.258" cy="12.133" r="1.17" clip-path="url(#b)"/>
+		<circle cx="6.863" cy="4.733" r="1.17" clip-path="url(#b)"/>
+		<circle cx="11.565" cy="4.733" r="1.17" clip-path="url(#b)"/>
+		<circle cx="13.792" cy="9.696" r="1.17" clip-path="url(#b)"/>
+		<circle cx="18.504" cy="7.258" r="1.17" clip-path="url(#b)"/>
+		<circle cx="9.242" cy="16.835" r="1.17" clip-path="url(#b)"/>
+		<circle cx="13.955" cy="19.273" r="1.17" clip-path="url(#b)"/>
+		<circle cx="16.109" cy="14.311" r="1.17" clip-path="url(#b)"/>
+		<circle cx="2.286" cy="14.311" r="1.17" clip-path="url(#b)"/>
+		<circle cx="4.513" cy="19.273" r="1.17" clip-path="url(#b)"/>
+	</g>
+</svg>

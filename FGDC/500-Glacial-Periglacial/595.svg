@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="50.00" height="50.00" viewBox="0 0 50.00 50.00">
+	<metadata id="metadata2">
+		<rdf:RDF>
+			<ns:item rdf:ID="biblio1">
+				<ns:link>rdf:resource=&quot;http://pubs.usgs.gov/tm/2006/11A02/</ns:link>
+				<ns:title>U.S. Geological Survey, 2006, FGDC Digital Cartographic Standard for Geologic Map Symbolization (PostScript Implementation): U.S. Geological Survey Techniques and Methods 11-A2</ns:title>
+			</ns:item>
+			<ns:item rdf:ID="biblio2">
+				<ns:link>https://davenquinn.com/projects/geologic-patterns/</ns:link>
+				<ns:title>FGDC Geologic Patterns for the Web</ns:title>
+			</ns:item>
+			<rdf:Description>
+				<dc:description>
+					Converted from 'FGDC Geologic Patterns for the Web' to QGIS compatible svg symbols, with customisable fill colour/stroke colour/stroke width (when appropriate).
+					SVG scaled to 50x50 pixels so that base outline-width is 0.387 px and width is 90 in the QGIS xml definition file. 
+					Some of the original FGDC symbols have been omitted from this set because they can be generated from other symbols using the 'texture width' and/or 'stroke width' fields in QGIS symbology form.
+				</dc:description>
+				<dc:date>01 MARCH 2019</dc:date>
+				<dc:creator>GeoProc.com</dc:creator>
+				<dc:publisher rdf:resource="https://github.com/BC-Consulting/QGIS-FGDC-Fill" />
+			</rdf:Description>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:title>FGDC fill symbol: Glacial and Periglacial - 595</dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<path style="fill:none;stroke:none;stroke-width:0;" id="rect1500" width="50.00" height="50.00" x="0.0" y="0.0" />
+	<g fill="param(outline) #000" stroke="param(outline) #000" stroke-width="0.4">
+		<circle cx="1.9665778" cy="45.788326" r="0.59" id="circle5" />
+		<circle cx="2.4218938" cy="32.012592" r="0.59" id="circle7" />
+		<circle cx="3.0515864" cy="17.662872" r="0.59" id="circle9" />
+		<circle cx="4.5410509" cy="38.370064" r="0.59" id="circle11" />
+		<circle cx="25.984499" cy="45.890045" r="0.59" id="circle13" />
+		<circle cx="27.195446" cy="12.286269" r="0.59" id="circle15" />
+		<circle cx="27.650763" cy="26.413174" r="0.59" id="circle17" />
+		<circle cx="27.80092" cy="38.624363" r="0.59" id="circle19" />
+		<circle cx="30.273674" cy="31.460402" r="0.59" id="circle21" />
+		<circle cx="32.644707" cy="17.735531" r="0.59" id="circle23" />
+		<circle cx="33.40276" cy="44.6791" r="0.51441026" id="circle25" />
+		<circle cx="35.369339" cy="35.596996" r="0.59" id="circle27" />
+		<circle cx="35.369339" cy="25.909422" r="0.59" id="circle29" />
+		<circle cx="36.933884" cy="3.7079191" r="0.59" id="circle31" />
+		<circle cx="39.002178" cy="13.799953" r="0.59" id="circle33" />
+		<circle cx="39.80867" cy="8.399128" r="0.59" id="circle35" />
+		<circle cx="44.451443" cy="31.964155" r="0.59" id="circle37" />
+		<circle cx="45.056915" cy="13.497216" r="0.59" id="circle39" />
+		<circle cx="45.260353" cy="3.2526038" r="0.59" id="circle41" />
+		<circle cx="48.842335" cy="36.807945" r="0.59" id="circle43" />
+		<circle cx="10.847663" cy="35.294262" r="0.59" id="circle45" />
+		<circle cx="12.513926" cy="14.100266" r="0.59" id="circle47" />
+		<circle cx="12.96682" cy="21.063211" r="0.59" id="circle49" />
+		<circle cx="13.521434" cy="4.6161294" r="0.59" id="circle51" />
+		<circle cx="14.480504" cy="29.844999" r="0.59" id="circle53" />
+		<circle cx="18.416082" cy="24.698475" r="0.59" id="circle55" />
+		<circle cx="19.375151" cy="7.643497" r="0.59" id="circle57" />
+		<circle cx="20.990555" cy="15.514652" r="0.59" id="circle59" />
+		<circle cx="22.201502" cy="32.467911" r="0.59" id="circle61" />
+		<path d="M0.00989083 10.192119C0.30856172 10.138389 0.53770078 9.8776454 0.53770078 9.5631718C0.53770078 9.2486982 0.30856172 8.9863735 0.00989083 8.9326443" id="path63" />
+		<path d="M37.660197 0.02159698C37.653997 0.05736138 37.649317 0.09468068 37.649317 0.13355498C37.649317 0.48186875 37.932322 0.76176371 38.279081 0.76176371C38.627395 0.76176371 38.908845 0.48031377 38.908845 0.13355498C38.908845 0.09468068 38.904145 0.05736138 38.897965 0.02159698" id="path65" />
+		<path d="M38.900374 49.978777C38.906574 49.943017 38.911254 49.905697 38.911254 49.86682C38.911254 49.52006 38.628249 49.237056 38.28149 49.237056C37.933176 49.237056 37.651726 49.521615 37.651726 49.86682C37.651726 49.9057 37.656426 49.94301 37.662606 49.978777" id="path67" />
+		<path d="M49.978296 8.9548298C49.940936 8.9485998 49.905136 8.9454898 49.866222 8.9454898C49.517549 8.9454898 49.237365 9.2287869 49.237365 9.5759038C49.237365 9.9245772 49.519105 10.20476 49.866222 10.20476C49.905142 10.20476 49.942492 10.20166 49.978296 10.19546" id="path69" />
+		<path d="M8.9840987 49.972399C8.9856487 49.947519 8.9887687 49.924189 8.9887687 49.896209C8.9887687 49.54945 8.7057638 49.268 8.359005 49.268C8.0106913 49.268 7.7292413 49.551005 7.7292413 49.896209C7.7292413 49.924199 7.7307913 49.947519 7.7354613 49.972399" id="path71" />
+		<path d="M9.0019461 0.01493733C8.9643141 0.33167771 8.6961819 0.57472109 8.3716014 0.57472109C8.0470209 0.57472109 7.7788892 0.33167771 7.7428247 0.01493733" id="path73" />
+		<path d="M17.679573 0.02159697C17.673373 0.05736137 17.668693 0.09468067 17.668693 0.13355497C17.668693 0.48031377 17.951698 0.76176371 18.298457 0.76176371C18.646771 0.76176371 18.928221 0.4787588 18.928221 0.13355497C18.928221 0.09468067 18.923521 0.05736137 18.917341 0.02159697" id="path75" />
+		<path d="M17.703217 49.931933C17.772027 49.648702 18.028052 49.435879 18.333685 49.435879C18.637718 49.435879 18.895346 49.648702 18.962552 49.933533" id="path77" />
+		<g style="fill:none;">
+			<polygon points="2.7706466216,3.911359083 2.4679098841,8.149673408 5.4952772591,11.177040783 10.0363283216,9.966093833 9.7335915841,3.305885608" id="polygon79" />
+			<polygon points="24.8147248994,16.7449748591 21.5451681344,19.7432795073 23.7224507505,23.0128362723 27.8106076537,22.7391622616 28.9004599087,19.4696054966" id="polygon81" />
+			<polygon points="33.0176795387,7.8953745485 32.7149428012,3.354323486 29.3848386887,2.4461132735 26.3574713137,5.4734806485 27.8711550012,9.409058236" id="polygon83" />
+			<polygon points="37.4884956781,40.9953984798 38.9513195937,44.8292565235 43.9985464813,46.4446597548 45.3596508531,40.0871882673 40.8185997906,38.8762413173" id="polygon85" />
+			<polygon points="43.9186239826,20.0339067753 39.0748361826,19.7311700378 38.9513195937,25.6551225172 42.7076770326,27.6023252128 45.1295709326,23.0612741503" id="polygon87" />
+			<polygon points="5.7519980125,25.708404183 7.6701379813,28.8859289798 11.3029788313,27.8759992235 13.0176797125,25.102930708 8.1738919125,22.681036808" id="polygon89" />
+			<polygon points="20.2760957308,42.8190845865 20.2373454284,37.6434973222 14.3472994636,36.6650521866 11.3659480727,40.7289901508 15.1901185408,44.7711310699" id="polygon91" />
+		</g>
+	</g>
+</svg>

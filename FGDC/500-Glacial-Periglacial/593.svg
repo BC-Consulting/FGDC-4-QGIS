@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve" x="0px" y="0px" width="10.027" height="9.9110003" viewBox="0 0 10.027 9.911">
+	<metadata id="metadata2">
+		<rdf:RDF>
+			<ns:item rdf:ID="biblio1">
+				<ns:link>rdf:resource=&quot;http://pubs.usgs.gov/tm/2006/11A02/</ns:link>
+				<ns:title>U.S. Geological Survey, 2006, FGDC Digital Cartographic Standard for Geologic Map Symbolization (PostScript Implementation): U.S. Geological Survey Techniques and Methods 11-A2</ns:title>
+			</ns:item>
+			<ns:item rdf:ID="biblio2">
+				<ns:link>https://davenquinn.com/projects/geologic-patterns/</ns:link>
+				<ns:title>FGDC Geologic Patterns for the Web</ns:title>
+			</ns:item>
+			<rdf:Description>
+				<dc:description>
+					Converted from 'FGDC Geologic Patterns for the Web' to QGIS compatible svg symbols, with customisable fill colour/stroke colour/stroke width (when appropriate).
+					SVG scaled to 50x50 pixels so that base outline-width is 0.387 px and width is 90 in the QGIS xml definition file. 
+					Some of the original FGDC symbols have been omitted from this set because they can be generated from other symbols using the 'texture width' and/or 'stroke width' fields in QGIS symbology form.
+				</dc:description>
+				<dc:date>01 MARCH 2019</dc:date>
+				<dc:creator>GeoProc.com</dc:creator>
+				<dc:publisher rdf:resource="https://github.com/BC-Consulting/QGIS-FGDC-Fill" />
+			</rdf:Description>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:title>FGDC fill symbol: Glacial and Periglacial - 592</dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<rect style="fill:none;stroke:none;stroke-width:0;" x="0px" y="0px" width="10.027" height="9.9110003" />
+	<g style="stroke:none;stroke-width:0;" fill="param(outline) #000">
+		<path id="path860" d="M 2.6933581,9.9110001 H 2.5097643 2.3144518 C 2.3139307,9.6014671 2.3839476,9.2950368 2.5124686,9.0085198 2.9123585,8.1170292 3.878643,7.4183283 5.0488269,7.4188133 6.5950971,7.4194543 7.7154936,8.6128238 7.7128893,9.9070941 H 7.3339831 C 7.3196602,8.74173 6.312361,7.8129622 5.0410144,7.8055321 3.7696677,7.7981019 2.7209614,8.7719718 2.6933581,9.9110001 Z" />
+		<path id="path869" d="m 2.6933575,4.9636178 h -0.183593 -0.195313 c -5.21e-4,-0.309533 0.0695,-0.6159633 0.198017,-0.9024803 0.39989,-0.8914906 1.366174,-1.5901915 2.536358,-1.5897065 1.54627,6.41e-4 2.666667,1.1940105 2.664063,2.4882808 h -0.378907 c -0.014322,-1.1653641 -1.021622,-2.0941319 -2.292968,-2.101562 -1.271347,-0.00743 -2.320053,0.9664397 -2.347657,2.105468 z" />
+		<path id="path871" d="M 2.5390562,1.5696321e-5 C 1.3688724,-4.6930368e-4 0.40379,0.6983689 0.0039,1.5898595 L 0,2.4922032 H 0.183593 C 0.211203,1.3531749 1.259903,0.3793045 2.5312498,0.3867345 3.8025963,0.3941645 4.8098955,1.3229329 4.8242185,2.488297 H 5.2031248 C 5.2174478,1.3229329 6.2247469,0.3941646 7.4960935,0.3867345 8.7674402,0.3793045 9.8161464,1.3531749 9.8437496,2.4922032 h 0.1835934 l -0.002,-0.9023437 C 9.6254945,0.6983689 8.6584589,-4.6930368e-4 7.488275,1.5696321e-5 6.3171411,5.0119632e-4 5.3952696,0.6855761 5.0156188,1.5800939 4.636116,0.6853038 3.7104328,5.0129632e-4 2.5390562,1.5696321e-5 Z" />
+		<path id="path876" d="M 2.5390562,4.9500157 C 1.3688724,4.9495307 0.40379,5.6483689 0.0039,6.5398595 L 0,7.4422032 H 0.183593 C 0.211203,6.3031749 1.259903,5.3293045 2.5312498,5.3367345 3.8025963,5.3441645 4.8098955,6.2729329 4.8242185,7.438297 H 5.2031248 C 5.2174478,6.2729329 6.2247469,5.3441646 7.4960935,5.3367345 8.7674402,5.3293045 9.8161464,6.3031749 9.8437496,7.4422032 h 0.1835934 l -0.002,-0.9023437 C 9.6254945,5.6483689 8.6584589,4.9495307 7.488275,4.9500157 6.3171411,4.9505012 5.3952696,5.6355761 5.0156188,6.5300939 4.636116,5.6353038 3.7104328,4.9505013 2.5390562,4.9500157 Z" />
+		<path id="path878" d="M 10.041014,7.8016265 C 8.7696677,7.7941965 7.7404926,8.7680662 7.7128893,9.9070941 H 7.5292955 7.333983 C 7.3334619,9.5975611 7.403479,9.2911312 7.5319998,9.0046142 7.9318897,8.1131236 8.8708303,7.4183289 10.041014,7.4188139" />
+		<path id="path880" d="M 0.00195185,7.4266255 C 1.548222,7.4272665 2.6959623,8.6167298 2.693358,9.9110001 H 2.3144518 C 2.3001289,8.745636 1.2732984,7.8168682 0.00195185,7.8094381" />
+		<path id="path882" d="M 0.00195185,2.4766255 C 1.548222,2.4772665 2.6959623,3.6667298 2.693358,4.9610001 H 2.3144518 C 2.3001289,3.795636 1.2732984,2.8668682 0.00195185,2.8594381" />
+		<path id="path884" d="M 10.041014,2.8516265 C 8.7696677,2.8441965 7.7404926,3.8180662 7.7128893,4.9570941 H 7.5292955 7.333983 C 7.3334619,4.6475611 7.403479,4.3411312 7.5319998,4.0546142 7.9318897,3.1631236 8.8708303,2.4683289 10.041014,2.4688139" />
+	</g>
+</svg>

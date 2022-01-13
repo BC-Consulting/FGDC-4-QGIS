@@ -1,0 +1,447 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="1">
+  <symbols>
+    <symbol type="fill" name="521" tags="500-Glacial-Periglacial" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.387" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/500-Glacial-Periglacial/521.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="200" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@521@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="522" tags="500-Glacial-Periglacial" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.387" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/500-Glacial-Periglacial/522.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="40" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@522@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="523" tags="500-Glacial-Periglacial" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.387" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/500-Glacial-Periglacial/523.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@523@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="524" tags="500-Glacial-Periglacial" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.387" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/500-Glacial-Periglacial/524.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@524@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="591" tags="500-Glacial-Periglacial" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.387" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/500-Glacial-Periglacial/591.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="90" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@591@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="592" tags="500-Glacial-Periglacial" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.387" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/500-Glacial-Periglacial/592.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="20" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@592@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="593" tags="500-Glacial-Periglacial" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.387" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/500-Glacial-Periglacial/593.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="20" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@593@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="594" tags="500-Glacial-Periglacial" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.387" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/500-Glacial-Periglacial/594.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="50" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@594@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol type="fill" name="595" tags="500-Glacial-Periglacial" clip_to_extent="1" alpha="1">
+      <layer enabled="1" locked="0" class="SVGFill" pass="0">
+        <prop v="0" k="angle"/>
+        <prop v="0,0,0,255" k="color"/>
+        <prop v="0,0,0,255" k="outline_color"/>
+        <prop v="0.387" k="outline_width"/>
+        <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="outline_width_unit"/>
+        <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
+        <prop v="Pixel" k="pattern_width_unit"/>
+        <prop v="FGDC/500-Glacial-Periglacial/595.svg" k="svgFile"/>
+        <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
+        <prop v="Pixel" k="svg_outline_width_unit"/>
+        <prop v="60" k="width"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+        <symbol type="line" name="@595@0" clip_to_extent="1" alpha="1">
+          <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+            <prop v="square" k="capstyle"/>
+            <prop v="5;2" k="customdash"/>
+            <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+            <prop v="Pixel" k="customdash_unit"/>
+            <prop v="0" k="draw_inside_polygon"/>
+            <prop v="bevel" k="joinstyle"/>
+            <prop v="0,0,0,255" k="line_color"/>
+            <prop v="no" k="line_style"/>
+            <prop v="0.01" k="line_width"/>
+            <prop v="Pixel" k="line_width_unit"/>
+            <prop v="0" k="offset"/>
+            <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+            <prop v="Pixel" k="offset_unit"/>
+            <prop v="0" k="use_custom_dash"/>
+            <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option type="QString" name="name" value=""/>
+                <Option name="properties"/>
+                <Option type="QString" name="type" value="collection"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+</qgis_style>
