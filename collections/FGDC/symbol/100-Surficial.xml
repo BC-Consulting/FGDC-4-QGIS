@@ -11,7 +11,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/101.svg" k="svgFile"/>
+        <prop v="../svg/101.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -60,7 +60,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/102.svg" k="svgFile"/>
+        <prop v="../svg/102.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -109,7 +109,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/103.svg" k="svgFile"/>
+        <prop v="../svg/103.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -158,7 +158,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/104.svg" k="svgFile"/>
+        <prop v="../svg/104.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -207,7 +207,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/105.svg" k="svgFile"/>
+        <prop v="../svg/105.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -256,7 +256,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/106.svg" k="svgFile"/>
+        <prop v="../svg/106.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -305,7 +305,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/114.svg" k="svgFile"/>
+        <prop v="../svg/114.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="150" k="width"/>
@@ -354,7 +354,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/116.svg" k="svgFile"/>
+        <prop v="../svg/116.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -403,7 +403,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/117.svg" k="svgFile"/>
+        <prop v="../svg/117.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -452,7 +452,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/118.svg" k="svgFile"/>
+        <prop v="../svg/118.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -501,7 +501,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/119.svg" k="svgFile"/>
+        <prop v="../svg/119.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -550,7 +550,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/120.svg" k="svgFile"/>
+        <prop v="../svg/120.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -599,7 +599,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/121.svg" k="svgFile"/>
+        <prop v="../svg/121.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -648,7 +648,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/122.svg" k="svgFile"/>
+        <prop v="../svg/122.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="150" k="width"/>
@@ -697,7 +697,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/123.svg" k="svgFile"/>
+        <prop v="../svg/123.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -746,7 +746,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/124.svg" k="svgFile"/>
+        <prop v="../svg/124.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="110" k="width"/>
@@ -795,7 +795,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/132.svg" k="svgFile"/>
+        <prop v="../svg/132.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -844,7 +844,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/134.svg" k="svgFile"/>
+        <prop v="../svg/134.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="150" k="width"/>
@@ -893,7 +893,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/135.svg" k="svgFile"/>
+        <prop v="../svg/135.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -942,7 +942,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/136.svg" k="svgFile"/>
+        <prop v="../svg/136.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -991,7 +991,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/svg/137.svg" k="svgFile"/>
+        <prop v="../svg/137.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
