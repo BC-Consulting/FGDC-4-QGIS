@@ -11,7 +11,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/601-GravelOrConglomerate_1stOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/601-GravelOrConglomerate_1stOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -60,7 +60,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/602-GravelOrConglomerate_2ndOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/602-GravelOrConglomerate_2ndOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -109,7 +109,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/603-CrossbeddedGravelOrConglomerate.svg" k="svgFile"/>
+        <prop v="FGDC/svg/603-CrossbeddedGravelOrConglomerate.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -158,7 +158,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/605-Breccia_1stOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/605-Breccia_1stOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -207,7 +207,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/606-Breccia_2ndOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/606-Breccia_2ndOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -256,7 +256,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/607-MassiveSandOrSandstone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/607-MassiveSandOrSandstone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -305,7 +305,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/608-BeddedSandOrSandstone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/608-BeddedSandOrSandstone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -354,7 +354,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/609-CrossbeddedSandOrSandstone_1stOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/609-CrossbeddedSandOrSandstone_1stOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -403,7 +403,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/610-CrossbeddedSandOrSandstone_2ndOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/610-CrossbeddedSandOrSandstone_2ndOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -452,7 +452,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/611-Ripple-BeddedSandOrSandstone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/611-Ripple-BeddedSandOrSandstone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -501,7 +501,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/612-ArgillaceousOrShalySandstone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/612-ArgillaceousOrShalySandstone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -550,7 +550,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/613-CalcareousSandstone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/613-CalcareousSandstone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -599,7 +599,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/614-DolomiticSandstone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/614-DolomiticSandstone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -648,7 +648,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/616-Silt,Siltstone,OrShalySilt.svg" k="svgFile"/>
+        <prop v="FGDC/svg/616-Silt,Siltstone,OrShalySilt.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -697,7 +697,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/617-CalcareousSiltstone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/617-CalcareousSiltstone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -746,7 +746,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/618-DolomiticSiltstone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/618-DolomiticSiltstone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -795,7 +795,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/619-SandyOrSiltyShale.svg" k="svgFile"/>
+        <prop v="FGDC/svg/619-SandyOrSiltyShale.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -844,7 +844,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/620-ClayOrClayShale.svg" k="svgFile"/>
+        <prop v="FGDC/svg/620-ClayOrClayShale.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -893,7 +893,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/621-ChertyShale.svg" k="svgFile"/>
+        <prop v="FGDC/svg/621-ChertyShale.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -942,7 +942,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/622-DolomiticShale.svg" k="svgFile"/>
+        <prop v="FGDC/svg/622-DolomiticShale.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -991,7 +991,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/623-CalcareousShaleOrMarl.svg" k="svgFile"/>
+        <prop v="FGDC/svg/623-CalcareousShaleOrMarl.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1040,7 +1040,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/624-CarbonaceousShale.svg" k="svgFile"/>
+        <prop v="FGDC/svg/624-CarbonaceousShale.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1089,7 +1089,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/625-OilShale.svg" k="svgFile"/>
+        <prop v="FGDC/svg/625-OilShale.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1138,7 +1138,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/626-Chalk.svg" k="svgFile"/>
+        <prop v="FGDC/svg/626-Chalk.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1187,7 +1187,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/627-Limestone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/627-Limestone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1236,7 +1236,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/628-ClasticLimestone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/628-ClasticLimestone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1285,7 +1285,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/629-FossiliferousClasticLimestone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/629-FossiliferousClasticLimestone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1334,7 +1334,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/630-NodularOrIrregularlyBeddedLimestone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/630-NodularOrIrregularlyBeddedLimestone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1383,7 +1383,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/631-LimestoneIrregular_BurrowFillingsSaccharoidalDolomite.svg" k="svgFile"/>
+        <prop v="FGDC/svg/631-LimestoneIrregular_BurrowFillingsSaccharoidalDolomite.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1432,7 +1432,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/632-CrossbeddedLimestone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/632-CrossbeddedLimestone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1481,7 +1481,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/633-ChertyCrossbeddedLimestone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/633-ChertyCrossbeddedLimestone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1530,7 +1530,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/634-ChertyAndSandyCrossbeddedClasticLimestone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/634-ChertyAndSandyCrossbeddedClasticLimestone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1579,7 +1579,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/635-OoliticLimestone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/635-OoliticLimestone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1628,7 +1628,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/636-SandyLimestone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/636-SandyLimestone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1677,7 +1677,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/637-SiltyLimestone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/637-SiltyLimestone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1726,7 +1726,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/638-ArgillaceousOrShalyLimestone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/638-ArgillaceousOrShalyLimestone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1775,7 +1775,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/639-ChertyLimestone_1stOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/639-ChertyLimestone_1stOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1824,7 +1824,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/640-ChertyLimestone_2ndOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/640-ChertyLimestone_2ndOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1873,7 +1873,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/641-DolomiticLimestone,LimyDolostone,OrLimyDolomite.svg" k="svgFile"/>
+        <prop v="FGDC/svg/641-DolomiticLimestone,LimyDolostone,OrLimyDolomite.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1922,7 +1922,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/642-DolostoneOrDolomite.svg" k="svgFile"/>
+        <prop v="FGDC/svg/642-DolostoneOrDolomite.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1971,7 +1971,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/643-CrossbeddedDolostoneOrDolomite.svg" k="svgFile"/>
+        <prop v="FGDC/svg/643-CrossbeddedDolostoneOrDolomite.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2020,7 +2020,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/644-OoliticDolostoneOrDolomite.svg" k="svgFile"/>
+        <prop v="FGDC/svg/644-OoliticDolostoneOrDolomite.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2069,7 +2069,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/645-SandyDolostoneOrDolomite.svg" k="svgFile"/>
+        <prop v="FGDC/svg/645-SandyDolostoneOrDolomite.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2118,7 +2118,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/646-SiltyDolostoneOrDolomite.svg" k="svgFile"/>
+        <prop v="FGDC/svg/646-SiltyDolostoneOrDolomite.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2167,7 +2167,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/647-ArgillaceousOrShalyDolostoneOrDolomite.svg" k="svgFile"/>
+        <prop v="FGDC/svg/647-ArgillaceousOrShalyDolostoneOrDolomite.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2216,7 +2216,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/648-ChertyDolostoneOrDolomite.svg" k="svgFile"/>
+        <prop v="FGDC/svg/648-ChertyDolostoneOrDolomite.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2265,7 +2265,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/649-BeddedChert_1stOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/649-BeddedChert_1stOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2314,7 +2314,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/650-BeddedChert_2ndOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/650-BeddedChert_2ndOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2363,7 +2363,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/651-FossiliferousBeddedChert.svg" k="svgFile"/>
+        <prop v="FGDC/svg/651-FossiliferousBeddedChert.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2412,7 +2412,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/652-FossiliferousRock.svg" k="svgFile"/>
+        <prop v="FGDC/svg/652-FossiliferousRock.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2461,7 +2461,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/653-DiatomaceousRock.svg" k="svgFile"/>
+        <prop v="FGDC/svg/653-DiatomaceousRock.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2510,7 +2510,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/654-Subgraywacke.svg" k="svgFile"/>
+        <prop v="FGDC/svg/654-Subgraywacke.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2559,7 +2559,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/655-CrossbeddedSubgraywacke.svg" k="svgFile"/>
+        <prop v="FGDC/svg/655-CrossbeddedSubgraywacke.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2608,7 +2608,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/656-Ripple-BeddedSubgraywacke.svg" k="svgFile"/>
+        <prop v="FGDC/svg/656-Ripple-BeddedSubgraywacke.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2657,7 +2657,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/657-Peat.svg" k="svgFile"/>
+        <prop v="FGDC/svg/657-Peat.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2706,7 +2706,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/658-Coal.svg" k="svgFile"/>
+        <prop v="FGDC/svg/658-Coal.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2755,7 +2755,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/659-BonyCoalOrImpureCoal.svg" k="svgFile"/>
+        <prop v="FGDC/svg/659-BonyCoalOrImpureCoal.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2804,7 +2804,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/660-Underclay.svg" k="svgFile"/>
+        <prop v="FGDC/svg/660-Underclay.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2853,7 +2853,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/661-FlintClay.svg" k="svgFile"/>
+        <prop v="FGDC/svg/661-FlintClay.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2902,7 +2902,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/662-Bentonite.svg" k="svgFile"/>
+        <prop v="FGDC/svg/662-Bentonite.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -2951,7 +2951,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/663-Glauconite.svg" k="svgFile"/>
+        <prop v="FGDC/svg/663-Glauconite.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3000,7 +3000,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/664-Limonite.svg" k="svgFile"/>
+        <prop v="FGDC/svg/664-Limonite.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3049,7 +3049,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/665-Siderite.svg" k="svgFile"/>
+        <prop v="FGDC/svg/665-Siderite.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3098,7 +3098,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/666-Phosphatic-NodularRock.svg" k="svgFile"/>
+        <prop v="FGDC/svg/666-Phosphatic-NodularRock.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3147,7 +3147,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/667-Gypsum.svg" k="svgFile"/>
+        <prop v="FGDC/svg/667-Gypsum.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3196,7 +3196,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/668-Salt.svg" k="svgFile"/>
+        <prop v="FGDC/svg/668-Salt.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3245,7 +3245,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/669-InterbeddedSandstoneAndSiltstone.svg" k="svgFile"/>
+        <prop v="FGDC/svg/669-InterbeddedSandstoneAndSiltstone.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3294,7 +3294,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/670-InterbeddedSandstoneAndShale.svg" k="svgFile"/>
+        <prop v="FGDC/svg/670-InterbeddedSandstoneAndShale.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3343,7 +3343,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/671-InterbeddedRipplebeddedSandstoneAndShale.svg" k="svgFile"/>
+        <prop v="FGDC/svg/671-InterbeddedRipplebeddedSandstoneAndShale.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3392,7 +3392,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/672-InterbeddedShaleAndSiltyLimestone_ShaleDominant.svg" k="svgFile"/>
+        <prop v="FGDC/svg/672-InterbeddedShaleAndSiltyLimestone_ShaleDominant.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3441,7 +3441,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/673-InterbeddedShaleAndLimestone_ShaleDominant_1stOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/673-InterbeddedShaleAndLimestone_ShaleDominant_1stOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3490,7 +3490,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/674-InterbeddedShaleAndLimestone_ShaleDominant_2ndOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/674-InterbeddedShaleAndLimestone_ShaleDominant_2ndOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3539,7 +3539,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/675-InterbeddedCalcareousShaleAndLimestone_ShaleDominant.svg" k="svgFile"/>
+        <prop v="FGDC/svg/675-InterbeddedCalcareousShaleAndLimestone_ShaleDominant.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3588,7 +3588,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/676-InterbeddedSiltyLimestoneAndShale.svg" k="svgFile"/>
+        <prop v="FGDC/svg/676-InterbeddedSiltyLimestoneAndShale.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3637,7 +3637,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/677-InterbeddedLimestoneAndShale_1stOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/677-InterbeddedLimestoneAndShale_1stOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3686,7 +3686,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/678-InterbeddedLimestoneAndShale_2ndOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/678-InterbeddedLimestoneAndShale_2ndOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3735,7 +3735,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/679-InterbeddedLimestoneAndShale_LimestoneDominant.svg" k="svgFile"/>
+        <prop v="FGDC/svg/679-InterbeddedLimestoneAndShale_LimestoneDominant.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3784,7 +3784,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/680-InterbeddedLimestoneAndCalcareousShale.svg" k="svgFile"/>
+        <prop v="FGDC/svg/680-InterbeddedLimestoneAndCalcareousShale.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3833,7 +3833,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/681-TillOrDiamicton_1stOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/681-TillOrDiamicton_1stOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3882,7 +3882,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/682-TillOrDiamicton_2ndOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/682-TillOrDiamicton_2ndOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3931,7 +3931,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/683-TillOrDiamicton_3rdOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/683-TillOrDiamicton_3rdOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -3980,7 +3980,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/684-Loess_1stOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/684-Loess_1stOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -4029,7 +4029,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/685-Loess_2ndOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/685-Loess_2ndOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -4078,7 +4078,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/600-LithoSed/686-Loess_3rdOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/686-Loess_3rdOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
