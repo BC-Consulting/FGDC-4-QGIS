@@ -11,7 +11,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/701-Metamorphism.svg" k="svgFile"/>
+        <prop v="FGDC/svg/701-Metamorphism.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -60,7 +60,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/702-Quartzite.svg" k="svgFile"/>
+        <prop v="FGDC/svg/702-Quartzite.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -109,7 +109,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/703-Slate.svg" k="svgFile"/>
+        <prop v="FGDC/svg/703-Slate.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -158,7 +158,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/704-SchistoseOrGneissoidGranite.svg" k="svgFile"/>
+        <prop v="FGDC/svg/704-SchistoseOrGneissoidGranite.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -207,7 +207,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/705-Schist.svg" k="svgFile"/>
+        <prop v="FGDC/svg/705-Schist.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -256,7 +256,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/706-ContortedSchist.svg" k="svgFile"/>
+        <prop v="FGDC/svg/706-ContortedSchist.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -305,7 +305,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/707-SchistAndGneiss.svg" k="svgFile"/>
+        <prop v="FGDC/svg/707-SchistAndGneiss.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -354,7 +354,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/708-Gneiss.svg" k="svgFile"/>
+        <prop v="FGDC/svg/708-Gneiss.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -403,7 +403,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/709-ContortedGneiss.svg" k="svgFile"/>
+        <prop v="FGDC/svg/709-ContortedGneiss.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -452,7 +452,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/710-Soapstone,Talc,OrSerpentinite.svg" k="svgFile"/>
+        <prop v="FGDC/svg/710-Soapstone,Talc,OrSerpentinite.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -501,7 +501,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/711-TuffaceousRock.svg" k="svgFile"/>
+        <prop v="FGDC/svg/711-TuffaceousRock.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -550,7 +550,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/712-CrystalTuff.svg" k="svgFile"/>
+        <prop v="FGDC/svg/712-CrystalTuff.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -599,7 +599,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/713-DevitrifiedTuff.svg" k="svgFile"/>
+        <prop v="FGDC/svg/713-DevitrifiedTuff.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -648,7 +648,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/714-VolcanicBrecciaAndTuff.svg" k="svgFile"/>
+        <prop v="FGDC/svg/714-VolcanicBrecciaAndTuff.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -697,7 +697,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/715-VolcanicBrecciaOrAgglomerate.svg" k="svgFile"/>
+        <prop v="FGDC/svg/715-VolcanicBrecciaOrAgglomerate.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -746,7 +746,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/716-ZeoliticRock.svg" k="svgFile"/>
+        <prop v="FGDC/svg/716-ZeoliticRock.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -795,7 +795,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/717-BasalticFlows.svg" k="svgFile"/>
+        <prop v="FGDC/svg/717-BasalticFlows.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -844,7 +844,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/719-Granite_2ndOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/719-Granite_2ndOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -893,7 +893,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/720-BandedIgneousRock.svg" k="svgFile"/>
+        <prop v="FGDC/svg/720-BandedIgneousRock.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -942,7 +942,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/721-IgneousRock_1stOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/721-IgneousRock_1stOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -991,7 +991,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/722-IgneousRock_2ndOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/722-IgneousRock_2ndOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1040,7 +1040,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/723-IgneousRock_3rdOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/723-IgneousRock_3rdOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1089,7 +1089,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/724-IgneousRock_4thOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/724-IgneousRock_4thOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1138,7 +1138,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/725-IgneousRock_5thOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/725-IgneousRock_5thOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1187,7 +1187,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/726-IgneousRock_6thOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/726-IgneousRock_6thOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1236,7 +1236,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/727-IgneousRock_7thOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/727-IgneousRock_7thOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1285,7 +1285,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/728-IgneousRock_8thOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/728-IgneousRock_8thOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1334,7 +1334,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/729-PorphyriticRock_1stOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/729-PorphyriticRock_1stOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1383,7 +1383,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/730-PorphyriticRock_2ndOption.svg" k="svgFile"/>
+        <prop v="FGDC/svg/730-PorphyriticRock_2ndOption.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1432,7 +1432,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/731-Vitrophyre.svg" k="svgFile"/>
+        <prop v="FGDC/svg/731-Vitrophyre.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1481,7 +1481,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/732-Quartz.svg" k="svgFile"/>
+        <prop v="FGDC/svg/732-Quartz.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
@@ -1530,7 +1530,7 @@
         <prop v="Pixel" k="outline_width_unit"/>
         <prop v="3x:0,0,0,0,0,0" k="pattern_width_map_unit_scale"/>
         <prop v="Pixel" k="pattern_width_unit"/>
-        <prop v="FGDC/700-LithoMetaIgneousVein/733-Ore.svg" k="svgFile"/>
+        <prop v="FGDC/svg/733-Ore.svg" k="svgFile"/>
         <prop v="3x:0,0,0,0,0,0" k="svg_outline_width_map_unit_scale"/>
         <prop v="Pixel" k="svg_outline_width_unit"/>
         <prop v="90" k="width"/>
